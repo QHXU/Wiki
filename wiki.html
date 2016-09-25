@@ -47,8 +47,8 @@ var partition = d3.layout.partition()
 var selectedDim = [];
 var dataPath = ["wiki4HE"];
 
-function loadDimension(newDataPath) {
-	  ndataPath = "./data/"+newDataPath+".csv";
+function loadDimension(DataPath) {
+	  ndataPath = "./data/"+DataPath+".csv";
 		var nav_canvas =d3.csv(ndataPath, function(error, data) 
 		{
 		headerNames = d3.keys(data[0]);
@@ -72,9 +72,9 @@ function loadDimension(newDataPath) {
 
 	}
 
-function loadData(newDataPath) 
+function loadData(DataPath) 
 	{
-	  ndataPath = "./data/"+newDataPath+".csv";
+	  ndataPath = "./data/"+DataPath+".csv";
 		var nav_canvas =d3.csv(ndataPath, function(error, data) 
 		{
 		headerNames = d3.keys(data[0]);
