@@ -46,7 +46,9 @@ var selectedDim = [];
 var dataPath = ["wiki4HE"];
 
 function loadDimension(DataPath) 
-	{var nav_canvas = d3.csv(dataPath, function(error, data) 
+	{
+		dataPath = "./data/"+DataPath+".csv";
+		var nav_canvas = d3.csv(dataPath, function(error, data) 
 		{
 			headerNames = d3.keys(data[0]);
 			datasource = data;
