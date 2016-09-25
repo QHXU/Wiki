@@ -1,0 +1,914 @@
+Easier for stu develop new skills,Improve stu's learning,Useful for teaching,User-friendly,Easy to find info,Easy to add or edit info,Stimulates curiosity,Entertaining,Reliable,Updated,Comprehensive,lower quality,Trust in editing system of wiki,Improves visibility of stu's work,Easy to have records,Cite wiki,Well considered among colleagues,Sharing open edu resources is appreciated,Colleagues use wiki,Important to share in open platform,Important to publish in other media than academic journals or books,Important to be familiar with online collaborative enviroment,Use wiki develop teaching materials,Use wiki develop edu activities with stu,Recommend stu to use wiki,Recommend Colleague,Agree stu use wiki,Contibute to blogs,actively participate in social networks,publish academic content in open platform,Promotes use of open collavorative encironments in Internet,Consider as teaching merits,Future recommend to stu and colleagues,Future will use in teaching,Inc1-best practices guide,Inc2-instruction from a colleague,Inc3-specific training,Inc4-greater institutional recognition,Exp1-consult academic issues in my area,Exp2-consult other academic issues,Exp3-consult for personal issues,Exp4-contribute to wiki,Exp5-use wiki to work with stu,UserID,Age(bin),YearsExp(bin),Trans_Domain,Trans_Gender,Trans_University,Trans_UOC_Position,Trans_PhD,Trans_Other_Position,Trans_Use_wiki
+4,4,3,5,5,3,4,4,3,3,2,2,3,3,3,1,2,4,2,4,4,4,3,1,1,2,4,1,1,3,4,1,2,3,5,5,5,5,4,4,4,1,2,U1,30~40,10~20,Sciences,Male,UOC,Associate,PhD,Unknown,No
+2,3,3,4,4,3,3,4,4,4,3,3,2,3,3,1,1,2,1,4,4,4,2,2,1,1,2,1,1,1,4,3,2,2,4,4,3,4,2,2,4,2,4,U2,40~50,10~20,Law & Politics,Male,UOC,Associate,PhD,Unknown,No
+2,2,2,4,4,3,3,3,2,2,2,5,3,2,3,2,2,4,3,4,2,4,1,1,1,1,1,3,3,3,4,3,1,1,5,3,5,5,2,2,2,1,3,U3,30~40,10~20,Engineering & Architecture,Male,UOC,Assistant,PhD,Unknown,No
+3,3,4,3,3,3,4,3,3,4,3,3,3,3,4,3,2,2,3,5,5,5,3,3,3,3,3,4,4,4,5,4,3,3,3,4,4,3,4,4,3,3,4,U4,30~40,10~20,Engineering & Architecture,Male,UOC,Assistant,Non-PhD,Unknown,No
+4,3,5,5,4,3,4,4,4,5,4,3,4,4,4,4,3,2,3,5,5,5,3,3,5,5,5,5,5,5,3,3,5,5,5,5,4,4,5,5,5,4,4,U5,50~60,0~10,Unknown,Male,UOC,Assistant,Non-PhD,Unknown,Yes
+2,2,3,5,4,3,3,3,3,3,3,4,4,3,4,4,3,5,3,5,5,5,2,1,3,2,4,4,3,2,4,1,4,4,5,3,2,4,4,3,4,1,4,U6,40~50,10~20,Engineering & Architecture,Male,UOC,Assistant,Non-PhD,Unknown,No
+4,4,4,5,?,5,5,5,4,4,4,2,4,4,4,4,3,5,3,5,5,5,3,4,4,3,5,4,3,3,5,4,3,4,4,4,4,1,4,5,5,2,2,U7,40~50,10~20,Engineering & Architecture,Male,UOC,Assistant,Non-PhD,Unknown,No
+4,4,5,4,3,4,4,3,3,3,3,3,4,3,3,4,4,5,4,5,5,5,1,2,3,3,4,4,3,4,4,4,3,4,3,3,3,3,4,4,3,1,4,U8,50~60,10~20,Unknown,Male,UOC,Assistant,Non-PhD,Unknown,No
+4,4,5,4,5,4,5,5,4,4,2,5,3,4,3,4,3,3,3,5,5,4,1,1,4,4,5,1,2,3,3,2,4,3,5,5,4,2,5,5,5,1,1,U9,50~60,10~20,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,No
+4,4,4,5,5,?,5,4,4,4,4,2,3,3,?,3,3,5,3,4,5,5,4,1,5,4,5,2,2,4,4,4,5,5,5,5,5,5,4,5,2,1,1,U10,40~50,20~30,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+3,3,4,5,4,4,5,4,3,4,3,3,2,3,4,2,2,4,3,5,4,5,2,3,4,3,4,1,2,4,4,3,3,4,3,3,2,4,4,4,4,1,2,U11,30~40,10~20,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,Yes
+5,4,3,5,5,3,5,5,3,5,4,2,3,4,3,1,1,1,3,2,2,3,1,1,1,1,1,1,1,1,1,1,2,2,3,4,4,5,4,4,5,1,1,U12,40~50,20~30,Unknown,Male,UOC,Assistant,Non-PhD,Unknown,No
+4,5,5,5,4,3,4,4,4,4,2,2,4,3,4,4,3,4,3,4,2,4,5,5,4,4,4,3,5,5,4,2,4,4,4,5,5,5,4,4,5,1,3,U13,30~40,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+1,1,1,2,1,3,2,2,2,2,?,4,2,2,3,1,2,2,2,1,1,1,2,2,1,1,2,1,1,1,1,2,1,1,1,2,2,3,1,1,1,2,1,U14,50~60,10~20,Unknown,Male,UOC,Assistant,PhD,Unknown,Yes
+4,4,4,3,4,4,5,5,4,5,4,2,4,4,3,4,3,3,3,5,5,4,3,2,4,4,4,4,5,5,4,3,5,5,4,4,4,4,4,4,5,4,4,U15,40~50,10~20,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,Yes
+3,3,3,5,4,?,3,4,3,4,2,4,3,2,3,1,4,5,4,5,5,5,1,1,2,2,3,2,3,3,4,3,1,1,4,5,2,1,2,2,2,1,1,U16,30~40,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+4,4,5,5,4,4,4,5,4,4,5,2,4,4,4,2,3,5,5,5,4,4,1,1,4,4,5,4,5,5,4,3,4,4,4,3,3,4,5,4,5,1,5,U17,30~40,10~20,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,Yes
+4,4,4,5,4,4,5,5,4,4,4,3,3,3,3,2,3,3,2,4,5,4,2,2,2,2,4,5,5,3,4,3,3,3,4,4,4,4,4,5,5,2,4,U18,50~60,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+5,4,4,4,4,4,5,4,4,4,4,2,5,4,4,3,3,4,3,5,5,5,3,2,4,4,4,5,5,4,3,2,4,4,5,5,4,5,4,5,5,3,3,U19,30~40,10~20,Engineering & Architecture,Male,UOC,Lecturer,Non-PhD,Unknown,Yes
+2,2,5,5,5,3,4,4,4,5,4,4,4,3,3,1,2,2,2,5,5,3,1,1,1,1,4,3,3,3,3,3,3,3,2,4,2,3,2,4,4,1,2,U20,30~40,0~10,Unknown,Male,UOC,Associate,PhD,Unknown,No
+4,2,5,5,5,?,5,5,5,5,5,4,4,2,4,5,4,4,4,5,5,5,4,5,5,5,5,5,3,5,5,5,5,5,5,4,4,2,5,5,5,1,5,U21,30~40,0~10,Unknown,Male,UOC,Assistant,PhD,Unknown,No
+2,2,3,4,4,3,3,4,4,4,3,2,2,2,2,1,2,3,2,3,2,2,1,1,1,1,4,1,1,1,4,3,2,2,3,4,3,2,3,3,2,1,2,U22,40~50,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+3,2,3,5,4,3,4,4,4,3,2,4,4,4,3,1,2,2,3,4,4,4,2,1,1,1,4,1,2,1,5,4,3,3,5,4,4,3,3,4,4,1,3,U23,30~40,0~10,Arts & Humanities,Male,UOC,Lecturer,Non-PhD,Unknown,No
+4,4,4,5,5,5,5,5,4,4,3,3,3,4,3,3,2,3,3,4,3,4,4,4,4,3,4,2,3,4,5,5,4,4,5,4,5,4,2,4,4,4,2,U24,30~40,10~20,Health Sciences,Male,UOC,Associate,PhD,Unknown,Yes
+3,2,3,4,4,4,4,4,3,5,3,4,3,2,2,2,2,2,2,4,2,4,2,1,2,3,3,3,1,2,5,4,3,3,5,5,3,2,3,4,4,2,2,U25,30~40,10~20,Law & Politics,Male,UOC,Associate,PhD,Unknown,Yes
+5,5,5,4,4,3,4,4,3,3,3,3,4,4,4,3,4,4,4,5,5,5,3,4,3,3,4,3,4,4,5,4,4,4,5,4,4,4,4,5,2,4,4,U26,30~40,0~10,Unknown,Male,UOC,Lecturer,Non-PhD,Unknown,No
+2,3,2,5,5,?,5,5,4,5,3,4,3,?,?,2,2,3,2,3,4,4,2,2,2,2,2,2,3,3,5,3,3,3,4,3,4,3,2,3,5,1,1,U27,30~40,0~10,Law & Politics,Male,UOC,Associate,PhD,Unknown,No
+3,3,4,4,4,3,4,3,3,3,3,3,3,4,3,1,4,4,3,5,5,5,2,1,3,1,4,1,1,1,4,2,3,4,5,5,4,4,3,3,4,2,1,U28,30~40,0~10,Arts & Humanities,Male,UOC,Assistant,PhD,Unknown,No
+4,3,4,4,3,4,3,3,3,3,4,4,3,4,4,4,4,4,3,4,4,3,3,4,3,4,3,4,4,4,4,3,3,3,4,4,3,4,3,3,4,3,3,U29,30~40,0~10,Unknown,Male,UOC,Assistant,Non-PhD,Unknown,No
+2,3,3,4,4,4,5,5,2,4,2,3,3,2,2,1,2,2,2,2,3,3,2,1,2,2,2,3,3,4,2,2,3,2,4,4,4,4,4,5,5,1,4,U30,30~40,0~10,Engineering & Architecture,Male,UOC,Assistant,PhD,Unknown,No
+3,3,3,4,4,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,3,2,2,1,3,2,3,3,2,2,3,3,3,3,2,2,3,1,3,U31,30~40,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+4,4,4,5,5,3,4,4,4,4,4,2,5,5,5,5,2,1,3,5,5,5,5,4,5,5,5,3,2,5,5,2,5,5,3,3,4,5,5,5,5,2,2,U32,40~50,10~20,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,Yes
+4,4,5,3,3,3,3,3,4,4,3,3,4,3,4,4,3,4,2,5,5,5,2,1,3,4,4,4,4,4,5,2,4,4,4,3,3,3,5,5,5,2,4,U33,40~50,0~10,Unknown,Male,UOC,Assistant,PhD,Unknown,No
+4,4,4,5,4,3,4,4,4,4,3,3,4,4,3,4,3,4,3,5,4,5,3,3,4,4,4,4,3,3,5,3,4,5,4,4,3,3,4,4,4,3,4,U34,30~40,10~20,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,Yes
+4,4,4,4,4,4,4,4,3,4,3,2,3,2,3,3,2,3,4,5,4,5,2,1,4,4,4,2,3,4,4,4,4,4,4,4,3,3,3,3,3,1,5,U35,50~60,,Unknown,Male,UOC,Assistant,Non-PhD,Unknown,No
+3,3,4,5,4,5,4,4,4,3,4,?,4,4,4,2,4,3,4,5,5,5,2,2,3,3,4,4,4,3,5,4,4,4,5,4,4,4,4,4,4,1,2,U36,40~50,0~10,Unknown,Male,UOC,Associate,PhD,Unknown,No
+2,2,2,4,2,2,2,2,2,2,2,4,2,2,2,1,2,2,2,3,2,4,1,1,2,2,2,2,2,1,3,3,2,2,3,3,2,2,2,2,2,1,2,U37,40~50,0~10,Unknown,Male,UOC,Lecturer,Non-PhD,Unknown,No
+3,2,3,5,4,3,4,4,3,4,3,5,2,3,3,1,3,3,3,4,5,3,2,1,3,3,3,4,3,3,4,4,3,3,4,4,4,2,2,3,4,1,3,U38,30~40,10~20,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,No
+3,4,5,4,3,3,4,3,3,4,3,4,3,3,3,2,2,3,3,5,5,5,2,2,4,4,4,3,4,3,4,4,4,4,5,4,4,4,4,5,5,1,2,U39,40~50,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+2,2,2,5,4,?,4,4,3,4,4,3,2,2,?,1,1,1,?,4,3,4,2,1,2,?,1,5,2,?,5,4,1,1,4,4,4,?,4,4,4,1,4,U40,30~40,0~10,Unknown,Male,UOC,Instructor,PhD,Unknown,Unknown
+3,2,3,4,3,3,4,3,2,2,2,4,1,3,3,1,2,3,3,3,4,3,1,1,2,2,2,3,2,3,3,3,2,2,3,3,3,3,2,2,4,1,2,U41,30~40,0~10,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,No
+3,3,3,4,4,3,4,4,3,4,2,5,2,3,3,1,2,4,2,4,5,5,2,3,2,1,4,2,3,2,4,5,3,2,4,3,4,4,2,2,4,1,3,U42,40~50,10~20,Unknown,Male,UOC,Assistant,PhD,Unknown,No
+3,3,3,4,?,2,3,5,2,2,1,5,1,2,1,1,1,5,2,5,5,5,1,1,1,1,1,1,1,1,5,5,1,2,5,1,1,5,1,1,2,1,2,U43,30~40,10~20,Law & Politics,Male,UOC,Associate,PhD,Unknown,No
+3,3,4,4,4,?,4,3,4,4,4,2,4,?,?,3,2,2,3,4,4,4,4,4,4,4,4,2,2,2,4,2,4,4,4,2,2,4,4,4,2,1,?,U44,30~40,0~10,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,No
+4,4,4,3,4,3,4,4,2,3,3,3,3,2,3,2,3,4,2,5,2,4,2,3,3,3,3,4,4,4,4,1,3,3,4,3,3,3,4,3,4,3,3,U45,30~40,0~10,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+3,3,3,4,4,3,3,4,4,4,3,3,4,3,3,1,3,3,3,4,4,4,1,1,2,2,3,1,3,2,4,3,3,3,4,3,3,3,2,2,3,1,3,U46,30~40,0~10,Unknown,Male,UOC,Associate,PhD,Unknown,No
+5,4,5,4,5,3,4,3,4,5,5,4,?,3,3,1,3,5,3,5,5,4,1,1,1,1,3,1,1,3,5,3,3,3,2,2,1,2,2,2,4,1,2,U47,30~40,0~10,Unknown,Male,UOC,Lecturer,Non-PhD,Unknown,No
+3,4,4,5,5,4,5,4,4,4,3,4,4,3,2,2,4,4,4,4,4,4,4,4,4,4,3,2,2,2,4,3,4,3,4,4,?,4,4,4,4,1,2,U48,30~40,10~20,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+4,4,4,4,4,3,4,3,4,4,3,3,5,4,3,3,3,3,3,5,5,5,4,3,4,4,4,4,2,4,4,2,4,4,4,3,3,5,4,4,4,1,2,U49,50~60,more than 30,Sciences,Male,UOC,Professor,PhD,Unknown,No
+3,3,4,5,4,3,4,4,2,1,1,3,3,4,4,2,3,5,3,5,5,5,1,1,2,2,3,1,2,2,5,2,3,3,4,2,1,4,2,2,3,1,2,U50,30~40,0~10,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+3,3,3,5,5,4,2,4,2,4,2,3,2,2,4,1,3,4,3,4,4,4,1,1,3,3,4,1,2,1,4,1,2,2,4,2,4,2,2,2,2,1,5,U51,30~40,0~10,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+3,3,2,4,4,2,3,4,2,3,3,4,2,4,3,2,2,4,3,4,4,4,2,2,2,2,3,3,4,3,4,4,2,2,4,4,3,2,2,2,2,1,4,U52,40~50,10~20,Unknown,Male,UOC,Assistant,PhD,Unknown,No
+2,3,3,4,4,2,4,4,3,3,2,2,3,2,2,1,2,2,2,4,4,4,2,2,2,2,3,2,2,3,4,3,2,2,3,3,3,3,2,3,3,1,1,U53,40~50,10~20,Law & Politics,Male,UOC,Lecturer,Non-PhD,Unknown,No
+2,2,2,3,2,3,4,2,2,2,2,3,2,2,2,2,2,2,2,3,3,3,1,1,2,2,2,2,3,1,4,4,2,2,3,3,3,3,2,2,2,1,2,U54,40~50,0~10,Health Sciences,Male,UOC,Lecturer,Non-PhD,Unknown,No
+3,4,4,5,4,4,5,5,4,4,4,3,5,4,4,1,3,5,4,5,5,5,2,1,2,2,5,2,1,4,3,3,3,3,4,4,3,4,4,5,5,1,4,U55,30~40,0~10,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+4,3,3,5,4,3,5,5,3,4,2,5,4,3,4,1,3,5,2,5,4,4,1,1,1,1,2,1,1,1,4,1,2,2,2,5,1,5,1,2,4,1,1,U56,30~40,0~10,Engineering & Architecture,Male,UOC,Lecturer,Non-PhD,Unknown,No
+2,2,4,5,4,2,3,4,4,4,2,4,1,2,4,1,2,4,3,4,4,2,1,1,4,3,4,1,1,1,4,3,2,4,4,5,3,3,4,5,5,2,3,U57,50~60,0~10,Arts & Humanities,Male,UOC,Assistant,PhD,Unknown,Yes
+4,5,4,5,5,4,5,5,4,4,3,2,4,4,3,2,3,4,4,5,4,5,3,4,4,5,4,1,2,2,4,4,5,4,5,4,4,5,5,5,5,1,2,U58,30~40,0~10,Unknown,Male,UOC,Assistant,PhD,Unknown,No
+2,3,3,4,4,3,3,3,2,3,2,4,3,3,3,1,2,4,2,5,5,5,2,1,2,2,3,1,1,3,4,4,3,3,3,5,2,3,2,2,2,1,1,U59,30~40,10~20,Unknown,Male,UOC,Assistant,PhD,Unknown,No
+2,3,4,3,4,3,4,4,4,4,3,2,3,2,3,2,2,4,2,3,4,4,2,1,2,3,2,2,1,2,3,1,2,3,5,5,5,5,4,4,4,1,3,U60,30~40,0~10,Engineering & Architecture,Male,UOC,Assistant,PhD,Unknown,No
+4,4,5,4,4,5,5,4,3,5,3,2,4,3,3,4,4,5,4,5,5,5,3,3,4,4,4,5,1,3,5,5,3,4,5,2,2,4,4,5,3,2,4,U61,30~40,0~10,Arts & Humanities,Male,UOC,Instructor,Non-PhD,Unknown,No
+3,3,3,5,4,4,3,4,4,4,3,3,3,4,4,1,2,3,2,4,5,5,2,3,3,3,4,4,3,4,2,2,3,3,4,4,4,4,3,3,4,2,5,U62,50~60,20~30,Unknown,Male,UOC,Associate,PhD,Unknown,Yes
+4,4,5,5,4,4,3,3,5,5,3,3,4,2,3,5,2,2,2,4,4,4,4,5,5,4,4,5,4,4,3,2,4,5,3,5,3,4,5,5,3,4,4,U63,60~70,10~20,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,Yes
+3,2,3,4,4,3,4,4,3,2,3,4,4,4,3,3,3,?,2,4,4,4,3,2,4,4,4,2,2,2,4,2,4,4,5,5,3,3,4,5,2,1,2,U64,40~50,10~20,Arts & Humanities,Male,UOC,Assistant,Non-PhD,Unknown,No
+4,3,4,4,3,4,5,5,3,4,3,4,3,4,4,2,2,2,2,4,4,4,3,3,4,3,4,4,4,4,3,2,4,4,4,3,3,4,3,4,4,2,2,U65,40~50,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+5,4,5,4,3,2,4,4,3,4,3,2,4,2,3,3,2,4,3,4,4,5,2,1,4,4,5,1,1,1,4,3,4,5,3,4,3,3,4,4,4,1,1,U66,40~50,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+3,4,4,4,4,3,4,4,4,4,4,2,4,3,3,2,3,4,3,4,4,5,1,1,1,1,3,1,1,1,4,3,3,3,4,4,4,3,2,2,4,1,3,U67,40~50,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+4,4,4,2,3,1,4,3,4,4,4,2,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,1,4,4,3,3,3,5,4,4,4,1,4,U68,40~50,,Engineering & Architecture,Male,UOC,Assistant,PhD,Unknown,No
+5,5,5,5,5,4,5,5,4,4,4,2,5,5,3,4,2,2,4,5,4,4,3,4,4,4,4,3,1,4,2,2,5,5,5,4,3,4,4,5,4,2,4,U69,40~50,20~30,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,Yes
+5,5,5,4,4,4,4,4,4,4,3,2,3,4,3,1,4,3,4,5,5,5,1,4,4,4,4,5,5,3,5,5,5,5,5,5,1,1,5,5,5,1,4,U70,40~50,10~20,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,No
+5,4,4,4,4,4,4,4,4,4,3,2,3,3,4,2,3,3,4,4,4,4,2,1,2,2,4,2,3,3,4,2,3,4,4,5,4,3,3,4,4,1,2,U71,40~50,10~20,Unknown,Male,UOC,Associate,PhD,Unknown,No
+3,2,2,2,2,?,3,2,5,4,2,3,4,?,?,2,2,3,?,4,5,5,3,3,4,?,4,4,1,2,4,2,4,4,5,5,5,4,4,5,5,1,1,U72,50~60,10~20,Arts & Humanities,Male,UOC,Associate,PhD,Unknown,No
+?,?,?,5,4,3,4,4,3,3,2,5,3,?,?,1,2,5,?,5,5,4,1,1,1,2,3,3,4,4,?,?,?,?,4,4,4,?,2,?,4,2,1,U73,40~50,10~20,Law & Politics,Male,UOC,Associate,PhD,Unknown,Yes
+2,3,4,3,4,3,4,4,3,3,3,3,4,3,4,2,2,4,3,4,5,5,2,1,2,2,3,1,4,3,5,5,1,2,1,1,2,1,3,4,4,1,2,U74,40~50,10~20,Health Sciences,Male,UOC,Assistant,PhD,Unknown,No
+2,4,4,4,4,?,3,?,4,4,4,2,?,?,?,3,?,?,?,4,?,?,3,?,3,?,4,1,1,1,?,?,2,?,1,1,1,1,4,4,4,1,4,U75,40~50,10~20,Engineering & Architecture,Male,UOC,Associate,PhD,Unknown,No
+2,2,2,4,4,3,3,3,2,4,2,3,2,2,3,1,1,1,1,3,3,3,1,1,2,2,3,3,3,2,5,5,3,2,5,5,5,5,2,4,4,1,3,U76,50~60,0~10,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+2,4,3,4,4,?,4,4,3,3,4,4,3,?,?,1,2,?,?,4,4,4,2,1,?,?,4,1,3,2,5,2,?,3,4,3,?,4,3,2,2,1,1,U77,30~40,10~20,Unknown,Female,UOC,Associate,PhD,Unknown,No
+2,3,3,4,3,3,3,4,3,3,3,4,2,3,3,1,2,4,3,4,4,4,2,2,2,2,3,1,2,3,4,4,3,3,4,4,4,4,3,3,4,2,2,U78,40~50,10~20,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+4,1,4,5,4,4,1,4,2,2,1,2,1,?,3,1,1,3,?,5,2,3,1,1,1,1,2,2,2,3,2,2,2,2,4,4,4,?,3,4,3,1,2,U79,40~50,10~20,Engineering & Architecture,Female,UOC,Assistant,PhD,Unknown,No
+3,3,3,5,4,5,4,4,4,4,4,3,3,3,5,1,2,3,2,4,5,4,1,1,1,1,3,1,1,1,3,3,2,2,4,3,3,1,1,1,4,1,1,U80,40~50,10~20,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+2,3,2,4,4,2,3,2,4,3,3,4,3,3,2,1,2,2,1,4,4,5,1,1,1,1,3,4,4,3,3,2,2,3,2,5,4,4,2,3,3,1,1,U81,30~40,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+3,4,3,5,?,2,4,4,4,4,3,3,3,3,2,2,2,3,3,4,4,4,3,2,3,3,3,3,2,1,3,2,3,3,5,5,5,5,4,4,2,2,3,U82,30~40,10~20,Arts & Humanities,Female,UOC,Assistant,PhD,Unknown,No
+3,2,2,4,4,3,4,4,3,3,4,2,3,3,3,1,2,4,3,5,5,5,1,1,1,1,3,1,2,2,5,3,3,3,3,5,3,5,2,3,5,1,4,U83,40~50,10~20,Unknown,Female,UOC,Associate,Non-PhD,Unknown,No
+2,2,2,5,3,5,5,5,2,3,2,2,2,2,5,1,2,4,1,5,5,4,1,1,1,1,2,2,3,3,5,5,3,3,4,4,4,4,2,2,2,1,5,U84,40~50,0~10,Unknown,Female,UOC,Lecturer,Non-PhD,Unknown,No
+3,3,3,4,4,3,4,3,3,4,3,3,3,2,3,2,2,4,3,4,3,4,3,2,3,2,3,2,2,3,4,2,4,4,4,4,4,4,4,3,4,2,3,U85,40~50,10~20,Engineering & Architecture,Female,UOC,Assistant,PhD,Unknown,No
+3,3,3,4,4,4,4,4,3,3,3,2,4,4,3,2,2,3,2,5,5,5,2,2,3,3,4,3,3,3,4,3,4,4,4,4,3,3,4,5,5,2,4,U86,30~40,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+3,3,3,5,5,2,4,3,3,3,3,4,2,2,4,2,3,3,3,5,4,4,3,3,4,1,3,1,1,1,3,2,2,4,4,1,1,5,4,5,4,1,3,U87,40~50,10~20,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+2,1,3,5,5,4,3,3,4,4,4,3,4,3,3,2,3,4,4,4,4,4,3,2,4,4,4,3,2,3,4,4,4,4,3,3,3,3,4,5,5,2,2,U88,30~40,0~10,Unknown,Female,UOC,Associate,PhD,Unknown,No
+4,3,3,5,5,4,4,4,4,4,4,5,3,2,4,1,2,2,4,5,5,5,2,2,3,3,4,2,4,2,4,1,3,3,2,4,2,1,3,3,4,2,5,U89,30~40,0~10,Unknown,Female,UOC,Associate,PhD,Unknown,Yes
+2,2,2,5,4,5,3,?,3,3,3,5,3,1,1,2,3,5,5,5,5,5,1,1,1,1,5,1,3,1,5,1,3,3,3,3,3,3,2,4,5,1,2,U90,40~50,10~20,Engineering & Architecture,Female,UOC,Associate,PhD,Unknown,No
+4,4,4,4,3,3,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4,4,4,4,4,4,4,3,3,4,U91,40~50,10~20,Engineering & Architecture,Female,UOC,Assistant,PhD,Unknown,Yes
+3,3,3,4,5,3,3,3,4,4,2,2,3,3,3,2,2,2,4,4,4,4,3,2,3,3,2,2,2,2,4,3,3,3,4,4,4,4,4,4,4,2,2,U92,40~50,20~30,Unknown,Female,UOC,Associate,PhD,Unknown,No
+2,3,3,5,3,?,3,4,3,3,1,?,3,1,?,1,1,4,4,3,3,5,1,1,1,2,1,1,2,1,4,3,1,1,?,?,3,1,3,3,3,1,2,U93,30~40,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+4,3,3,3,5,3,3,2,4,4,2,3,5,4,3,1,2,4,4,2,2,2,1,3,1,1,4,1,1,1,5,4,3,2,4,5,4,4,1,4,4,1,4,U94,40~50,20~30,Health Sciences,Female,UOC,Associate,PhD,Unknown,No
+4,4,4,2,5,3,3,4,3,4,3,3,5,5,5,3,3,3,5,5,4,5,4,4,5,4,5,2,5,4,4,4,5,5,5,5,5,5,4,4,4,2,5,U95,30~40,10~20,Unknown,Female,UOC,Associate,PhD,Unknown,No
+3,3,4,5,5,?,5,5,4,5,4,3,4,?,?,1,?,5,?,5,5,5,2,1,1,1,3,1,1,1,5,5,3,3,5,4,5,5,4,4,5,1,1,U96,30~40,0~10,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+2,2,3,4,3,4,4,2,2,2,2,2,2,2,2,2,2,4,2,2,5,3,2,?,2,2,2,2,2,2,4,3,3,2,2,2,2,2,4,4,3,2,3,U97,40~50,10~20,Unknown,Female,UOC,Associate,PhD,Unknown,No
+4,3,4,4,4,2,4,3,2,3,2,4,3,2,2,1,2,2,2,4,4,4,1,1,2,1,3,2,2,2,3,3,2,2,4,4,4,2,2,4,4,1,3,U98,40~50,10~20,Unknown,Female,UOC,Associate,PhD,Unknown,No
+4,4,4,4,4,4,3,3,3,3,3,2,3,4,3,1,3,2,3,4,4,5,4,2,4,2,4,2,1,2,4,4,4,4,5,5,5,5,4,4,4,3,5,U99,50~60,0~10,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,Yes
+2,2,3,4,4,3,3,3,3,3,2,3,3,3,3,1,2,2,2,3,3,3,1,1,1,1,2,?,2,2,4,4,2,2,4,4,4,4,2,3,3,1,3,U100,40~50,10~20,Law & Politics,Female,UOC,Lecturer,Non-PhD,Unknown,No
+2,2,3,5,5,4,4,5,4,3,3,4,4,4,?,2,1,2,3,5,5,5,2,2,2,2,4,2,3,3,5,2,3,3,5,5,5,5,2,4,5,1,1,U101,40~50,10~20,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+4,3,3,3,5,4,3,4,4,4,3,3,3,5,4,4,4,4,4,5,5,5,3,1,3,3,4,3,4,4,5,4,4,4,5,5,4,5,4,4,4,1,4,U102,30~40,0~10,Unknown,Female,UOC,Associate,PhD,Unknown,No
+2,2,2,5,3,3,?,3,2,2,3,4,1,2,3,1,1,4,1,4,4,2,1,1,1,2,1,1,2,4,3,3,2,1,5,4,4,4,1,1,2,1,1,U103,30~40,10~20,Unknown,Female,UOC,Lecturer,Non-PhD,Unknown,No
+2,3,3,4,4,3,4,4,3,3,3,2,2,3,3,1,1,2,1,3,3,3,1,1,1,1,2,1,2,1,4,3,3,1,5,4,4,5,1,4,4,1,1,U104,30~40,0~10,Law & Politics,Female,UOC,Lecturer,Non-PhD,Unknown,No
+1,2,2,5,5,3,2,2,2,2,2,4,1,1,3,1,1,3,2,5,4,4,1,1,2,1,3,3,3,2,5,3,1,1,4,2,2,2,2,3,2,1,5,U105,40~50,,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+3,2,2,4,4,3,4,4,3,4,3,5,2,3,4,1,1,4,2,4,4,5,1,1,1,1,3,1,1,1,5,3,2,3,4,4,4,3,3,3,4,1,1,U106,30~40,0~10,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+2,3,3,5,5,2,4,3,3,3,3,5,4,5,3,1,2,4,2,5,4,5,1,3,1,1,1,1,2,3,5,2,2,3,5,2,2,4,2,5,3,1,2,U107,40~50,10~20,Law & Politics,Female,UOC,Associate,PhD,Unknown,No
+3,3,5,5,4,3,3,5,3,3,3,4,3,3,4,1,1,2,2,5,5,5,2,1,3,2,3,5,5,3,5,4,4,4,5,5,5,5,5,5,2,1,3,U108,40~50,10~20,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,2,2,4,3,4,3,2,3,3,2,3,U109,30~40,,Unknown,Female,UOC,Assistant,PhD,Unknown,Yes
+3,3,3,5,4,3,3,4,3,3,3,4,4,4,4,2,2,3,2,4,4,5,2,3,2,2,3,3,3,3,4,2,2,3,3,2,2,5,3,4,4,2,4,U110,30~40,0~10,Health Sciences,Female,UOC,Assistant,PhD,Unknown,No
+3,3,2,5,3,4,4,4,3,4,3,4,4,3,4,2,3,4,2,4,4,4,1,1,2,2,3,3,4,4,5,4,3,3,4,4,3,3,2,4,4,2,5,U111,20~30,0~10,Engineering & Architecture,Female,UOC,Lecturer,Non-PhD,Unknown,No
+3,3,3,4,5,3,4,4,4,4,4,3,4,4,3,1,2,2,2,4,4,4,3,1,3,3,4,3,3,3,3,3,4,4,5,5,4,3,4,4,4,1,1,U112,30~40,0~10,Arts & Humanities,Female,UOC,Assistant,PhD,Unknown,No
+3,3,3,5,5,3,4,4,3,4,4,3,3,5,3,1,2,4,3,4,5,4,1,1,2,2,3,2,5,4,5,5,3,3,5,5,5,4,2,4,4,1,1,U113,30~40,0~10,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+2,2,3,5,4,4,4,3,3,3,2,1,2,3,3,1,1,3,1,3,3,3,1,1,1,1,2,1,1,1,5,4,2,1,3,3,3,2,2,2,3,1,4,U114,30~40,,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+3,3,2,5,5,2,4,4,3,5,3,2,2,3,2,1,4,5,4,5,5,5,1,1,3,1,4,2,4,1,5,1,2,2,5,5,5,5,3,3,3,1,1,U115,30~40,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+4,4,4,5,3,5,5,5,3,3,3,3,4,4,4,1,3,2,2,4,5,5,2,1,2,2,4,2,2,2,5,5,4,3,2,5,2,4,3,4,2,1,4,U116,40~50,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+5,5,5,5,5,4,5,5,4,4,4,2,4,4,4,4,2,2,4,5,5,5,4,1,4,4,5,4,2,4,4,1,4,4,3,4,3,5,5,5,5,1,2,U117,30~40,0~10,Arts & Humanities,Female,UOC,Lecturer,Non-PhD,Unknown,No
+1,1,1,5,2,?,4,3,2,2,2,4,1,1,?,1,1,3,3,3,3,4,1,1,1,1,2,1,1,3,4,4,1,1,1,3,2,1,1,2,4,1,1,U118,40~50,0~10,Arts & Humanities,Female,UOC,Lecturer,Non-PhD,Unknown,No
+5,3,3,4,5,4,4,4,3,3,3,5,5,5,4,1,4,4,4,4,4,4,3,3,3,3,4,3,3,3,4,5,4,5,5,5,5,5,2,3,3,1,3,U119,30~40,0~10,Arts & Humanities,Female,UOC,Lecturer,Non-PhD,Unknown,No
+5,5,5,5,5,?,4,5,4,4,4,1,5,5,4,4,3,3,4,5,5,5,4,2,5,2,5,1,3,2,5,3,5,5,5,5,5,5,5,5,5,1,2,U120,30~40,0~10,Arts & Humanities,Female,UOC,Assistant,PhD,Unknown,No
+4,4,4,3,5,3,5,5,4,4,3,3,5,5,4,3,4,5,3,5,5,5,2,1,3,3,4,2,3,5,4,4,3,3,5,5,4,3,5,5,5,2,3,U121,30~40,0~10,Arts & Humanities,Female,UOC,Assistant,PhD,Unknown,Yes
+3,3,2,4,4,4,4,3,2,2,2,4,2,3,3,1,2,4,2,4,3,4,1,2,1,2,2,2,3,2,4,3,3,2,3,3,3,2,2,2,4,2,2,U122,30~40,0~10,Unknown,Female,UOC,Lecturer,Non-PhD,Unknown,No
+3,3,4,3,3,3,4,4,3,3,3,4,4,3,3,2,4,5,4,4,4,4,2,3,3,3,4,3,3,2,5,3,3,3,4,4,4,3,4,4,4,2,2,U123,20~30,0~10,Law & Politics,Female,UOC,Lecturer,Non-PhD,Unknown,No
+4,4,5,5,5,4,4,4,4,3,3,1,3,4,1,3,?,?,?,?,?,?,3,5,5,5,?,3,3,3,3,3,5,4,5,1,1,4,4,5,5,3,3,U124,50~60,10~20,Unknown,Female,UOC,Professor,PhD,Unknown,Yes
+4,2,2,5,5,5,2,3,2,3,3,3,1,4,2,1,2,2,2,4,5,5,2,2,2,2,2,3,3,3,4,3,2,2,3,3,2,4,2,2,2,2,3,U125,40~50,0~10,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+3,3,3,4,4,4,3,4,3,3,4,3,3,4,4,3,3,4,3,4,4,4,3,3,3,3,4,3,3,3,5,4,3,3,5,4,3,3,3,4,3,3,4,U126,40~50,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+3,2,4,5,5,3,4,4,4,4,4,3,4,3,2,4,3,4,4,4,4,4,4,2,4,3,4,3,4,4,4,4,4,4,4,4,4,?,4,4,4,2,4,U127,40~50,10~20,Unknown,Female,UOC,Associate,PhD,Unknown,No
+2,4,2,4,4,3,2,2,3,3,3,5,4,3,2,1,1,2,2,4,5,5,1,2,1,1,2,2,5,4,5,1,3,3,5,3,3,5,2,3,4,1,1,U128,40~50,10~20,Unknown,Female,UOC,Associate,PhD,Unknown,No
+4,3,3,3,4,2,4,5,3,4,2,3,3,?,?,1,2,2,?,4,5,5,2,2,2,?,3,3,3,1,4,3,3,3,5,5,4,5,4,4,4,1,3,U129,50~60,20~30,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+2,2,3,5,4,4,5,4,4,4,3,2,3,1,1,4,1,3,2,5,5,5,2,1,2,3,4,2,1,4,5,4,3,3,4,2,1,3,3,4,4,1,1,U130,40~50,10~20,Law & Politics,Female,UOC,Professor,PhD,Unknown,No
+3,3,5,5,5,4,5,5,4,4,3,3,4,4,5,1,3,5,3,5,4,5,3,1,3,3,3,1,4,3,5,3,3,3,4,4,4,2,4,4,4,1,4,U131,30~40,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+1,1,5,5,4,3,2,3,3,3,3,1,3,3,5,2,3,3,3,4,5,5,3,3,2,2,5,2,3,4,4,4,2,3,4,3,2,4,5,5,2,2,4,U132,40~50,20~30,Unknown,Female,UOC,Associate,PhD,Unknown,No
+5,4,5,5,4,4,5,5,3,3,3,3,3,3,2,1,2,4,4,5,4,5,1,1,3,3,4,1,4,3,3,2,3,2,2,3,2,4,2,4,4,1,4,U133,30~40,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,No
+2,3,3,4,4,1,5,4,3,3,2,1,3,1,1,2,1,3,1,5,5,5,1,1,1,1,3,3,2,3,3,3,1,2,1,1,1,1,1,3,3,1,1,U134,40~50,10~20,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+4,4,4,4,4,4,3,3,3,3,3,4,4,3,3,2,3,3,2,5,4,4,2,2,2,2,3,3,3,4,3,2,4,4,4,4,4,5,4,3,2,2,4,U135,40~50,10~20,Unknown,Female,UOC,Assistant,PhD,Unknown,Yes
+2,2,2,4,4,4,3,2,3,3,2,3,2,2,3,1,1,2,3,4,5,5,1,2,2,2,2,2,2,1,3,3,2,2,5,4,5,4,2,3,4,1,2,U136,50~60,20~30,Arts & Humanities,Female,UOC,Associate,PhD,Unknown,No
+?,?,?,?,?,?,5,?,?,?,?,?,?,?,?,1,3,3,?,4,3,4,1,1,1,1,?,1,1,2,5,3,?,?,5,5,5,?,1,1,2,1,1,U137,40~50,0~10,Law & Politics,Female,UOC,Associate,PhD,Unknown,No
+4,2,4,4,3,3,2,4,2,3,2,2,2,3,3,3,3,4,4,4,4,5,2,2,3,3,4,2,2,1,4,3,3,3,4,4,4,4,2,3,4,2,2,U138,50~60,20~30,Unknown,Female,UOC,Associate,PhD,Unknown,No
+2,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,U139,40~50,20~30,Unknown,Female,UOC,Associate,PhD,Unknown,No
+3,3,3,3,3,3,3,3,4,4,4,3,3,3,3,3,4,4,4,4,4,4,2,3,4,4,4,1,1,1,4,4,4,4,4,4,4,3,4,4,4,1,3,U140,40~50,10~20,Unknown,Female,UOC,Assistant,Non-PhD,Unknown,No
+3,3,3,4,4,4,4,4,3,3,2,4,3,4,4,2,2,4,3,4,4,4,2,2,2,2,3,1,1,4,4,3,3,3,4,3,3,3,3,4,3,1,4,U141,40~50,10~20,Law & Politics,Female,UOC,Assistant,Non-PhD,Unknown,No
+5,5,5,5,5,5,5,5,4,5,4,4,5,3,?,5,2,3,4,5,5,5,4,1,5,5,5,5,5,4,?,?,5,5,5,5,5,5,5,5,5,1,3,U142,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,3,3,3,3,2,2,2,2,1,1,2,1,1,3,1,3,3,3,1,1,1,1,1,2,2,1,3,3,1,1,1,1,1,1,1,1,2,1,2,U143,40~50,0~10,Health Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,5,5,5,3,3,3,3,3,4,4,5,2,2,2,5,5,5,5,5,5,5,5,1,3,3,5,5,5,5,5,5,5,5,5,5,5,1,5,U144,50~60,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,3,4,3,4,?,2,2,2,4,3,4,3,3,3,3,?,4,4,4,2,2,3,3,4,3,4,3,4,4,3,?,4,3,3,3,3,3,4,2,3,U145,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,1,2,2,2,2,2,3,3,3,3,2,2,3,3,2,2,3,2,2,2,2,3,2,3,2,2,1,2,1,2,3,3,1,3,4,1,2,2,1,2,1,U146,50~60,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,4,5,4,4,4,4,3,3,3,3,3,3,?,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,U147,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,2,5,5,4,4,4,2,2,2,2,2,4,3,2,1,2,1,3,3,4,1,2,1,1,2,1,1,?,5,5,3,3,2,2,1,1,1,2,2,1,3,U148,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,4,4,5,4,4,4,4,4,4,5,3,4,4,5,5,4,5,5,3,4,5,5,4,3,3,4,5,3,4,4,4,4,4,4,4,5,5,2,4,U149,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,2,2,4,4,2,2,3,3,3,3,3,2,2,3,2,2,4,2,4,4,3,1,1,2,2,3,1,1,2,2,2,2,3,4,4,3,4,2,3,4,1,2,U150,30~40,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,4,4,4,4,3,3,4,4,4,3,4,3,4,3,1,3,5,3,5,4,5,2,1,1,1,4,5,2,2,5,5,3,3,2,4,2,3,2,4,2,1,5,U151,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+4,4,4,4,4,3,4,2,3,3,2,2,3,3,3,3,2,1,2,5,5,?,3,3,4,3,3,2,3,2,2,2,3,4,4,4,4,4,4,4,4,2,5,U152,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,5,4,3,4,4,3,4,4,3,3,3,3,3,4,4,4,4,4,4,2,2,3,4,4,1,4,1,4,4,4,4,4,4,4,4,3,4,4,1,2,U153,40~50,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,4,5,3,5,5,3,4,4,4,4,3,3,1,3,2,3,5,5,3,2,1,2,2,3,1,5,3,4,4,2,2,4,3,4,4,4,4,4,1,1,U154,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,5,4,5,5,4,3,4,5,5,4,2,4,3,4,5,4,5,4,5,5,5,3,3,4,4,5,2,3,2,4,3,4,4,5,4,3,4,4,4,4,1,3,U155,30~40,10~20,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,4,4,3,5,4,4,5,4,3,3,3,3,3,3,4,4,4,4,5,3,2,4,4,4,2,2,2,4,3,4,4,4,4,4,3,4,4,4,1,3,U156,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,5,3,3,2,4,4,3,3,2,3,2,3,3,2,2,3,3,4,4,5,2,2,2,2,4,2,2,1,4,3,2,3,2,2,2,2,2,4,4,1,3,U157,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,5,4,5,?,5,5,?,2,5,4,1,5,4,3,3,5,5,5,3,3,4,4,5,3,5,3,2,1,5,5,4,3,4,4,3,5,5,3,4,U158,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,Yes
+3,2,3,4,3,?,2,3,4,3,2,1,?,?,3,3,2,3,2,5,5,5,2,2,2,2,4,4,4,4,5,5,3,2,3,3,3,3,2,2,2,1,5,U159,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,3,4,4,3,4,4,4,4,3,5,2,3,3,4,5,4,4,2,3,3,3,4,3,2,2,3,3,3,3,3,3,4,3,3,4,4,1,5,U160,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,1,4,3,3,2,3,2,2,2,4,1,2,3,1,1,3,1,3,4,3,1,1,1,1,2,2,2,2,3,2,1,1,1,1,1,1,1,2,3,1,1,U161,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,2,4,5,3,3,3,3,3,3,2,5,2,3,3,1,3,4,3,4,3,4,1,2,2,2,3,2,4,3,3,3,2,2,5,5,5,3,3,3,4,1,2,U162,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,5,4,3,4,4,4,3,4,3,3,2,2,2,2,5,5,5,3,1,4,3,4,5,5,5,5,3,3,3,3,2,2,2,4,4,4,1,5,U163,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,5,5,?,3,1,4,5,5,4,3,3,3,3,5,3,3,4,5,4,5,4,1,3,3,4,1,2,1,4,3,3,5,4,4,4,3,2,2,4,1,1,U164,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,4,4,2,5,4,4,3,3,3,3,3,3,1,2,2,2,3,2,3,1,1,3,2,4,1,1,1,3,3,3,3,3,5,3,3,2,3,1,1,1,U165,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+4,4,3,5,5,4,4,4,3,4,2,3,3,2,4,1,3,4,5,5,5,5,1,1,3,3,4,2,3,3,5,4,3,3,4,4,5,3,4,4,4,2,3,U166,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,4,4,5,4,3,4,4,3,3,3,3,4,4,3,2,1,3,3,4,5,5,4,2,3,3,4,1,2,1,3,2,3,3,4,3,4,4,4,5,5,1,2,U167,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,3,4,4,4,3,4,2,2,3,4,4,4,4,4,3,4,4,4,2,2,4,4,4,4,4,4,5,3,4,4,5,5,5,5,4,4,4,1,1,U168,40~50,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,3,5,5,4,3,2,?,3,3,3,1,3,5,3,5,5,5,2,1,4,1,4,1,3,2,4,1,3,4,3,4,4,5,5,5,5,1,1,U169,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,3,3,4,4,4,5,4,3,3,3,1,4,1,2,2,2,3,2,3,4,4,2,2,1,1,2,1,1,2,4,4,2,2,3,3,1,3,2,3,3,1,5,U170,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,2,4,3,4,3,4,4,4,3,4,3,3,3,3,3,4,4,4,4,3,3,3,4,4,3,3,3,3,3,4,4,3,3,4,4,5,5,5,3,3,U171,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+3,4,5,5,5,2,4,4,4,5,1,4,?,?,4,5,3,2,?,5,5,5,4,1,4,?,4,4,5,5,1,2,3,5,1,3,1,3,4,4,5,1,4,U172,30~40,,Unknown,Male,UOC,Adjunct,PhD,Professor,Yes
+2,3,4,2,5,3,3,3,3,4,2,4,3,3,4,4,3,4,2,5,4,4,4,2,3,3,3,1,2,5,2,3,2,3,2,3,2,2,4,4,4,1,2,U173,40~50,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,Yes
+3,3,4,4,4,?,5,5,4,4,3,2,4,?,?,2,3,?,3,4,4,4,1,1,2,3,4,1,1,1,3,2,4,4,4,5,4,5,5,4,5,1,1,U174,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,3,4,4,3,4,3,3,3,3,3,3,2,4,3,5,5,5,1,1,3,3,3,1,1,2,3,3,3,3,4,3,3,3,4,4,5,1,2,U175,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,?,3,5,4,?,2,4,1,2,2,5,1,?,4,1,1,5,3,5,2,5,1,2,2,2,2,2,4,2,3,1,3,2,4,?,4,?,3,3,2,1,2,U176,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+1,2,2,3,3,2,3,2,3,2,2,4,2,?,?,2,?,?,?,5,5,5,1,1,1,1,3,1,2,1,4,?,2,2,5,3,3,?,2,3,3,1,1,U177,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,3,3,3,4,4,4,3,3,3,3,?,3,3,3,3,3,5,4,4,?,?,3,?,4,?,3,3,3,3,?,?,?,?,4,4,4,1,1,U178,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Unknown,No
+4,4,4,5,4,3,4,5,3,3,3,3,4,4,3,4,2,4,3,4,4,5,2,2,4,4,4,2,3,3,5,2,4,4,4,5,4,5,3,4,4,1,3,U179,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,5,5,?,4,3,4,4,4,2,4,?,?,4,2,3,3,4,5,5,4,1,3,3,3,1,3,3,4,2,3,5,5,5,5,5,4,4,4,1,1,U180,40~50,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,4,4,4,3,3,3,3,3,3,3,3,2,4,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,U181,40~50,10~20,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,3,4,5,5,3,4,3,2,3,3,4,2,2,4,4,4,3,4,1,1,3,3,3,2,2,2,4,3,3,3,5,4,4,4,4,4,4,1,4,U182,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,3,2,5,5,3,3,3,2,3,3,3,3,3,3,2,2,3,4,4,4,5,3,3,2,2,4,3,3,3,5,4,3,3,3,3,3,4,2,3,3,3,3,U183,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,3,3,4,4,4,3,5,3,?,?,1,3,4,?,3,4,3,2,1,1,2,2,5,3,3,4,4,2,2,3,4,3,3,2,3,2,1,1,U184,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,4,4,4,4,5,4,5,4,4,5,3,3,3,3,5,3,5,2,3,4,3,4,4,3,5,5,5,4,4,5,4,3,4,3,4,5,4,5,U185,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Associate,Yes
+4,?,4,5,4,?,4,?,4,4,4,?,4,?,?,3,3,4,4,4,4,5,3,?,4,3,4,4,4,3,5,5,4,4,4,4,?,?,4,4,2,3,5,U186,50~60,10~20,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,5,5,3,4,5,4,4,4,4,4,4,5,1,3,4,3,5,4,5,2,2,3,3,4,3,3,4,5,4,3,3,4,4,4,5,3,3,4,2,4,U187,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,5,5,4,4,2,4,4,4,4,4,2,4,4,3,3,2,3,4,5,4,5,4,4,4,4,5,2,3,2,2,1,4,4,4,4,3,4,4,4,4,1,1,U188,40~50,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,2,4,4,3,3,2,2,3,3,3,2,2,4,2,4,4,5,1,1,3,2,3,3,3,2,4,3,3,3,5,2,4,5,1,4,4,1,1,U189,40~50,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,4,4,3,3,4,3,4,4,4,3,3,2,3,2,3,4,3,3,4,5,2,1,2,1,4,2,2,1,4,4,3,2,4,3,2,3,4,3,2,1,4,U190,50~60,10~20,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,4,2,4,5,3,3,2,2,2,2,3,2,2,3,2,3,4,5,2,1,2,2,3,1,2,1,3,3,2,2,4,3,3,3,3,4,5,1,1,U191,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,4,5,5,4,4,3,3,4,4,2,1,2,2,3,5,5,5,4,4,5,3,4,1,2,1,2,1,4,4,5,4,4,5,4,5,5,2,4,U192,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,4,4,5,5,5,4,5,3,1,4,3,5,5,2,4,4,5,5,5,2,3,5,4,5,3,3,4,4,3,5,5,3,4,3,5,5,5,5,4,2,U193,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,Yes
+2,2,2,5,3,3,4,3,2,2,2,4,2,3,3,1,2,2,2,3,3,3,1,1,1,1,2,2,2,3,3,3,2,2,3,3,3,3,2,3,3,1,1,U194,40~50,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,4,5,5,5,3,5,5,5,5,5,1,5,3,3,5,3,5,3,5,5,5,3,4,5,5,4,3,2,3,4,4,5,5,4,2,2,2,4,4,4,1,2,U195,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+?,4,4,5,4,4,4,3,4,4,4,4,4,4,4,2,3,4,4,5,5,5,2,2,3,3,4,2,3,3,3,3,3,3,4,4,4,4,4,4,4,2,3,U196,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,PhD,Associate,No
+4,3,3,5,5,4,4,5,4,4,4,2,2,3,2,1,3,5,3,5,5,5,1,1,3,3,4,1,2,1,4,4,2,2,2,4,4,3,3,3,4,2,1,U197,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,5,5,5,4,4,5,4,3,3,2,4,4,4,2,3,4,4,5,5,5,2,2,4,4,5,4,4,2,5,5,4,4,5,5,4,4,4,5,5,2,5,U198,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,4,4,3,3,3,3,3,3,4,4,4,4,3,3,3,4,5,5,5,2,2,3,3,4,4,4,4,3,3,3,3,3,3,3,3,2,2,3,2,4,U199,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,5,4,5,4,4,3,3,3,3,4,4,3,2,3,5,4,5,5,5,2,3,2,2,4,4,5,4,5,5,3,3,5,4,3,3,3,4,4,2,5,U200,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,5,5,3,5,5,4,4,2,2,2,2,2,2,2,2,2,3,2,4,2,1,2,2,3,2,2,2,2,2,2,2,2,2,2,2,3,4,4,1,3,U201,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,4,4,4,5,5,4,4,4,3,4,4,4,3,4,5,4,5,5,5,3,3,4,4,4,2,4,4,4,4,4,4,5,4,3,5,4,5,5,2,4,U202,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,5,3,4,4,4,4,3,4,3,2,2,2,2,1,3,5,5,5,1,1,2,2,4,1,3,1,4,2,2,3,4,3,5,5,4,4,4,1,1,U203,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,3,2,4,4,3,2,2,4,2,3,2,1,4,4,4,4,4,5,1,1,2,1,4,2,2,1,4,4,2,2,5,3,5,5,2,3,4,1,3,U204,50~60,20~30,Health Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,2,5,5,4,3,3,3,4,4,4,3,2,3,1,2,3,2,5,5,5,1,1,2,1,3,1,1,1,5,5,1,1,3,1,1,1,1,2,5,1,1,U205,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,3,?,2,4,?,?,?,?,?,?,?,1,2,4,3,5,5,5,1,1,1,1,2,4,4,4,5,?,2,1,?,?,?,?,2,1,3,1,?,U206,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,5,5,5,2,2,2,2,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,U207,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,4,4,4,5,4,5,5,4,5,2,3,4,4,4,4,3,5,4,4,5,5,2,4,2,2,3,2,5,4,5,4,3,4,4,3,3,3,5,5,5,4,4,U208,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,1,3,3,3,3,3,5,1,1,3,3,5,1,4,2,5,4,5,3,4,5,5,3,2,2,1,1,4,U209,60~70,,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,4,5,5,5,3,4,4,3,3,3,3,2,3,3,4,4,4,5,2,2,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,4,4,2,3,U210,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,5,5,3,5,5,3,4,5,4,3,5,3,2,3,5,5,5,5,5,3,2,4,4,5,2,4,2,5,5,5,5,5,5,5,5,5,5,5,1,3,U211,60~70,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+1,1,1,5,4,3,3,4,3,4,4,3,1,1,3,1,3,5,3,4,4,4,1,1,1,1,3,1,2,1,4,3,1,1,1,1,1,1,1,4,5,1,1,U212,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+1,2,1,2,2,1,2,2,1,1,1,5,1,1,1,1,2,5,3,5,5,4,1,1,2,1,2,1,1,1,4,4,1,1,5,5,5,5,2,2,4,1,1,U213,40~50,10~20,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+2,3,3,5,5,3,3,3,4,4,4,3,3,3,3,3,3,4,3,5,3,3,1,1,3,3,4,1,1,1,3,3,3,2,4,4,3,5,3,2,2,1,1,U214,40~50,10~20,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,3,4,5,4,2,3,2,3,3,2,3,3,3,2,2,3,4,3,4,4,4,2,2,4,3,4,2,2,2,2,1,3,3,5,4,5,1,2,4,4,2,2,U215,30~40,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,4,3,4,5,4,4,3,2,4,3,3,5,3,3,3,5,5,5,4,2,5,5,5,5,5,5,3,4,5,5,3,1,1,1,5,5,5,3,3,U216,40~50,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,Yes
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,U217,50~60,10~20,Health Sciences,Male,UOC,Adjunct,PhD,Professor,Yes
+4,3,4,5,4,?,4,5,2,4,3,3,?,?,?,3,3,2,?,4,4,5,2,2,4,3,4,1,5,1,4,3,4,4,2,2,3,3,4,4,4,1,1,U218,30~40,10~20,Health Sciences,Male,UOC,Adjunct,PhD,Associate,No
+4,4,4,5,3,3,4,4,3,4,3,3,2,3,3,4,2,3,3,3,4,4,3,2,3,3,2,2,2,3,4,4,3,3,4,4,5,3,3,4,3,1,5,U219,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,5,3,4,4,4,3,3,4,3,3,3,2,2,4,3,5,3,5,3,1,3,3,4,2,4,1,4,2,3,4,3,3,3,3,4,5,5,1,5,U220,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,2,5,2,3,4,3,4,2,5,2,2,2,1,2,4,3,4,4,5,2,1,2,2,2,1,5,4,4,3,2,2,5,4,5,3,2,3,4,1,2,U221,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,3,5,3,5,3,5,4,4,4,3,1,4,4,3,3,3,5,5,5,5,5,3,5,5,5,5,5,5,3,5,5,5,5,3,5,5,5,5,5,5,1,3,U222,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,5,5,5,5,5,5,4,4,4,2,4,4,2,3,3,3,4,4,2,5,3,2,4,4,4,1,1,1,4,2,4,4,3,3,3,4,4,4,4,1,2,U223,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,2,2,4,4,3,4,4,1,2,2,3,1,2,4,1,2,4,3,4,5,5,1,1,1,3,3,2,1,2,?,?,1,1,4,2,3,1,2,4,4,2,1,U224,40~50,,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,4,4,4,5,4,4,4,3,2,5,4,5,3,3,3,2,5,5,5,3,4,5,5,5,3,5,5,3,1,5,4,5,5,5,5,4,4,4,4,5,U225,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,5,4,4,3,4,4,4,3,3,3,3,3,3,3,3,4,3,4,4,5,3,3,3,3,4,3,2,3,4,3,3,4,3,3,3,3,4,4,4,2,3,U226,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Unknown,No
+4,4,5,4,4,4,2,4,3,3,3,4,4,4,4,4,?,?,?,?,?,?,5,5,5,5,?,1,1,3,1,1,5,5,5,5,5,1,5,5,1,1,5,U227,50~60,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,4,5,4,4,2,4,3,5,5,5,3,4,3,3,4,5,3,4,5,5,5,4,2,5,5,5,2,5,5,4,2,5,4,3,4,3,3,5,5,5,2,2,U228,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,2,3,2,4,4,4,3,4,2,2,2,3,2,3,5,5,5,3,2,3,3,5,2,4,?,4,3,3,3,1,4,4,4,4,4,4,2,2,U229,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,5,5,4,4,4,4,3,5,4,4,4,3,2,2,2,4,5,5,1,1,3,3,4,5,5,5,5,5,3,3,4,2,4,4,1,3,4,1,1,U230,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,4,4,3,3,3,3,4,3,3,3,3,3,4,4,5,5,5,3,2,3,3,4,3,4,3,5,5,4,3,4,4,4,4,3,3,3,2,3,U231,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,4,3,4,4,3,4,4,4,5,3,2,3,4,2,2,3,2,2,4,4,4,1,1,2,2,2,3,4,1,4,3,2,2,3,2,3,4,2,3,4,2,4,U232,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,5,3,2,1,2,3,2,1,3,2,1,1,1,2,2,4,5,5,2,2,3,3,3,1,3,2,?,?,2,2,2,1,1,1,2,3,4,1,1,U233,50~60,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,4,5,5,3,3,3,2,3,3,3,2,4,4,4,4,4,4,4,1,3,4,3,2,3,2,3,3,4,3,5,5,5,5,5,4,5,2,3,U234,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,4,4,5,4,2,4,1,5,3,1,2,1,1,2,2,5,5,5,1,1,1,1,1,1,3,1,2,3,1,1,4,3,4,4,2,3,4,1,1,U235,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,5,4,5,4,5,3,3,2,2,3,3,4,2,2,5,2,5,2,5,1,1,3,3,2,5,3,1,5,3,3,3,5,4,5,5,4,4,3,3,4,U236,50~60,10~20,Health Sciences,Male,UOC,Adjunct,PhD,Professor,Yes
+3,3,3,2,?,?,3,4,?,?,?,?,?,?,?,3,2,2,2,4,4,4,2,2,2,2,3,4,4,?,4,2,3,2,2,2,2,2,2,2,2,2,2,U237,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,5,3,4,2,3,3,3,2,4,2,2,3,1,1,1,2,5,3,5,1,1,1,1,1,3,2,4,3,1,2,2,2,2,2,2,1,2,3,1,4,U238,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,Yes
+4,3,4,3,4,3,4,3,2,3,2,2,2,4,4,1,2,3,1,4,4,5,1,2,3,2,3,1,2,1,5,3,3,3,4,3,3,3,2,2,3,2,5,U239,30~40,,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,4,4,4,4,5,5,4,4,3,3,3,3,3,3,2,2,4,4,4,5,1,2,3,4,3,3,4,1,5,5,4,4,5,4,5,5,2,4,4,1,3,U240,30~40,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,5,5,5,4,4,4,5,4,4,2,4,3,4,2,3,3,5,4,4,4,3,3,3,3,4,5,4,4,4,2,3,3,4,5,5,3,2,5,5,1,3,U241,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,5,4,5,?,1,2,3,3,3,5,3,3,?,1,1,1,1,3,5,5,3,1,4,1,5,5,1,1,3,3,3,3,5,5,5,5,4,4,4,1,1,U242,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,5,5,3,4,4,4,4,3,1,4,3,2,3,4,4,3,5,1,4,3,1,4,4,4,1,1,1,3,1,3,4,2,4,1,1,4,3,2,1,1,U243,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,4,4,4,4,3,4,4,4,4,3,4,4,4,3,1,2,3,4,5,5,5,3,3,4,4,4,2,4,3,5,3,4,4,4,4,4,4,4,4,4,2,4,U244,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,2,5,5,3,4,4,3,3,3,4,2,3,3,1,4,2,4,5,5,5,1,2,2,2,2,2,2,2,5,?,2,2,4,4,5,3,2,4,4,1,2,U245,30~40,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,5,5,4,4,4,3,3,3,3,3,3,4,2,2,2,2,2,4,5,5,2,2,4,3,4,1,1,3,2,2,3,4,3,2,3,2,4,5,5,5,3,U246,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,2,5,5,3,3,4,3,3,2,2,2,4,3,3,3,4,4,1,1,3,3,2,1,1,1,5,4,3,2,5,3,5,4,2,2,5,1,2,U247,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,3,4,4,2,3,3,4,4,4,3,2,2,3,2,2,3,2,4,?,4,1,1,2,?,3,3,2,2,4,2,2,2,4,3,3,3,2,3,3,1,2,U248,30~40,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Unknown,No
+3,3,2,4,2,4,3,3,2,2,2,4,2,3,2,1,2,2,2,4,4,4,1,1,1,1,2,2,4,1,1,1,1,1,1,1,1,1,1,1,2,2,1,U249,30~40,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,3,4,3,5,4,4,3,4,4,3,2,3,2,3,3,4,4,3,3,4,4,2,2,4,4,3,2,3,2,3,3,3,3,3,3,4,4,5,5,5,3,2,U250,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+3,5,4,5,4,?,4,4,3,2,3,3,3,2,?,1,4,4,?,4,4,5,?,?,4,?,4,2,2,3,?,?,?,?,4,?,4,4,5,5,5,1,4,U251,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,5,5,5,5,4,5,4,4,4,4,1,3,3,4,2,4,3,4,3,1,4,3,2,4,3,5,2,1,2,3,3,3,3,1,1,1,1,4,2,3,2,3,U252,40~50,10~20,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+4,3,4,4,3,3,3,4,4,4,3,3,3,3,3,3,3,3,3,5,4,3,4,3,3,2,4,4,5,4,1,2,3,4,4,3,2,3,2,3,4,5,1,U253,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+1,2,2,4,3,4,3,3,1,2,2,3,1,1,3,2,2,4,3,4,3,5,2,1,2,2,2,1,1,4,4,4,2,2,2,2,2,2,3,2,1,1,2,U254,40~50,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,3,4,3,3,2,3,3,4,4,4,4,4,4,2,4,4,3,3,3,3,3,3,3,3,3,3,1,1,2,?,?,?,?,?,4,4,?,3,3,3,2,1,U255,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,5,5,5,5,5,5,5,5,4,2,4,5,3,1,5,5,5,5,5,5,4,2,2,2,5,1,3,3,5,5,4,4,5,2,2,2,5,5,5,1,4,U256,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,PhD,Associate,No
+5,5,5,5,3,5,4,4,3,3,2,?,3,4,4,5,4,?,?,5,5,5,4,?,5,5,5,4,5,?,?,?,?,?,?,?,?,?,?,4,4,?,3,U257,50~60,,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,2,3,3,3,5,5,5,1,1,4,4,4,2,4,4,5,3,3,3,5,3,3,3,3,4,4,1,4,U258,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,3,4,5,4,5,5,4,4,4,3,2,4,?,1,3,4,4,5,5,5,2,2,3,3,4,1,2,1,5,5,5,4,4,5,5,4,4,4,?,3,5,U259,30~40,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,4,3,3,4,4,4,4,3,4,4,3,3,2,3,3,?,4,4,4,4,4,3,3,4,2,2,1,4,2,2,4,2,3,4,2,3,4,4,2,2,U260,30~40,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,3,4,4,4,4,5,5,4,3,4,2,4,3,3,1,3,5,3,5,5,5,2,1,4,3,4,2,3,4,5,5,4,3,5,4,3,2,3,4,4,1,3,U261,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,3,3,3,2,3,2,2,1,5,1,2,3,1,1,3,1,4,4,4,2,2,1,1,2,4,4,2,2,1,1,1,5,3,3,5,1,2,1,1,4,U262,40~50,20~30,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,3,5,4,4,4,4,2,4,4,3,2,2,4,4,4,2,4,3,3,4,2,4,2,3,1,4,3,4,4,4,4,4,4,4,4,4,2,4,U263,40~50,0~10,Health Sciences,Male,UOC,Adjunct,PhD,Associate,No
+3,3,4,5,5,3,4,5,3,3,3,3,2,3,2,1,3,4,3,5,5,5,2,2,4,4,4,1,1,1,4,4,3,3,5,5,3,4,4,4,4,1,3,U264,40~50,10~20,Health Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,4,3,4,4,4,5,4,3,3,3,4,3,3,3,1,3,4,3,4,4,4,3,3,4,3,5,2,5,1,3,2,4,4,4,4,3,4,4,4,2,2,3,U265,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Professor,No
+1,2,1,3,3,3,1,2,1,3,1,5,1,1,3,1,1,4,1,4,5,4,1,1,1,1,1,3,4,2,5,5,1,1,2,4,2,5,1,1,4,1,2,U266,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,5,5,5,2,3,3,4,4,4,3,4,2,3,3,3,4,3,4,3,4,5,3,4,4,5,2,2,2,4,3,4,4,3,3,3,3,5,3,2,2,3,U267,40~50,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,Yes
+3,4,4,4,4,3,5,4,3,4,3,3,4,3,3,4,4,3,3,5,5,5,4,3,4,4,4,3,4,3,4,4,5,5,4,3,3,3,5,5,?,3,3,U268,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,3,3,4,4,3,3,3,5,3,3,3,2,3,4,3,5,5,5,2,1,2,3,5,1,1,1,3,1,3,3,2,5,3,3,4,4,4,1,1,U269,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,4,2,3,4,3,3,4,3,3,3,3,2,4,3,4,4,4,5,2,3,2,2,4,3,4,2,4,5,2,3,4,4,3,3,3,3,3,1,3,U270,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,2,4,3,3,4,4,2,5,3,3,3,3,2,4,4,5,5,5,2,2,4,4,4,1,3,4,5,4,4,4,4,4,4,4,4,4,4,2,3,U271,50~60,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+5,4,5,4,5,5,5,5,4,5,3,3,5,4,4,3,2,1,3,5,4,4,3,3,4,4,5,4,5,4,4,1,4,4,4,3,3,5,4,5,5,3,3,U272,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,3,3,5,4,2,5,4,2,2,3,3,1,3,3,1,2,4,4,5,5,5,3,3,3,2,4,1,1,2,3,3,2,1,2,2,2,2,3,4,4,1,2,U273,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,2,4,4,3,4,4,3,3,3,4,2,3,2,2,2,3,3,3,3,4,2,2,2,2,4,3,4,3,4,4,3,3,4,4,4,4,2,3,3,2,2,U274,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,3,4,3,4,4,4,3,3,3,3,4,2,3,3,4,2,3,3,2,4,4,3,1,1,2,5,3,4,4,3,3,3,3,2,3,2,1,1,U275,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,4,3,4,4,?,3,3,3,3,3,4,2,?,?,1,2,?,?,4,4,4,2,1,4,4,4,3,2,1,4,4,3,3,4,4,4,3,3,3,3,1,3,U276,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,5,1,2,3,2,3,3,2,2,2,2,1,1,3,1,3,3,3,2,2,2,1,3,2,1,1,4,4,2,1,2,2,2,1,1,2,1,1,1,U277,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,4,3,4,4,4,4,3,2,3,2,3,1,3,5,3,4,5,5,1,2,3,3,4,1,2,1,4,1,3,3,4,4,3,4,2,4,3,1,4,U278,30~40,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,2,3,3,5,4,4,4,3,3,4,5,3,4,4,3,4,3,2,4,5,4,2,4,3,3,2,5,5,4,5,4,4,4,4,3,4,4,3,2,4,2,5,U279,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,Yes
+3,3,4,3,3,3,4,4,2,3,2,5,2,3,3,1,2,3,3,5,5,5,3,2,4,3,?,2,2,2,2,2,3,3,3,3,3,3,3,2,4,2,3,U280,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+2,4,3,4,4,2,3,4,3,4,3,2,4,4,2,3,4,3,2,5,5,5,4,4,5,5,4,2,5,4,4,3,4,4,4,3,2,4,4,3,3,1,4,U281,40~50,0~10,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,3,5,4,5,4,4,4,5,5,3,5,3,1,3,4,2,5,5,5,5,5,4,4,4,5,5,5,3,1,5,5,4,1,3,5,5,5,5,5,1,U282,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+2,2,2,5,4,5,4,4,2,3,3,5,1,1,2,1,2,2,4,5,5,5,1,1,2,2,3,3,5,4,2,2,2,2,2,2,2,2,2,5,5,3,2,U283,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,Yes
+2,2,3,3,3,3,3,3,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,1,1,1,2,1,2,1,2,2,1,2,1,1,1,1,1,1,1,1,1,U284,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,4,3,4,3,3,3,4,5,3,2,3,2,3,4,3,4,4,4,1,1,2,2,3,2,2,2,3,3,3,3,2,3,2,2,2,4,4,1,2,U285,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,4,3,4,3,3,3,3,3,2,2,1,1,2,4,2,4,4,4,1,1,1,2,3,2,4,2,4,4,2,2,4,3,4,4,2,2,3,1,1,U286,50~60,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,5,4,?,4,4,4,3,3,4,3,3,?,1,3,5,3,5,3,5,2,1,4,3,4,1,1,2,2,2,3,2,3,3,2,1,3,3,5,1,1,U287,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,3,3,5,4,2,4,3,4,4,3,2,4,3,3,2,2,4,1,5,4,4,2,2,3,2,3,1,2,2,4,3,2,2,4,3,3,4,4,3,4,2,2,U288,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,4,4,5,4,3,4,4,5,5,5,2,5,2,3,2,5,5,4,5,5,5,1,1,3,4,5,1,1,2,5,4,4,4,2,5,5,3,4,3,3,1,2,U289,40~50,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,4,3,3,3,3,3,3,3,4,2,2,2,3,2,4,3,3,1,1,3,3,3,2,2,3,2,1,2,3,4,4,3,4,2,4,3,1,1,U290,40~50,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+4,3,4,5,4,5,4,4,3,4,3,3,4,3,3,1,2,3,4,4,4,5,3,3,3,4,4,1,2,2,4,3,3,3,3,3,3,3,3,4,4,1,5,U291,50~60,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,3,3,3,3,1,3,3,2,2,2,3,3,3,?,1,1,1,2,2,2,5,1,?,2,1,2,1,1,1,3,2,2,2,3,3,5,4,1,1,2,1,2,U292,50~60,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,4,4,4,4,4,4,4,2,2,2,1,4,4,2,4,1,2,2,5,4,5,1,1,2,2,4,5,5,4,5,5,3,4,2,5,5,5,2,4,4,1,2,U293,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,5,5,5,4,3,2,4,4,3,?,5,2,5,3,5,5,5,5,1,4,4,4,1,1,1,3,3,5,5,4,4,4,5,5,5,5,5,2,U294,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,3,3,3,4,5,5,3,3,4,4,4,5,5,5,4,4,4,4,2,2,2,5,4,4,4,3,4,U295,40~50,20~30,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+4,4,4,5,4,3,3,3,4,4,2,2,3,2,2,2,2,4,3,4,5,4,2,2,4,2,4,3,3,2,4,3,4,4,4,4,3,3,3,3,2,1,2,U296,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,3,4,3,3,3,4,3,3,3,3,2,3,3,2,2,4,3,3,4,3,3,1,1,3,2,3,2,1,1,4,2,2,3,3,3,3,3,3,3,3,1,1,U297,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,3,4,?,2,4,3,3,3,2,4,2,3,2,2,2,3,3,3,4,4,2,1,2,2,3,2,2,2,4,4,3,3,4,4,3,3,3,3,4,1,2,U298,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,4,4,2,3,3,3,2,4,2,1,3,1,1,2,1,3,1,4,1,1,1,1,1,3,3,1,3,4,2,1,4,2,2,2,1,3,3,1,2,U299,40~50,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+5,4,5,5,5,5,5,5,5,5,5,3,4,5,5,1,3,1,2,5,5,5,1,1,1,1,5,1,2,5,2,1,3,3,?,?,?,?,2,4,5,1,1,U300,30~40,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,4,?,4,4,4,4,3,3,3,3,?,?,3,4,3,4,4,?,?,?,?,?,3,?,?,?,5,4,?,?,?,?,?,?,4,?,4,?,?,U301,30~40,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,3,3,3,4,4,4,3,3,3,3,1,3,3,3,4,4,4,1,1,2,2,3,1,2,1,4,3,3,3,4,4,4,4,2,2,2,1,1,U302,30~40,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,1,3,2,5,4,3,2,5,4,5,5,5,3,1,1,2,1,4,5,3,1,1,1,1,1,1,1,2,4,2,1,1,5,4,3,3,1,2,3,1,1,U303,40~50,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,3,3,5,3,2,4,5,5,5,4,2,4,4,4,1,3,3,2,5,5,5,1,1,2,2,4,1,1,1,4,3,4,3,5,4,4,4,3,3,3,1,2,U304,30~40,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,3,3,3,4,3,3,3,2,3,3,4,4,2,2,4,2,4,5,5,2,1,2,2,2,2,3,2,4,3,3,3,5,5,5,5,4,4,4,1,3,U305,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,3,3,4,3,?,4,4,4,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,2,2,3,3,4,4,4,4,3,4,?,3,2,U306,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,4,4,4,2,3,3,2,3,3,3,4,3,2,4,4,4,4,4,5,3,2,3,3,4,2,5,4,3,3,3,4,?,2,2,2,3,4,2,2,4,U307,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,5,5,3,4,3,2,3,2,3,2,3,3,1,3,3,3,5,4,4,2,1,3,3,4,1,2,1,3,1,2,3,4,2,5,3,3,4,4,1,1,U308,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,3,3,3,5,4,5,5,3,3,3,4,4,3,4,1,1,2,1,4,4,4,1,1,1,1,3,1,1,1,1,1,1,1,3,2,2,5,1,3,4,1,1,U309,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+2,3,3,4,4,2,3,3,3,3,2,3,3,2,2,1,2,4,3,4,?,4,2,1,3,2,3,1,3,4,4,4,3,3,3,4,3,5,3,3,3,1,2,U310,60~70,more than 30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,5,?,5,5,4,4,4,4,4,4,4,1,3,2,4,4,4,4,1,2,2,1,4,1,1,1,4,4,2,2,3,2,4,5,3,5,5,?,2,U311,30~40,,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,4,4,4,4,4,5,4,3,3,2,2,3,3,3,1,2,2,4,3,4,4,2,1,3,2,4,1,2,1,5,5,3,3,4,4,4,4,4,5,5,1,1,U312,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+5,3,4,5,4,3,5,4,4,5,4,2,5,3,4,4,2,2,3,5,5,5,3,1,4,5,4,5,5,5,3,2,4,5,3,3,4,2,5,5,5,2,1,U313,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,4,4,4,4,4,4,4,2,3,4,4,4,3,4,4,4,4,4,2,4,4,4,4,4,4,2,5,5,4,4,5,5,5,5,3,4,5,1,4,U314,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,5,5,5,3,4,4,4,4,4,3,4,3,3,3,3,3,3,5,5,5,1,1,3,2,3,1,3,2,4,2,3,3,4,4,4,4,5,4,4,1,3,U315,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,3,3,5,4,3,4,4,3,3,3,5,2,2,3,2,1,2,1,3,3,3,1,1,2,2,3,2,2,2,2,1,1,3,3,3,3,3,3,1,5,1,1,U316,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+4,3,3,4,4,3,4,3,4,4,3,5,4,3,3,1,3,4,3,5,4,5,2,1,2,1,3,1,2,1,4,4,2,2,4,5,5,4,2,2,4,1,2,U317,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,3,3,3,3,?,2,3,2,5,3,2,2,2,2,4,2,3,4,4,1,1,2,2,2,4,4,3,3,4,2,2,5,5,5,3,2,2,4,?,2,U318,40~50,,Law & Politics,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,2,2,4,4,?,4,4,2,3,3,4,1,1,2,1,?,4,?,3,5,5,2,2,1,1,2,1,2,2,4,2,1,2,3,3,3,3,3,4,4,1,4,U319,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,3,3,5,5,4,5,5,2,3,3,3,2,4,3,1,2,3,4,5,5,4,2,1,2,2,3,1,3,2,4,3,3,3,4,4,3,2,4,5,5,1,1,U320,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,4,4,3,5,5,4,4,?,3,4,3,3,3,4,5,5,5,5,5,4,1,5,5,5,4,3,1,5,5,5,5,4,5,5,4,5,5,5,1,4,U321,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,?,4,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,4,U322,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,2,2,3,4,4,4,2,3,4,5,3,4,3,2,4,4,4,2,2,2,2,3,2,1,3,1,1,1,3,4,2,2,3,3,3,3,3,2,4,3,2,U323,30~40,10~20,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,3,3,3,4,3,4,3,3,3,3,3,U324,60~70,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,4,4,4,5,5,3,4,4,3,4,3,4,5,3,2,3,5,5,5,3,1,3,3,5,5,3,5,3,3,3,5,5,3,5,3,5,5,3,1,5,U325,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,5,5,5,5,5,4,4,3,3,2,3,3,1,2,2,4,5,5,5,1,1,3,4,4,5,5,5,4,5,3,3,5,5,5,5,5,5,5,4,5,U326,20~30,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+5,4,5,5,5,4,5,4,3,4,4,2,2,2,5,1,5,5,5,5,5,5,5,4,5,5,5,5,5,5,3,3,5,5,3,4,4,3,5,5,3,4,5,U327,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,Yes
+3,3,2,4,3,?,4,4,4,3,2,3,4,?,?,3,3,3,3,5,5,5,2,2,3,3,3,4,4,4,4,4,3,3,5,4,3,4,3,4,3,1,4,U328,50~60,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+2,3,2,2,2,3,3,2,1,1,1,1,2,3,2,1,1,1,1,5,4,4,1,2,1,1,1,4,5,3,5,1,3,1,5,5,5,5,3,3,3,2,1,U329,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,4,3,?,2,2,4,4,3,4,3,2,?,1,1,2,2,4,3,4,1,1,2,1,2,1,3,1,1,1,2,2,?,?,?,?,1,2,2,1,1,U330,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,4,3,5,5,3,4,4,4,4,4,3,3,4,2,2,4,4,4,4,3,5,2,4,4,4,4,1,2,2,4,5,3,3,4,2,5,3,2,3,3,1,3,U331,40~50,0~10,Health Sciences,Male,UOC,Adjunct,Non-PhD,Professor,Yes
+2,2,3,5,5,5,3,5,2,3,3,3,3,4,4,1,2,2,2,5,4,5,1,1,1,1,2,3,4,4,4,4,1,2,5,3,3,4,2,2,3,1,4,U332,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,5,5,4,5,4,3,4,4,2,3,3,3,4,3,4,3,4,4,5,3,2,4,4,3,2,2,2,5,5,3,3,5,2,2,3,3,4,4,2,3,U333,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,3,4,4,5,5,4,3,3,3,4,4,4,4,1,4,4,4,5,5,5,2,2,2,1,5,2,3,1,3,1,2,2,4,3,3,4,4,4,4,2,1,U334,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Associate,No
+2,2,2,3,4,4,4,4,2,2,2,3,2,2,2,2,2,3,2,3,3,3,2,2,2,2,3,2,2,3,4,3,2,2,3,2,2,3,2,2,2,2,2,U335,40~50,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,4,4,3,3,2,2,2,1,3,2,2,1,1,1,2,5,5,5,1,2,2,2,2,3,3,2,1,1,2,2,5,3,2,4,2,4,5,3,3,U336,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+5,4,4,5,5,3,4,4,4,4,4,2,4,4,3,4,4,5,4,5,5,5,4,3,4,4,5,2,2,1,5,3,5,4,4,4,4,4,4,4,4,1,4,U337,40~50,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,4,3,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,3,3,3,3,3,3,3,3,4,4,3,3,4,U338,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,4,4,5,4,?,3,3,4,4,3,?,3,3,?,2,2,4,?,4,4,4,1,1,2,2,4,2,2,2,4,4,?,3,2,3,2,4,1,1,2,1,1,U339,50~60,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,5,5,5,4,5,4,4,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,2,5,4,3,4,5,2,4,U340,30~40,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,5,4,4,3,5,5,4,4,2,4,4,3,3,1,3,2,3,4,3,4,3,1,4,4,4,4,3,1,2,1,3,3,5,3,3,4,4,5,5,1,2,U341,30~40,0~10,Health Sciences,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,3,5,5,4,4,4,2,5,5,4,3,4,5,5,5,5,5,3,3,4,4,5,1,2,1,?,?,4,4,3,3,3,3,5,5,5,1,3,U342,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,4,4,4,4,3,3,2,4,3,2,3,3,3,4,2,5,5,5,2,1,2,2,2,1,2,5,2,2,2,2,4,2,2,4,4,4,4,1,4,U343,20~30,,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,2,2,3,3,3,4,3,2,2,2,5,1,2,3,1,2,1,2,4,4,4,1,1,1,2,3,1,2,2,2,1,2,2,3,3,3,4,1,3,3,1,2,U344,60~70,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,5,5,5,5,4,4,3,4,4,2,2,2,4,3,5,5,5,3,3,4,4,3,4,5,4,5,4,4,4,5,4,5,5,4,4,4,4,4,U345,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,Yes
+1,1,1,4,2,?,3,1,1,3,2,3,1,1,3,1,2,1,?,4,4,4,1,1,1,1,1,2,4,1,3,3,1,1,4,2,1,2,1,1,3,1,1,U346,50~60,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,4,4,3,4,5,4,4,3,3,5,4,5,5,3,4,3,5,5,5,3,2,4,4,5,3,4,3,5,3,4,5,4,3,3,4,4,3,3,1,5,U347,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,4,3,3,4,3,4,3,4,3,3,3,2,3,4,3,4,4,4,2,2,2,2,3,3,3,2,4,4,3,3,4,3,4,4,2,3,4,2,2,U348,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Unknown,Yes
+2,2,2,4,3,2,3,3,3,3,3,4,2,1,3,1,2,4,1,4,2,3,1,1,1,1,1,3,2,4,3,1,1,1,2,4,1,2,1,3,4,1,1,U349,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,5,4,4,5,3,4,5,4,3,4,2,3,3,3,5,3,4,4,5,4,5,4,4,4,3,5,4,4,2,?,?,?,?,3,2,2,4,5,4,5,2,2,U350,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,PhD,Associate,Yes
+4,4,4,5,5,5,4,5,4,4,4,2,3,4,3,3,2,4,4,5,5,5,3,4,3,4,4,3,5,4,5,3,4,4,5,4,5,5,5,5,5,2,5,U351,40~50,,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,2,5,4,5,5,5,1,2,2,5,1,4,5,1,1,1,3,5,5,5,1,2,1,1,1,4,5,5,5,3,3,3,5,4,4,5,2,4,4,3,2,U352,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,3,4,5,5,2,5,4,4,5,4,2,4,3,2,2,2,3,1,4,4,4,3,3,3,3,3,2,3,2,5,3,3,3,3,4,3,2,3,3,3,2,3,U353,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+3,3,3,5,4,4,5,5,3,2,2,3,3,3,3,1,3,3,3,4,4,5,3,3,3,2,4,2,4,2,3,3,3,2,4,3,2,2,3,3,4,4,2,U354,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,2,1,3,2,2,3,2,1,1,1,4,1,2,2,1,1,1,1,2,1,2,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,U355,40~50,0~10,Sciences,Male,UOC,Adjunct,PhD,Associate,No
+3,3,3,5,5,4,4,4,3,2,2,4,3,3,4,1,2,2,3,5,5,5,1,1,3,3,3,1,4,1,5,3,3,3,5,5,5,5,3,3,4,1,3,U356,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,4,4,4,4,4,4,3,3,4,4,3,4,4,3,3,4,4,3,4,5,4,2,2,4,4,4,2,2,2,3,3,4,4,4,3,4,4,4,4,4,2,4,U357,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,4,4,4,4,4,3,4,3,2,4,4,4,3,3,4,4,5,5,5,4,3,4,4,4,4,4,5,4,3,4,4,4,4,3,4,5,5,5,3,5,U358,30~40,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,2,4,5,5,5,5,5,4,4,3,3,3,3,2,1,3,3,4,5,5,5,2,1,3,1,3,5,5,3,3,4,2,4,4,4,4,3,3,5,4,2,1,U359,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+1,3,2,5,5,5,2,5,2,2,3,3,1,3,3,2,2,5,3,5,4,4,2,2,3,3,3,2,3,1,4,3,3,3,4,4,4,4,2,3,4,2,2,U360,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,4,5,5,4,4,4,3,3,4,5,3,2,2,2,5,5,5,2,1,2,2,3,5,5,4,3,1,4,4,3,3,3,4,4,4,4,2,1,U361,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,2,2,3,4,4,3,3,3,3,1,4,2,2,3,1,1,3,2,4,4,4,1,1,2,2,2,1,2,1,3,2,1,1,3,3,3,2,3,4,2,1,1,U362,30~40,0~10,Health Sciences,Male,UOC,Adjunct,PhD,Professor,No
+4,3,4,4,4,?,4,4,4,4,4,2,2,?,?,1,1,3,1,3,3,4,1,1,3,2,4,1,1,3,2,2,2,2,5,5,5,5,1,3,4,1,1,U363,40~50,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+2,2,2,4,4,4,3,3,3,3,3,4,2,2,2,1,3,4,2,3,2,4,1,1,1,1,2,2,2,2,4,3,2,3,3,4,3,3,2,2,3,1,5,U364,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,4,3,5,5,4,5,2,3,4,3,3,3,3,3,3,5,5,5,2,1,3,4,4,5,5,5,3,3,4,4,5,5,5,5,2,2,4,1,3,U365,30~40,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,3,5,5,?,?,?,?,?,?,?,2,2,3,3,5,5,5,4,2,3,3,4,3,3,2,4,4,4,5,5,5,4,5,5,5,5,3,1,U366,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+2,3,4,?,5,5,4,5,4,4,4,4,5,3,4,4,3,4,5,5,5,5,4,4,4,4,4,3,3,3,5,5,4,4,5,3,5,3,4,5,5,3,2,U367,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,4,3,1,2,3,1,2,?,?,?,?,?,?,?,4,3,3,3,1,1,1,5,5,4,4,4,4,2,4,4,4,3,4,1,1,1,1,2,2,2,5,2,U368,20~30,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,5,4,4,2,4,4,3,3,2,4,3,2,2,1,2,2,4,5,5,4,2,3,4,4,3,4,4,4,5,4,4,3,4,4,5,4,4,5,3,2,U369,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,4,5,4,4,3,4,4,4,4,3,3,4,4,4,3,3,4,3,5,5,5,3,4,5,5,5,1,4,1,2,3,5,?,3,3,4,4,3,3,4,1,4,U370,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,5,5,5,3,5,5,5,5,4,3,4,3,3,1,4,5,4,5,5,5,3,1,5,3,5,1,2,2,4,2,4,4,4,4,4,5,3,5,5,1,4,U371,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+2,2,3,4,4,2,5,4,2,2,3,5,1,3,2,3,2,3,3,3,3,4,2,2,2,2,4,2,5,2,4,4,3,3,3,3,4,4,3,4,4,1,4,U372,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,3,5,5,5,5,5,5,4,4,2,5,3,3,3,1,3,3,3,5,5,5,3,5,5,5,5,5,5,3,5,3,5,5,5,5,5,3,5,5,5,3,5,U373,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+1,1,2,5,5,3,1,3,3,3,2,3,3,1,1,1,3,4,4,5,5,5,1,1,1,1,1,5,5,5,5,1,1,1,1,1,1,1,1,3,5,1,5,U374,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+2,2,4,5,4,4,4,4,4,3,3,4,2,3,3,1,2,1,2,5,3,5,1,1,2,3,4,5,5,4,2,4,4,3,3,2,2,2,4,5,3,4,1,U375,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+2,3,2,5,4,3,4,4,3,3,4,2,3,3,2,2,1,4,2,5,4,5,2,1,2,1,3,1,3,2,4,4,1,2,4,2,3,4,2,4,5,1,2,U376,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+2,3,3,4,5,3,4,4,3,3,3,2,?,2,3,1,2,4,3,5,5,4,2,2,2,2,2,4,4,4,4,4,3,3,4,3,2,4,4,5,5,1,3,U377,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+3,3,4,5,5,5,4,4,4,5,3,2,4,4,4,2,2,3,2,5,5,5,3,3,3,3,4,5,5,5,4,4,4,4,4,3,5,5,4,5,5,1,?,U378,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,4,4,4,4,3,4,4,3,3,3,4,3,3,3,2,2,4,3,4,3,5,2,3,3,3,3,2,2,2,4,4,3,4,4,4,3,3,3,4,5,1,3,U379,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,4,4,4,5,3,5,4,4,4,4,5,4,3,1,2,5,5,5,3,4,5,5,3,4,5,5,?,?,?,?,?,?,?,?,4,4,4,3,4,U380,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,3,5,4,3,4,4,4,3,4,2,3,3,3,1,3,3,3,4,4,5,1,2,2,2,4,2,2,1,4,3,3,2,1,4,3,2,4,5,3,1,1,U381,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,5,5,3,4,4,4,4,3,3,4,3,3,1,3,4,3,5,5,4,2,1,4,3,4,1,3,2,3,3,4,3,4,4,4,3,4,4,5,1,1,U382,40~50,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+1,2,2,5,3,3,2,2,1,1,1,2,1,2,2,1,1,4,1,4,5,4,1,1,1,1,1,4,5,5,5,3,1,1,3,1,2,2,1,1,4,1,1,U383,30~40,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,3,5,5,4,4,4,4,2,3,2,2,2,3,4,1,1,3,?,3,2,5,2,1,2,2,4,1,3,2,2,1,3,3,3,2,2,4,3,2,3,1,4,U384,40~50,20~30,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,4,5,5,4,4,5,5,4,4,2,5,4,3,4,1,3,4,4,5,5,5,2,3,4,4,5,2,3,1,4,4,4,4,2,2,4,4,4,5,5,3,2,U385,30~40,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+2,1,3,5,3,4,3,3,2,3,2,5,2,1,3,1,1,4,3,4,2,4,2,1,1,1,1,2,2,3,4,3,1,2,1,1,2,1,1,1,2,1,1,U386,30~40,0~10,Health Sciences,Male,UOC,Adjunct,PhD,Professor,No
+5,4,5,4,5,4,4,4,4,5,4,4,3,3,3,4,4,4,4,5,5,5,3,3,3,3,4,4,3,3,5,3,3,4,4,3,3,3,3,4,4,3,2,U387,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,4,3,4,4,5,5,5,3,3,3,3,3,4,3,3,1,5,1,5,5,5,2,2,3,1,4,4,4,3,5,5,5,5,5,3,5,5,2,4,4,1,3,U388,30~40,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Associate,No
+4,4,4,4,4,4,3,4,3,3,3,3,?,3,?,3,2,2,3,3,5,5,3,5,4,3,4,5,3,5,5,5,4,4,5,5,5,5,4,4,1,?,3,U389,40~50,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,2,2,5,3,3,2,5,3,3,3,5,3,3,3,1,1,3,3,5,5,5,1,1,1,1,1,1,3,2,5,5,3,2,3,3,2,2,1,3,4,1,4,U390,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,4,4,4,4,3,3,3,4,?,3,3,3,3,3,3,3,3,3,2,1,3,3,3,3,3,3,3,3,3,3,4,4,4,4,1,2,3,2,1,U391,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+2,2,3,4,4,3,3,4,4,3,3,4,3,4,3,2,2,4,3,5,5,5,2,1,1,2,2,2,3,1,4,4,2,2,3,4,4,4,2,4,4,1,4,U392,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,4,3,2,4,3,2,3,2,3,3,3,3,1,2,2,2,4,4,4,3,4,2,2,4,1,4,4,3,5,3,3,4,2,3,5,3,3,3,2,3,U393,30~40,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,Yes
+3,3,4,3,3,2,3,3,2,2,2,4,2,2,2,2,5,4,?,2,2,4,1,1,2,2,2,?,2,2,5,5,4,4,3,3,3,3,2,2,2,1,1,U394,50~60,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,3,2,2,3,3,4,4,3,3,4,3,3,4,4,5,4,5,5,5,2,2,4,4,5,2,4,3,5,5,5,5,4,4,3,3,4,4,2,1,4,U395,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,2,3,3,3,3,3,4,3,3,3,4,3,3,3,4,3,3,2,3,3,3,3,4,3,2,4,4,4,2,2,3,3,3,3,2,3,3,2,3,2,3,U396,40~50,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,4,4,4,3,3,3,4,3,4,4,3,3,4,3,5,5,5,3,2,3,3,4,5,5,5,3,2,3,3,4,4,4,4,4,4,5,3,2,U397,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+3,2,3,3,3,3,2,2,3,4,2,2,2,1,2,2,2,4,2,2,2,3,3,1,3,2,2,1,1,1,2,1,1,1,1,2,3,2,3,2,2,1,1,U398,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+5,5,5,?,5,5,5,5,5,5,5,1,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,5,1,1,U399,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,4,4,4,3,2,3,3,3,3,2,2,2,1,2,4,2,4,3,4,2,?,2,2,2,2,1,2,4,3,2,2,3,3,3,2,3,3,2,1,2,U400,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+1,1,2,5,3,3,2,3,2,2,2,5,1,3,3,1,3,1,3,5,5,5,1,2,2,1,3,1,1,3,5,5,2,1,5,3,5,5,2,1,3,1,2,U401,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,U402,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,3,4,3,4,1,2,2,1,2,3,4,1,3,4,1,2,2,2,4,2,5,1,2,2,2,3,3,4,1,2,2,2,2,5,3,5,5,4,4,4,2,2,U403,50~60,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,5,5,2,?,?,3,2,2,2,5,3,4,1,1,1,2,?,5,5,5,2,1,3,?,1,1,1,3,5,1,3,1,1,1,3,3,3,2,5,1,1,U404,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+1,2,3,5,3,5,4,3,3,3,2,4,3,2,3,1,4,5,3,5,5,5,1,1,2,2,3,1,2,4,5,5,2,2,2,2,3,2,2,4,3,3,2,U405,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+4,4,5,4,4,3,4,4,3,3,3,2,3,3,3,5,3,2,3,4,4,4,4,3,4,4,4,1,3,4,5,3,4,4,4,4,4,5,5,4,4,1,1,U406,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,4,?,4,3,4,4,2,4,3,2,?,1,3,2,?,4,4,4,2,1,1,2,4,2,2,2,1,1,2,?,4,3,4,4,2,3,4,1,1,U407,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,4,3,4,4,3,3,3,3,3,2,1,2,3,3,1,2,2,3,2,3,4,1,2,3,3,3,1,1,1,2,1,2,2,4,3,3,5,2,2,4,1,2,U408,30~40,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,U409,20~30,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,4,2,3,2,4,4,3,3,3,2,2,2,3,2,2,2,2,2,3,3,3,3,3,3,3,3,2,2,2,5,4,3,3,5,4,4,4,3,3,4,2,2,U410,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,5,5,4,5,4,4,4,3,4,3,4,3,3,3,4,4,5,5,5,3,2,4,3,4,3,4,4,5,5,4,4,5,2,3,5,2,3,4,3,4,U411,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,3,4,4,4,3,3,4,3,4,2,4,3,4,3,2,2,3,3,4,3,4,2,1,2,2,3,1,4,2,3,4,2,2,3,3,2,2,3,3,3,2,4,U412,40~50,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,2,3,5,4,4,4,4,4,4,4,3,4,4,4,2,2,5,2,5,5,5,1,1,4,4,4,5,5,5,5,3,3,4,5,5,4,5,4,?,5,1,1,U413,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,5,5,5,5,3,5,3,4,3,3,3,4,4,3,3,3,4,4,4,4,1,1,2,2,4,3,3,3,4,5,4,3,3,4,4,2,2,5,5,1,4,U414,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,4,4,4,4,3,3,4,5,3,3,2,1,4,2,4,5,5,5,1,1,4,4,4,?,2,1,5,4,4,4,5,5,5,5,4,5,3,1,1,U415,30~40,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,4,4,5,4,3,4,3,3,3,2,2,2,3,3,3,4,4,5,2,3,4,4,4,2,3,1,4,?,?,?,?,?,?,?,4,4,4,2,1,U416,30~40,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,3,4,5,4,5,5,4,4,2,5,3,4,3,1,2,3,3,5,5,5,1,1,2,2,2,1,3,2,5,3,3,2,5,4,3,2,1,4,3,1,4,U417,20~30,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,4,5,5,4,5,4,3,4,4,4,1,2,2,1,5,5,5,3,1,5,3,5,1,5,5,4,1,3,3,3,4,3,4,4,4,4,1,2,U418,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+2,2,1,5,5,3,4,4,3,3,3,5,3,?,?,1,2,3,1,3,3,4,1,1,1,1,2,2,4,2,3,4,2,2,4,5,5,3,2,2,3,1,4,U419,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,5,3,3,4,4,4,4,4,4,5,3,4,3,5,4,5,5,5,5,1,1,3,3,5,2,2,1,5,5,3,2,3,3,3,3,4,5,5,1,2,U420,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,5,5,5,3,3,3,5,3,3,3,3,3,3,1,5,5,5,1,1,3,3,3,1,1,1,3,3,3,3,5,5,5,5,1,1,1,1,1,U421,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,4,4,2,4,3,3,3,3,3,3,4,4,4,4,4,5,5,5,2,2,3,3,4,2,2,2,3,3,3,3,5,4,4,4,3,3,3,2,2,U422,30~40,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,?,4,4,3,3,3,3,3,3,3,3,2,2,2,3,4,4,3,3,3,3,3,3,4,4,4,4,3,3,4,3,3,3,3,3,3,3,3,U423,50~60,20~30,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+2,3,3,5,3,3,4,4,3,3,2,2,3,3,2,1,2,3,4,5,5,5,2,3,3,2,3,4,4,4,4,4,2,3,3,4,4,4,3,4,4,1,3,U424,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,3,4,5,3,4,4,3,4,4,3,4,2,3,2,1,3,4,3,3,3,4,1,2,2,2,4,1,4,1,4,2,2,3,3,3,3,3,2,3,4,1,4,U425,30~40,0~10,Sciences,Male,UOC,Adjunct,PhD,Associate,No
+2,1,1,3,2,4,3,2,1,1,2,2,1,1,2,1,2,4,4,1,1,1,2,1,1,1,1,2,1,1,2,4,1,3,1,1,2,?,1,1,1,3,2,U426,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,4,4,5,4,?,4,5,4,4,3,4,3,?,?,2,3,2,3,5,5,5,1,1,4,4,5,1,5,5,1,1,4,4,5,3,2,3,4,5,5,1,1,U427,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,4,3,3,3,4,3,4,3,3,3,3,3,2,3,2,2,4,4,5,3,3,4,4,3,2,3,3,4,2,4,3,3,3,3,3,3,3,4,3,4,U428,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+3,3,2,5,4,2,4,4,2,2,2,4,3,3,2,1,3,5,3,5,5,5,1,1,2,2,4,3,5,5,5,5,3,2,3,2,4,3,3,4,3,1,4,U429,40~50,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,Yes
+3,3,4,4,4,2,4,4,4,4,4,2,4,3,3,4,3,3,4,4,5,4,4,3,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,5,2,4,U430,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,2,2,4,4,4,2,2,2,2,1,2,2,1,2,2,2,2,2,4,1,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,U431,30~40,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,4,4,4,5,5,5,5,3,3,3,3,2,3,4,1,1,2,2,5,5,5,1,1,1,1,1,1,5,2,5,5,3,2,3,2,4,5,3,4,5,1,2,U432,30~40,0~10,Health Sciences,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,2,3,4,4,5,2,3,2,3,3,3,3,2,3,2,3,4,3,4,3,3,3,1,2,2,4,2,2,2,4,3,2,2,2,4,4,4,2,3,3,1,1,U433,50~60,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,4,4,4,4,3,3,3,5,4,3,3,3,3,3,4,4,4,4,3,2,3,3,4,3,4,4,3,3,3,3,3,4,4,4,3,4,3,1,2,U434,40~50,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,3,3,3,4,3,3,2,3,3,3,1,3,4,4,4,4,4,1,1,4,4,4,1,1,1,3,3,4,4,4,3,3,3,4,3,4,1,4,U435,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,4,4,4,1,4,2,2,2,3,3,1,2,3,3,3,4,4,2,2,2,3,3,2,2,2,4,4,3,3,3,2,2,4,3,4,5,2,5,U436,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,4,4,4,4,3,4,4,4,4,3,4,4,3,3,2,3,3,5,4,4,4,3,1,4,4,4,1,1,1,4,3,4,4,2,2,2,2,4,4,4,1,1,U437,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,3,4,4,4,4,3,2,3,3,3,1,2,4,3,5,5,5,1,1,1,1,2,1,1,1,5,5,3,3,3,3,3,3,2,2,4,1,3,U438,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+4,3,4,4,3,3,4,4,3,4,3,3,4,4,4,3,3,4,3,4,4,4,4,4,3,3,4,2,4,4,5,5,3,4,4,4,4,4,4,4,3,4,4,U439,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,5,5,?,5,4,5,4,4,4,4,?,?,2,3,3,4,5,4,5,5,1,4,4,5,1,2,2,4,2,3,5,5,5,5,5,5,5,5,1,2,U440,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+4,4,3,4,4,?,5,5,2,3,5,3,2,4,4,2,5,4,5,5,5,5,?,?,3,5,3,1,3,1,5,5,3,4,5,5,5,5,?,?,?,?,?,U441,60~70,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Professor,No
+2,3,4,5,3,?,3,3,3,4,3,3,3,3,?,2,1,2,2,3,3,4,2,2,3,3,3,1,5,3,4,4,3,3,3,3,2,3,4,4,4,1,2,U442,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+2,3,3,4,4,4,3,3,4,4,4,3,3,4,3,3,3,4,3,3,4,4,3,1,2,2,3,2,1,3,4,3,2,2,4,3,4,4,3,4,4,2,4,U443,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+4,3,3,5,5,3,3,4,3,3,3,4,3,3,2,2,2,3,3,5,5,5,2,3,3,3,3,3,4,4,3,3,4,4,4,4,3,3,3,4,4,1,3,U444,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,4,5,4,5,3,4,3,2,2,4,?,?,3,2,2,3,5,4,4,3,2,4,4,4,4,5,2,3,2,4,4,5,4,2,4,3,4,5,4,1,U445,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Professor,Yes
+2,2,2,5,4,3,3,3,3,3,3,5,2,3,3,1,2,2,3,?,3,3,1,1,3,1,2,2,2,1,3,3,2,2,4,3,4,3,2,2,1,1,2,U446,50~60,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,2,3,5,3,?,3,2,2,2,2,2,2,1,?,1,?,3,?,5,5,5,1,1,1,1,2,5,3,3,3,?,1,2,3,1,3,5,3,3,3,1,1,U447,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+4,5,4,5,5,5,5,5,2,3,3,2,1,3,3,1,2,5,2,4,4,2,1,1,3,1,4,2,3,3,5,3,3,3,4,5,2,5,2,4,4,2,1,U448,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,4,4,4,5,4,5,4,4,4,4,3,3,3,3,4,5,5,5,5,5,4,5,5,5,3,5,3,4,3,5,5,5,4,4,5,5,5,5,4,4,U449,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,Yes
+3,3,4,4,2,3,4,4,4,4,2,5,4,3,3,1,2,2,2,5,5,5,2,1,1,2,3,3,4,3,2,2,3,3,3,3,3,4,4,4,4,1,1,U450,20~30,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,4,3,2,3,2,3,3,3,2,3,2,3,2,2,2,3,2,3,2,3,2,2,3,2,3,3,3,5,?,3,3,5,3,3,4,2,3,2,3,3,U451,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,3,4,4,4,?,5,4,4,4,4,4,3,3,?,1,3,2,3,3,3,4,?,?,4,3,4,1,1,2,3,3,3,3,3,5,3,3,3,4,3,1,?,U452,30~40,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,3,3,3,3,3,3,3,U453,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+3,3,3,5,5,2,3,5,2,2,1,4,2,3,3,1,3,3,3,3,4,4,1,1,2,2,3,1,3,2,2,2,2,2,3,4,3,2,2,2,2,1,1,U454,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+1,1,2,2,5,5,3,3,1,1,2,2,3,1,1,2,3,2,3,3,3,3,1,1,2,2,1,2,1,1,4,3,3,2,1,1,1,1,2,2,1,1,1,U455,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,4,4,4,5,4,4,3,4,3,4,3,3,4,5,4,4,4,5,5,3,2,5,5,4,3,3,2,5,5,4,4,4,2,3,3,4,4,5,2,3,U456,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,2,4,5,3,3,4,4,2,2,2,4,4,2,2,2,1,3,4,5,4,5,2,1,3,3,3,4,5,3,4,5,3,3,5,4,4,4,3,4,4,1,2,U457,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,5,5,4,5,5,4,4,4,4,5,4,3,3,5,4,4,4,5,5,2,1,4,4,4,2,3,3,3,2,3,4,5,5,5,4,3,3,5,3,3,U458,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,3,4,5,5,4,4,4,3,3,3,2,3,3,3,2,3,4,3,4,4,4,1,1,3,3,4,1,3,1,3,3,3,3,4,3,2,3,3,3,3,1,1,U459,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,4,4,4,4,3,3,3,3,2,3,3,1,4,4,2,5,5,5,3,1,1,1,2,1,1,1,5,5,5,5,4,4,4,5,4,4,4,1,1,U460,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,2,2,5,3,4,4,3,2,2,2,4,3,2,4,2,2,3,2,4,4,4,1,1,2,2,2,2,2,2,4,3,2,2,4,4,4,4,1,1,1,1,4,U461,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,3,?,4,3,3,3,3,2,?,1,?,2,1,3,3,5,5,5,2,1,3,3,3,1,2,1,2,1,2,2,3,3,3,3,3,3,3,1,2,U462,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,?,3,4,4,3,3,3,3,3,?,4,2,3,3,3,3,2,2,5,5,5,1,1,3,3,4,4,4,5,5,5,3,3,3,4,4,3,?,3,4,1,2,U463,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Unknown,No
+3,4,4,4,4,3,4,4,3,3,2,2,3,2,3,1,2,3,3,5,5,5,1,2,3,?,3,3,2,2,4,3,3,3,3,3,3,3,2,2,3,2,3,U464,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+5,4,5,4,4,5,5,4,3,4,3,3,3,3,?,3,3,3,3,5,5,5,2,3,3,3,3,3,5,4,4,4,4,4,5,5,5,5,4,3,2,2,3,U465,40~50,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,4,4,5,5,3,5,5,3,3,3,5,3,?,3,2,2,3,2,4,4,4,2,5,3,3,3,2,2,2,4,3,3,3,3,4,3,3,3,3,5,1,5,U466,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+3,3,3,3,3,3,4,3,3,3,3,3,2,3,3,2,3,3,3,3,3,4,1,1,3,3,3,2,3,3,4,4,3,3,3,2,3,3,3,3,3,1,3,U467,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,5,?,4,4,4,4,4,5,4,3,3,2,3,2,3,3,5,5,1,1,1,1,4,1,1,1,3,3,2,1,4,5,4,5,4,5,4,1,1,U468,30~40,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,2,5,4,3,4,4,4,4,4,3,2,2,2,2,4,3,4,5,4,5,5,3,2,4,4,4,5,5,1,5,5,5,5,3,3,3,3,4,4,3,1,2,U469,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,1,1,2,1,1,2,2,2,2,3,3,3,2,4,2,2,2,1,1,2,3,1,3,4,1,5,4,5,1,2,3,3,1,2,3,2,4,4,2,3,2,U470,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Associate,No
+3,4,5,5,4,4,5,5,4,4,3,3,4,4,3,4,5,5,5,5,5,5,3,4,5,5,5,2,2,4,4,3,4,4,4,3,2,3,4,4,4,2,5,U471,20~30,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,4,?,3,3,2,3,3,3,4,3,3,1,3,3,3,4,3,4,1,1,1,1,3,1,1,1,3,3,3,?,4,4,4,3,1,1,2,1,1,U472,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,5,3,5,4,4,4,2,3,3,3,3,5,3,3,3,4,5,5,4,1,4,4,4,1,4,1,5,4,4,3,4,1,1,1,4,4,5,1,1,U473,20~30,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,4,5,3,5,3,4,4,3,4,3,3,3,3,3,1,4,3,4,4,3,5,4,3,4,4,3,1,1,1,4,4,4,4,5,5,5,4,4,4,2,2,4,U474,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,U475,30~40,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+2,1,2,4,3,3,2,3,3,3,3,5,3,3,3,1,1,3,1,3,4,4,1,1,1,1,2,1,1,1,1,1,1,1,3,3,3,3,1,2,4,1,1,U476,30~40,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+?,2,4,5,4,1,2,4,4,4,4,4,1,2,2,1,2,2,4,5,5,5,1,1,1,1,3,1,3,3,5,4,2,2,4,2,1,1,3,4,3,1,1,U477,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,5,?,5,5,4,4,4,3,4,3,?,4,4,3,4,4,3,4,2,1,4,4,4,1,1,1,4,3,3,3,4,4,3,3,2,4,4,1,1,U478,30~40,,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,3,3,4,4,4,3,4,3,3,4,3,3,3,2,3,2,4,5,5,3,3,3,3,3,5,5,5,4,3,3,3,5,3,5,4,3,4,4,4,5,U479,50~60,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Associate,Yes
+3,4,5,5,4,4,5,5,4,3,2,1,4,3,3,4,3,5,4,5,5,5,4,2,4,4,5,1,3,3,2,1,4,4,5,5,5,5,4,4,4,1,2,U480,40~50,10~20,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+1,1,2,4,4,3,2,3,2,2,2,4,2,3,3,1,?,?,?,?,?,?,1,1,1,1,?,1,3,2,3,3,1,1,3,1,4,3,1,1,3,1,1,U481,40~50,10~20,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,2,2,4,3,3,5,4,3,2,1,5,1,?,?,1,1,5,2,5,5,5,1,1,1,2,2,1,4,1,5,5,2,2,5,5,5,4,1,3,3,1,1,U482,40~50,10~20,Law & Politics,Male,UOC,Adjunct,PhD,Associate,No
+3,3,2,4,5,4,5,4,4,5,5,5,4,3,4,1,1,2,1,4,5,5,4,1,1,1,4,1,2,2,4,4,4,3,5,5,5,5,2,4,5,1,1,U483,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+3,3,2,4,5,4,4,5,2,3,1,4,3,3,4,2,1,5,3,5,4,5,1,1,1,1,1,1,5,5,5,5,2,2,4,3,2,2,1,2,2,1,1,U484,30~40,0~10,Law & Politics,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,3,5,5,4,4,4,4,4,4,4,2,3,3,2,5,4,4,4,4,5,5,4,1,5,5,4,1,2,3,4,4,4,4,?,?,?,?,4,4,2,1,4,U485,60~70,20~30,Sciences,Male,UOC,Adjunct,PhD,Associate,No
+4,4,4,5,4,3,4,4,3,3,3,3,3,3,3,3,2,4,3,4,4,5,3,3,4,3,3,1,3,1,3,4,3,3,5,4,5,4,4,4,4,2,2,U486,40~50,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+1,1,3,5,5,3,3,3,3,3,3,3,4,3,3,1,1,4,2,4,5,5,2,2,3,2,3,1,2,3,3,2,2,2,3,3,3,3,3,3,3,2,1,U487,40~50,0~10,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+2,2,3,4,4,3,3,4,2,2,2,4,2,3,3,1,2,3,3,4,4,5,2,2,2,2,?,4,5,3,4,4,3,3,3,3,3,3,3,4,5,4,3,U488,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,4,4,4,4,4,3,4,3,3,2,4,4,3,4,4,4,4,4,4,2,3,4,4,4,4,?,4,4,4,4,4,5,3,3,3,4,4,4,1,5,U489,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,2,4,4,4,3,2,2,5,5,4,1,5,2,3,3,3,3,4,5,5,5,2,2,2,3,4,1,2,1,3,3,2,3,3,3,3,3,4,4,3,1,2,U490,30~40,0~10,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,?,4,3,3,?,4,2,3,?,?,2,3,4,4,5,5,5,2,2,3,2,4,2,2,1,5,5,3,3,5,5,5,5,4,3,4,1,3,U491,50~60,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,3,3,4,3,3,3,2,2,2,2,2,3,1,3,3,3,4,4,4,2,2,2,2,2,4,4,3,4,3,2,2,4,4,4,3,2,2,3,4,2,U492,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,5,5,5,3,5,3,4,4,4,1,4,4,3,1,3,3,3,5,4,5,5,1,4,4,5,1,3,1,1,1,5,5,5,3,3,5,4,3,1,1,1,U493,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,PhD,Professor,No
+4,5,4,5,5,3,5,5,4,4,4,2,4,4,3,3,4,4,4,4,5,5,1,1,3,3,5,2,4,1,3,4,4,3,5,5,5,5,5,5,5,1,5,U494,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Professor,No
+4,2,2,5,4,3,2,3,3,4,3,3,3,4,3,2,2,4,2,4,2,4,2,3,2,2,3,2,2,3,3,3,3,2,4,3,4,4,4,4,4,2,2,U495,50~60,0~10,Health Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,4,5,5,4,4,4,3,3,3,3,2,3,4,3,3,3,4,3,1,3,3,3,1,2,1,4,4,3,3,5,5,5,2,4,5,5,1,5,U496,30~40,0~10,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,3,?,4,3,3,3,1,5,2,3,?,1,2,4,2,5,4,5,1,1,2,1,3,3,3,3,3,2,2,2,4,3,2,3,2,2,3,1,4,U497,50~60,20~30,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+3,4,5,5,4,5,5,3,4,4,4,5,4,5,5,3,5,5,5,5,5,5,2,3,4,4,5,2,2,5,3,3,3,3,5,3,3,1,4,4,4,1,3,U498,30~40,,Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,1,5,4,3,5,4,2,2,2,4,2,2,4,2,2,2,3,4,4,5,2,2,2,2,2,4,5,4,4,4,2,2,4,2,2,2,2,4,4,4,2,U499,30~40,0~10,Law & Politics,Male,UOC,Adjunct,PhD,Professor,Yes
+4,4,3,5,5,5,4,3,2,3,3,3,3,4,4,2,3,3,4,2,3,3,3,3,3,3,3,?,4,4,4,4,3,3,4,5,4,5,2,3,4,4,2,U500,50~60,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,2,3,3,2,3,3,2,3,2,4,3,2,3,2,2,2,3,3,3,3,2,1,2,2,3,1,3,1,2,2,2,2,4,3,3,3,3,3,3,1,2,U501,40~50,10~20,Law & Politics,Male,UOC,Adjunct,Non-PhD,Professor,No
+3,4,3,3,4,2,2,2,2,2,2,3,2,3,2,1,3,4,2,4,2,4,1,1,1,1,2,2,4,4,?,?,1,1,1,1,1,1,3,3,2,1,1,U502,40~50,0~10,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,2,5,4,4,4,3,2,4,3,3,3,3,4,1,2,4,3,?,4,4,1,1,2,1,3,1,1,1,5,5,3,2,4,3,2,2,1,2,2,1,1,U503,30~40,,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,3,2,3,?,3,4,4,3,3,3,3,3,2,3,3,3,4,3,4,2,2,3,3,3,1,2,1,4,4,3,3,3,3,2,2,2,2,2,2,2,U504,40~50,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,Yes
+2,2,2,4,4,3,3,2,4,3,3,2,2,3,3,1,1,4,1,4,3,4,1,1,2,2,4,1,1,1,3,1,3,2,1,1,1,1,2,3,1,1,1,U505,40~50,10~20,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,5,5,5,3,3,4,4,3,3,3,3,3,3,3,2,3,5,3,5,3,5,2,3,3,3,3,3,3,4,4,3,3,3,3,3,3,4,3,4,4,2,5,U506,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,3,?,2,2,2,3,2,3,2,1,?,1,1,2,1,3,3,3,1,1,1,1,1,1,2,1,4,1,1,1,2,4,3,2,1,1,2,1,1,U507,40~50,10~20,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,3,3,4,2,3,2,3,2,2,3,1,2,3,2,4,4,4,1,1,2,2,3,1,3,1,3,2,2,2,4,4,3,4,2,3,4,1,1,U508,40~50,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,5,4,4,2,2,3,4,4,3,3,2,?,?,1,1,3,1,5,5,4,3,3,5,?,4,1,1,3,1,1,3,4,4,4,1,4,3,4,4,1,1,U509,50~60,20~30,Law & Politics,Male,UOC,Adjunct,PhD,Professor,No
+4,?,4,4,4,3,4,4,3,3,2,4,3,4,3,2,2,3,2,4,4,5,1,1,3,2,4,1,4,3,3,3,3,3,5,5,4,5,2,2,2,1,1,U510,50~60,20~30,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,4,4,4,4,3,3,3,3,3,3,3,3,2,2,4,3,5,5,5,5,5,3,1,5,4,5,3,3,3,4,2,5,5,3,4,3,5,5,5,5,5,2,U511,50~60,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,Yes
+2,2,2,2,3,2,3,2,2,3,3,2,1,2,2,1,2,1,2,3,2,2,1,1,1,1,4,1,2,1,2,1,1,1,3,3,1,4,2,3,4,1,1,U512,50~60,10~20,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+3,3,3,4,?,?,3,3,3,3,3,4,3,2,?,2,?,?,2,3,3,4,1,1,2,2,3,?,2,3,4,4,?,?,5,4,4,5,2,2,?,1,4,U513,50~60,10~20,Health Sciences,Male,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,4,3,3,4,4,2,3,3,4,3,3,3,2,2,4,4,4,4,5,2,2,2,3,4,4,1,4,5,4,3,2,4,2,3,3,4,5,2,1,4,U514,50~60,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+4,4,4,3,3,3,3,3,4,4,4,4,4,5,4,4,4,3,4,5,5,5,4,4,4,4,4,4,4,5,2,2,4,4,4,2,4,4,4,4,4,3,4,U515,40~50,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+4,3,3,4,4,4,4,4,3,3,3,3,3,3,3,2,3,5,3,4,4,5,2,2,3,3,4,2,5,3,4,3,4,4,4,4,5,?,4,4,4,4,2,U516,50~60,10~20,Arts & Humanities,Male,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,3,3,4,4,3,3,3,4,3,2,?,1,3,2,3,4,4,4,2,1,1,2,3,1,1,1,3,2,3,?,3,2,1,1,3,4,4,1,1,U517,60~70,20~30,Engineering & Architecture,Male,UOC,Adjunct,PhD,Professor,No
+2,3,2,3,2,3,2,2,2,2,2,5,3,2,3,1,3,3,2,3,3,3,1,1,1,1,2,2,2,1,1,1,2,2,1,1,1,1,1,1,3,2,2,U518,50~60,20~30,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,Yes
+2,2,3,5,4,2,2,4,1,2,2,4,3,3,3,1,2,5,4,5,4,5,3,1,1,1,2,1,1,3,2,2,1,1,3,5,5,5,1,1,1,1,1,U519,50~60,20~30,Unknown,Male,UOC,Adjunct,PhD,Professor,No
+4,4,2,4,4,?,5,5,3,4,4,2,?,4,?,?,2,4,3,3,2,5,1,1,?,?,4,?,?,?,2,2,4,3,4,4,4,5,1,4,5,1,1,U520,40~50,10~20,Sciences,Male,UOC,Adjunct,PhD,Professor,No
+2,2,3,4,3,?,3,2,3,3,2,4,2,?,?,1,2,3,?,4,2,3,1,1,1,1,1,1,2,1,2,2,1,1,5,5,5,1,2,2,2,1,1,U521,40~50,10~20,Health Sciences,Male,UOC,Adjunct,PhD,Professor,No
+3,1,2,5,3,1,1,3,1,3,2,3,?,1,1,1,1,5,1,5,5,5,1,1,1,1,1,1,1,1,?,?,?,?,1,5,5,5,1,1,4,1,1,U522,30~40,0~10,Unknown,Male,UOC,Adjunct,PhD,Associate,No
+4,4,4,5,5,4,5,5,4,3,4,2,4,3,3,3,3,4,4,4,4,4,3,3,3,2,4,1,4,1,4,4,4,4,4,4,4,4,4,4,5,1,4,U523,40~50,10~20,Health Sciences,Male,UOC,Adjunct,PhD,Associate,No
+2,3,2,4,4,4,3,4,4,4,3,3,3,3,2,4,4,3,2,4,5,5,2,1,4,4,3,5,5,5,4,2,3,4,4,4,3,1,4,4,5,2,3,U524,40~50,0~10,Unknown,Male,UOC,Adjunct,Non-PhD,Professor,Yes
+3,5,3,3,3,4,3,4,2,2,1,2,4,3,4,2,2,4,3,4,5,5,2,2,2,2,2,3,4,4,4,2,3,3,3,3,3,3,2,2,3,3,2,U525,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,3,4,3,3,4,3,3,4,4,4,3,3,4,4,4,5,5,3,3,3,3,3,3,2,4,3,4,3,3,4,3,3,4,3,4,4,1,5,U526,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+4,3,3,5,3,3,4,5,3,3,3,3,2,3,4,4,2,4,4,5,5,5,4,4,3,4,3,5,5,5,5,5,3,4,5,3,4,3,4,4,4,2,4,U527,30~40,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,5,2,5,5,4,3,3,3,3,3,2,1,4,2,4,3,4,5,1,1,3,3,3,3,4,1,5,1,3,3,1,1,1,1,1,4,4,1,1,U528,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,5,5,5,5,3,3,3,2,2,2,3,1,2,2,1,3,3,4,1,1,1,1,1,4,4,3,3,2,2,2,?,?,?,5,1,1,5,1,1,U529,50~60,0~10,Law & Politics,Female,UOC,Adjunct,PhD,Associate,No
+2,3,2,4,3,4,4,4,2,3,2,4,2,2,3,1,1,2,2,2,3,3,1,1,2,1,2,1,3,2,4,3,3,2,2,4,3,4,2,4,2,1,3,U530,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,5,5,5,4,?,4,4,5,5,4,1,?,?,?,2,4,3,4,5,5,5,3,1,4,4,5,3,5,5,4,?,4,4,5,5,3,5,5,5,5,1,5,U531,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,?,5,4,4,?,?,?,4,5,4,3,4,?,?,?,?,4,?,4,?,4,2,1,4,4,?,?,2,?,?,?,?,?,?,?,?,?,4,4,5,1,5,U532,40~50,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+3,2,2,5,5,5,5,5,3,4,3,4,2,2,5,2,1,4,3,5,5,5,1,1,2,2,3,1,1,1,5,5,3,2,5,4,5,5,3,4,4,1,4,U533,40~50,10~20,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,3,3,3,3,2,2,2,5,2,2,2,1,2,3,2,3,3,3,1,1,2,2,1,2,2,2,2,1,?,2,3,3,2,2,2,2,3,1,2,U534,40~50,10~20,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,2,5,5,4,5,5,2,3,3,1,3,2,4,1,1,3,2,4,5,4,1,1,1,1,2,1,1,1,4,1,1,1,3,4,3,2,1,3,5,1,1,U535,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,4,5,4,5,3,5,4,5,5,5,5,5,3,1,1,3,4,3,3,3,4,2,1,1,3,4,1,5,4,3,1,3,3,3,4,3,3,5,5,5,1,1,U536,40~50,20~30,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,5,5,5,5,2,5,5,4,3,3,1,4,1,1,1,1,4,1,5,1,5,2,1,3,5,1,3,2,1,5,2,5,3,3,5,3,3,5,5,5,1,4,U537,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,5,5,5,5,3,3,1,2,3,5,1,3,4,3,3,5,2,5,5,5,2,1,3,1,5,1,3,2,5,5,2,2,5,4,3,5,1,4,3,1,4,U538,50~60,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,5,5,3,5,5,4,4,4,4,4,3,3,4,4,4,3,5,5,5,2,2,5,3,5,1,2,1,3,4,4,4,4,5,5,5,5,5,4,2,2,U539,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,3,3,2,3,2,4,3,4,2,2,3,2,3,4,4,4,4,4,2,2,3,3,3,2,4,2,5,4,3,3,4,2,4,3,2,3,2,2,2,U540,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,1,3,2,5,4,3,4,3,4,3,5,1,3,3,1,1,1,1,5,3,4,1,1,1,?,2,2,2,1,1,1,2,2,5,5,5,5,2,2,1,1,1,U541,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+4,4,4,4,4,4,4,4,4,3,4,2,4,3,4,3,3,3,3,3,3,3,2,2,3,3,3,2,3,3,4,4,3,3,5,3,3,5,3,4,4,1,4,U542,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,5,5,5,3,3,3,3,4,?,?,1,3,5,?,5,3,5,1,1,2,1,3,4,3,3,4,?,?,?,4,4,4,4,1,3,3,1,1,U543,50~60,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,3,4,3,4,3,4,3,5,3,3,4,1,3,4,3,5,4,5,1,1,2,2,3,1,1,1,5,3,2,2,4,5,5,4,3,3,3,1,1,U544,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,5,4,4,5,5,5,3,3,2,2,4,5,2,4,2,4,2,5,5,5,5,5,4,4,3,4,5,5,2,1,5,5,3,5,3,5,5,5,5,4,4,U545,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,Yes
+3,2,3,5,4,3,4,5,4,4,3,4,4,3,3,3,1,3,3,5,5,5,3,1,4,3,3,2,1,2,2,2,3,4,4,4,5,4,3,4,4,1,3,U546,50~60,20~30,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+1,1,1,4,3,2,5,5,2,2,2,5,1,2,3,1,1,2,3,5,5,5,1,1,1,1,1,1,1,1,5,3,1,1,5,3,2,1,1,1,2,1,1,U547,40~50,20~30,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,4,5,3,5,2,4,4,4,3,3,3,3,2,2,3,3,3,2,3,3,3,3,3,3,3,4,1,1,1,5,5,3,3,5,4,5,5,4,4,5,1,5,U548,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,2,4,2,3,2,2,2,4,2,2,4,2,2,4,3,4,4,5,1,1,2,2,2,3,3,3,5,5,3,2,4,2,2,3,2,2,3,3,2,U549,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,5,4,4,3,4,4,3,4,4,5,4,4,3,5,4,4,4,5,?,4,4,3,4,3,5,5,4,4,4,?,5,5,5,5,4,4,2,2,4,U550,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+4,3,2,5,5,4,5,5,3,3,4,2,2,4,3,2,2,4,5,5,4,5,2,5,4,4,4,4,3,5,4,5,3,3,4,4,3,3,3,5,5,3,4,U551,40~50,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,4,4,5,5,3,4,3,3,3,5,3,4,3,3,5,3,5,5,5,3,3,4,4,4,5,5,5,5,3,3,3,4,4,4,4,4,4,4,5,3,U552,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,Yes
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,U553,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+5,3,5,4,4,5,4,4,4,4,4,1,4,3,3,2,4,4,4,5,5,5,1,3,3,3,4,4,4,3,5,2,3,3,4,4,3,2,5,5,4,3,5,U554,30~40,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,2,5,5,1,5,5,4,4,4,5,3,2,1,1,2,5,3,4,5,5,1,1,1,1,4,1,2,3,4,5,2,2,4,4,4,5,2,4,5,1,1,U555,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,5,5,5,4,4,4,2,4,5,5,1,5,4,5,3,3,5,2,1,3,5,5,1,4,1,5,5,3,5,5,5,5,3,5,5,5,1,1,U556,40~50,,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,5,5,5,5,5,4,4,3,2,3,2,4,3,5,2,5,4,5,5,3,1,4,2,5,1,2,1,3,3,3,4,2,4,1,1,3,5,3,1,4,U557,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,Yes
+2,2,2,4,3,1,4,3,2,2,2,2,2,3,2,1,1,2,2,3,3,3,1,2,2,1,2,1,2,1,5,4,2,2,5,3,3,3,1,2,2,1,2,U558,40~50,10~20,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,5,5,5,5,3,3,3,2,2,4,?,1,2,4,2,5,5,5,2,1,3,3,3,1,2,4,4,4,3,3,?,?,4,4,4,4,4,1,3,U559,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,4,4,4,2,2,3,2,2,2,3,1,2,3,3,5,4,4,2,1,1,1,3,2,3,3,4,4,2,2,5,4,4,4,2,3,3,1,2,U560,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+3,4,5,5,4,3,4,2,3,5,4,2,4,3,3,2,4,5,5,4,4,5,3,3,4,4,4,4,5,4,4,4,4,5,5,4,4,5,4,4,2,1,3,U561,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,5,3,3,4,4,2,2,2,4,3,4,4,5,2,3,2,5,5,5,4,2,4,4,4,4,5,4,3,1,3,3,5,4,3,3,2,2,4,1,4,U562,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,2,4,4,2,3,2,2,3,3,4,2,3,4,2,2,4,3,4,4,5,1,2,2,2,3,3,3,3,3,3,3,3,4,4,4,4,2,3,4,2,2,U563,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,3,4,3,3,3,3,?,4,2,2,3,1,2,3,3,5,5,5,1,2,2,2,2,3,4,5,4,4,2,2,3,2,2,2,2,3,3,3,5,U564,50~60,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,5,?,4,3,4,3,4,?,4,4,?,2,?,3,?,5,5,5,3,2,4,4,5,1,2,1,4,?,4,5,?,?,?,?,5,5,5,1,1,U565,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,2,4,4,?,3,3,2,2,2,?,3,1,?,1,1,3,?,5,5,5,2,1,2,1,2,2,2,1,2,2,2,2,4,4,4,4,2,3,1,1,1,U566,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,3,4,4,3,4,4,2,2,2,3,2,3,3,2,3,4,3,4,5,5,2,2,2,2,3,3,3,2,4,3,3,3,4,4,2,3,3,3,2,1,2,U567,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,5,4,4,3,4,4,3,3,3,4,4,2,2,3,3,4,2,5,5,5,1,1,3,3,4,2,2,2,4,4,3,3,4,5,5,3,3,4,4,1,1,U568,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,5,3,5,5,2,4,5,3,3,2,4,4,3,2,2,3,4,3,5,5,5,2,1,2,2,4,1,5,3,3,3,4,4,5,3,5,5,4,5,5,1,3,U569,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,1,3,2,1,4,4,4,1,1,1,1,3,1,1,4,4,2,?,?,5,5,5,3,1,1,1,1,1,U570,40~50,20~30,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,4,5,4,3,4,4,3,3,3,4,3,4,3,3,2,3,3,4,4,5,3,2,4,4,4,3,3,4,2,2,3,3,4,4,4,5,4,4,3,1,3,U571,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,3,5,4,4,4,4,3,4,3,3,3,3,4,2,2,4,3,5,5,5,2,2,3,3,3,2,5,3,5,5,3,3,4,3,4,4,3,4,4,2,3,U572,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,4,4,4,4,3,4,3,2,3,4,3,3,3,5,3,4,4,4,2,2,3,3,3,2,4,4,4,4,2,2,3,4,4,3,2,3,5,1,4,U573,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,5,5,4,5,3,4,3,4,3,4,3,3,4,1,2,4,3,5,4,4,2,1,3,3,3,1,2,3,4,3,3,3,4,4,4,3,5,5,5,2,2,U574,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,4,4,4,4,4,4,3,3,3,3,4,3,4,1,4,4,3,5,3,5,2,2,1,1,4,1,1,1,4,3,3,3,5,1,3,3,2,4,4,1,4,U575,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,4,4,4,4,4,5,5,5,2,4,4,5,4,4,5,5,5,5,5,1,2,2,3,5,4,4,3,5,3,3,4,4,3,3,3,4,3,4,1,2,U576,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,4,5,5,3,4,3,2,4,3,3,3,3,4,4,5,5,5,3,1,3,3,4,3,4,3,5,5,4,4,4,4,4,4,3,5,5,1,5,U577,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,?,3,5,5,3,4,4,2,?,4,U578,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,Unknown
+2,2,3,3,2,3,3,2,2,2,2,2,3,2,2,2,?,?,?,?,?,?,3,3,2,2,?,2,3,1,?,?,?,?,3,4,4,4,2,2,3,1,2,U579,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,5,4,4,5,5,3,2,3,4,2,3,4,1,3,5,3,5,5,5,1,2,2,3,2,3,4,4,4,4,4,3,4,2,4,4,3,3,4,1,2,U580,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,5,5,4,?,5,4,4,5,5,?,4,1,?,4,3,2,4,5,5,5,4,3,3,3,5,3,5,4,1,1,4,4,3,4,3,2,4,5,5,2,2,U581,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Associate,No
+3,3,3,3,3,3,4,4,3,3,2,3,3,2,?,?,?,?,?,3,5,4,2,1,?,?,3,?,3,?,3,?,?,?,3,?,?,?,3,3,3,1,3,U582,60~70,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,3,4,3,4,3,4,4,2,4,4,4,2,3,3,2,4,4,4,2,4,3,3,4,5,5,5,4,3,4,4,4,2,2,4,4,4,4,2,4,U583,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,2,4,5,5,?,5,5,5,5,5,5,?,3,?,?,?,?,?,4,?,5,1,1,?,?,3,5,5,?,5,5,4,4,?,?,?,?,3,5,5,1,1,U584,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Professor,Yes
+2,3,2,4,3,3,2,2,4,4,3,4,3,3,4,2,2,4,3,4,5,5,2,1,1,1,3,4,3,3,4,3,3,3,5,5,5,5,2,2,1,2,1,U585,40~50,10~20,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+1,1,1,5,5,5,3,5,2,2,2,5,2,1,5,1,1,5,1,3,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,3,U586,50~60,20~30,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,3,4,3,4,4,3,4,4,3,3,1,2,4,3,4,4,4,1,1,1,1,2,1,4,4,4,3,2,2,4,2,4,3,2,2,2,1,5,U587,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,4,4,4,5,4,4,4,3,3,3,2,3,5,3,1,3,4,1,3,4,4,1,1,1,1,3,3,2,4,3,4,2,2,5,5,5,5,2,2,2,1,4,U588,40~50,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+1,2,2,4,4,3,3,3,2,2,2,3,2,2,2,2,3,3,3,3,4,4,2,2,2,2,2,3,3,2,4,4,2,2,4,2,2,2,2,2,2,2,2,U589,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,2,4,4,3,3,4,3,4,4,3,2,3,3,1,3,4,3,4,4,4,1,1,3,2,3,1,1,1,4,3,2,2,4,4,4,3,3,3,3,1,1,U590,40~50,0~10,Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,4,4,?,2,4,4,4,4,3,3,3,3,3,3,2,2,2,4,5,5,3,2,3,3,4,3,3,3,4,4,4,4,5,3,4,3,3,3,5,3,2,U591,40~50,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,5,3,2,4,4,4,2,3,3,2,2,1,2,4,2,4,5,5,1,1,2,2,2,3,5,4,3,3,2,2,5,4,3,5,3,4,5,2,4,U592,20~30,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+4,3,4,5,3,3,5,5,2,3,2,4,4,3,3,1,2,3,3,5,5,5,1,1,1,1,3,1,5,3,5,5,3,2,5,2,2,3,4,4,5,1,4,U593,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,5,4,3,4,4,2,2,3,4,2,2,3,2,2,4,2,5,5,5,2,2,2,2,2,2,3,4,5,5,2,3,2,2,2,2,2,2,2,1,2,U594,50~60,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+1,1,1,4,4,4,1,4,2,3,1,4,1,1,2,1,1,3,1,3,2,3,1,1,1,1,1,1,3,1,3,3,1,1,1,1,1,1,2,2,2,1,5,U595,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,1,2,5,3,2,4,?,2,3,3,4,3,3,?,1,1,1,1,4,4,4,2,1,1,2,1,3,4,1,4,4,2,2,1,1,3,3,2,2,2,1,1,U596,40~50,10~20,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+4,4,4,3,4,3,4,3,3,3,3,3,3,3,3,1,4,4,4,4,4,5,1,2,3,3,4,4,5,2,5,5,4,4,5,5,5,4,3,3,4,1,1,U597,30~40,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Unknown,No
+2,2,3,4,3,4,2,3,2,2,2,5,3,2,3,1,1,3,2,3,3,4,1,1,1,1,1,3,3,2,2,2,1,1,5,2,2,2,1,1,2,2,1,U598,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,3,4,4,3,4,4,3,3,4,5,2,2,3,1,2,4,1,4,4,5,1,1,1,1,2,1,1,1,2,1,2,2,5,5,4,3,3,3,4,1,1,U599,40~50,10~20,Sciences,Female,UOC,Adjunct,PhD,Professor,No
+3,2,2,5,3,2,4,4,3,3,2,5,2,2,3,2,2,3,3,4,4,5,2,1,2,2,3,1,2,1,2,4,3,3,3,5,5,3,3,3,5,1,1,U600,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,4,4,4,3,4,3,3,3,3,3,3,3,3,4,3,4,3,3,3,2,2,3,3,4,3,5,5,3,3,3,3,3,3,4,4,4,3,4,U601,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,Yes
+2,3,3,5,4,4,5,3,4,3,3,5,3,3,3,1,3,4,3,4,3,5,1,1,1,1,3,5,4,3,5,4,2,2,4,3,4,4,1,1,3,1,3,U602,40~50,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,3,4,3,4,2,3,4,2,3,3,4,3,2,4,2,2,4,4,4,4,4,2,2,2,2,3,3,2,1,4,2,3,3,4,3,3,3,3,4,2,1,2,U603,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,?,4,4,3,4,3,2,3,3,?,2,2,3,4,4,4,4,2,1,3,3,3,1,1,1,1,1,2,2,4,4,4,4,3,3,3,1,1,U604,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,2,5,5,3,4,5,3,2,2,4,2,4,3,2,2,5,3,4,5,4,1,1,2,2,2,1,4,4,4,3,3,3,5,5,5,5,4,4,4,1,1,U605,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,4,4,4,3,3,3,2,3,4,4,3,3,3,3,5,5,5,3,3,4,4,3,4,4,5,5,5,5,5,5,5,5,5,3,3,3,3,4,U606,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,2,4,4,3,3,4,4,4,4,4,3,2,2,1,2,2,2,3,5,5,4,4,2,3,2,3,1,1,2,4,4,4,4,5,4,5,5,3,4,4,2,2,U607,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,3,3,5,3,5,5,5,?,3,3,3,5,3,3,3,5,5,5,5,5,5,5,5,5,5,5,3,3,U608,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+3,3,3,5,4,4,4,4,4,4,4,3,2,3,3,2,2,4,2,4,4,4,2,2,2,3,2,2,2,3,4,4,3,3,4,4,4,3,2,3,3,2,2,U609,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,4,3,3,4,4,3,3,3,2,2,2,3,3,1,1,2,3,3,4,5,1,1,2,2,2,2,1,1,5,5,3,3,5,3,5,5,1,3,3,1,2,U610,50~60,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,4,4,4,3,3,3,4,3,5,4,1,2,3,1,4,5,4,1,5,2,1,3,3,2,1,3,3,3,3,5,5,5,5,3,3,4,1,3,U611,30~40,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+4,3,4,5,5,3,3,4,3,3,2,4,2,3,2,1,2,4,3,3,5,4,1,1,1,1,2,2,4,3,3,4,3,3,4,3,2,3,3,4,5,2,2,U612,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,5,3,4,5,3,3,2,5,3,3,2,1,1,4,1,5,2,3,1,1,2,1,3,1,1,1,2,1,2,2,5,4,5,5,2,4,4,1,1,U613,40~50,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,4,3,3,5,2,3,2,5,3,3,3,1,2,2,2,4,4,4,1,1,1,1,2,4,4,3,2,4,1,1,4,4,4,4,1,4,4,1,1,U614,30~40,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,3,4,4,3,3,3,4,3,4,2,3,3,3,3,3,3,5,2,2,3,3,3,1,1,1,3,3,3,?,4,4,4,4,2,2,2,2,2,U615,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,4,5,5,4,4,3,4,4,4,3,3,3,4,3,3,4,4,4,4,5,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,U616,30~40,10~20,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+2,2,2,5,5,?,3,3,2,5,3,3,2,?,?,1,2,3,2,5,5,5,1,1,2,1,3,1,4,1,2,2,2,2,2,4,3,3,3,4,4,1,4,U617,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+3,4,4,4,3,5,5,5,4,5,5,4,3,3,5,3,5,5,4,5,5,4,4,3,4,4,3,4,5,4,4,5,5,4,3,4,4,4,3,4,4,5,4,U618,50~60,0~10,Law & Politics,Female,UOC,Adjunct,PhD,Associate,Yes
+4,4,4,3,5,4,4,4,3,3,3,1,4,4,5,1,4,3,4,4,5,5,1,1,4,3,4,4,5,5,4,4,4,3,3,3,3,3,4,4,4,1,4,U619,40~50,0~10,Unknown,Female,UOC,Adjunct,PhD,Associate,No
+4,4,5,5,5,5,5,4,3,3,3,2,3,3,1,1,4,5,5,1,4,3,?,?,3,4,5,1,1,4,5,3,3,5,3,5,5,3,?,?,?,?,?,U620,40~50,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,3,5,5,3,3,4,2,2,2,1,2,1,3,1,1,3,3,4,3,3,1,1,2,3,3,3,3,3,2,1,2,2,5,2,5,3,2,2,2,?,3,U621,50~60,20~30,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,3,3,4,4,3,5,5,3,4,3,3,?,?,?,1,2,3,3,4,4,4,1,1,1,1,2,3,4,1,4,?,?,?,4,4,4,4,2,3,4,1,1,U622,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,5,5,3,2,5,2,5,3,5,1,3,3,1,1,4,1,4,1,5,1,1,1,1,2,1,5,1,1,1,1,1,5,1,5,5,1,3,3,1,1,U623,30~40,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,5,3,2,3,3,3,3,3,3,5,2,2,3,2,4,4,5,1,1,2,2,3,1,1,2,2,2,3,3,3,3,3,3,3,4,1,1,2,U624,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,4,5,4,3,4,3,3,3,4,3,3,2,2,2,4,4,4,2,4,2,3,3,1,1,2,4,4,3,4,5,4,4,4,4,4,4,2,4,U625,40~50,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,5,5,5,5,5,3,3,3,3,4,3,3,5,3,3,3,5,5,5,4,2,3,4,3,3,2,3,4,3,3,4,5,5,5,5,3,5,5,2,1,U626,40~50,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,5,4,5,5,3,3,3,1,3,3,3,4,3,3,3,5,5,5,4,1,3,3,3,5,5,5,5,5,4,5,5,4,5,5,5,5,5,1,1,U627,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,4,3,5,5,3,3,2,4,3,?,?,3,1,5,?,5,5,5,2,1,2,1,2,3,3,3,5,5,2,2,5,5,5,2,2,2,4,1,2,U628,50~60,20~30,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,4,3,3,4,3,2,2,2,4,3,3,3,2,2,3,3,4,3,3,2,2,2,2,2,3,3,3,3,3,2,2,4,3,4,4,2,2,4,2,2,U629,40~50,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+4,4,5,5,4,4,4,4,3,4,4,2,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,2,2,1,2,2,2,2,3,3,3,3,3,3,3,3,1,U630,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,2,5,4,3,5,5,2,2,2,4,2,2,3,1,1,5,2,5,5,5,1,2,1,1,2,2,4,4,4,4,1,1,3,3,3,3,2,2,2,2,2,U631,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,4,3,2,4,3,4,3,2,2,3,3,4,2,4,3,4,4,4,2,4,4,4,3,2,4,2,4,4,3,4,4,3,3,3,4,4,4,2,4,U632,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,3,3,5,?,3,4,4,2,3,3,5,3,3,3,1,3,3,2,5,5,5,3,1,1,1,4,1,2,1,4,4,3,3,5,5,5,4,2,3,3,1,1,U633,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,5,4,3,5,4,4,4,3,4,4,3,4,2,2,3,3,5,5,5,2,2,4,3,4,4,4,4,4,3,3,3,4,4,4,2,2,4,4,1,3,U634,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,5,3,3,3,3,3,3,4,2,3,3,1,2,3,1,3,4,3,2,1,2,1,3,3,3,3,2,1,3,3,3,3,3,4,2,2,2,1,1,U635,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,2,3,4,3,2,3,4,3,4,3,4,3,2,2,1,1,2,2,4,4,4,1,1,1,1,3,1,4,4,2,2,2,2,4,4,4,4,2,2,3,1,2,U636,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,5,4,3,3,3,3,3,2,5,2,3,3,1,3,2,3,4,4,4,1,1,1,1,2,4,2,1,4,2,1,1,3,3,3,2,2,1,4,1,1,U637,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,4,4,3,4,4,4,4,2,4,3,3,3,3,2,4,3,4,4,4,3,2,2,2,3,4,5,4,3,3,3,3,3,3,3,3,3,2,4,1,3,U638,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,4,4,4,3,2,2,3,2,2,3,3,4,2,3,3,4,5,5,5,2,1,3,3,5,1,3,2,4,4,3,3,2,3,4,5,3,5,5,1,2,U639,40~50,0~10,Unknown,Female,UOC,Adjunct,PhD,Associate,No
+2,3,2,4,4,4,4,?,3,3,2,3,2,2,3,1,1,2,1,3,3,3,1,1,1,1,2,1,1,1,1,1,2,2,4,4,4,3,2,3,1,1,1,U640,40~50,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,4,3,5,5,3,4,5,4,4,4,5,3,3,3,1,1,3,2,4,4,5,1,3,3,3,3,3,3,3,3,3,3,3,4,5,5,5,3,4,4,1,3,U641,20~30,,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,4,3,3,3,3,3,3,4,3,3,3,1,2,3,2,4,4,4,1,1,1,1,3,1,1,2,2,2,2,2,4,3,4,4,2,4,4,1,1,U642,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,3,3,5,5,2,5,5,3,3,3,4,1,?,?,1,2,3,3,5,5,5,1,1,1,2,2,2,3,4,4,5,2,2,5,5,5,5,2,3,5,1,3,U643,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,4,5,5,4,3,5,3,4,3,3,4,3,4,3,2,2,3,4,4,4,2,2,4,2,3,3,4,3,5,4,4,4,5,3,5,3,4,4,4,4,2,U644,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,Yes
+3,2,3,4,4,4,2,2,2,2,2,3,1,1,2,1,2,4,2,5,5,5,1,1,2,2,2,2,3,1,4,2,2,2,4,3,3,4,1,1,1,1,1,U645,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+1,3,3,4,4,1,4,2,4,3,2,4,3,1,5,1,1,2,?,5,5,5,1,1,2,2,5,2,2,2,3,2,2,1,2,5,2,4,2,4,4,1,5,U646,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,4,4,4,4,4,3,3,4,3,3,3,2,2,3,3,3,3,3,3,3,3,2,2,3,2,4,4,3,3,3,3,4,4,4,4,3,3,3,3,3,U647,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,3,4,1,5,2,4,2,5,4,5,2,1,1,2,1,5,5,5,1,2,1,1,2,5,3,5,5,5,1,1,3,1,4,2,2,2,2,1,2,U648,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+2,3,2,5,4,2,2,4,2,2,2,4,2,2,3,1,2,3,3,4,4,5,1,1,1,1,2,2,3,1,2,1,2,1,5,5,5,5,?,3,4,1,1,U649,30~40,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,3,4,3,3,3,2,4,3,3,3,1,3,4,3,4,3,4,1,2,2,2,3,1,2,1,4,4,3,3,5,5,5,?,2,2,2,1,1,U650,50~60,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,5,5,4,4,4,4,4,3,5,4,4,5,2,1,3,2,5,5,5,2,1,4,4,4,2,3,3,4,4,4,4,4,3,3,3,3,5,5,3,4,U651,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,4,4,4,3,4,?,4,4,4,2,4,4,3,3,4,3,3,4,4,4,4,2,4,4,4,2,2,3,3,3,4,4,4,3,4,3,4,4,4,3,2,U652,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+1,1,2,5,3,5,3,3,2,3,3,1,1,2,4,1,1,3,1,4,4,4,1,1,1,1,1,1,1,1,1,1,1,1,4,2,4,4,1,1,3,1,1,U653,50~60,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+4,3,3,1,1,2,2,2,3,3,4,4,3,3,3,4,4,4,4,3,2,2,5,4,4,4,4,4,4,3,3,3,4,4,1,2,2,2,3,3,2,5,4,U654,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,3,3,3,2,3,2,3,2,5,3,3,3,1,1,4,1,4,4,4,1,1,1,1,2,3,3,4,4,4,2,2,4,2,4,3,2,2,3,2,2,U655,30~40,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+3,3,4,4,4,3,4,4,3,3,3,4,3,3,4,2,2,2,2,4,5,5,3,3,3,2,3,1,4,3,2,3,3,4,3,5,5,5,4,5,5,1,2,U656,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,5,2,2,3,4,3,3,4,2,3,4,4,4,4,3,4,4,4,4,5,4,2,3,3,3,1,3,3,2,2,5,5,5,3,5,4,5,5,5,2,4,U657,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+3,2,3,5,5,3,4,4,2,2,4,3,3,2,2,1,3,2,4,3,2,3,3,1,1,1,3,1,1,1,2,3,2,2,2,2,2,2,2,3,3,1,2,U658,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,2,2,5,4,4,4,4,3,4,3,5,3,2,2,1,2,3,3,5,5,5,1,1,1,1,3,2,1,3,2,2,2,2,4,2,4,4,1,1,4,1,2,U659,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,3,3,4,3,?,4,4,2,4,3,4,2,3,?,1,2,4,3,5,5,5,1,1,1,1,4,1,2,2,5,4,3,3,5,4,3,3,2,3,4,1,1,U660,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,4,3,4,4,4,4,4,3,4,3,3,1,3,4,3,5,5,4,1,1,2,2,3,1,1,2,4,3,2,2,4,3,3,4,1,3,3,1,1,U661,30~40,0~10,Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,4,3,5,4,4,4,4,2,4,?,?,1,3,4,?,4,5,5,3,1,?,?,3,2,4,?,4,?,3,3,5,5,4,5,4,4,4,1,1,U662,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,5,5,2,3,3,4,4,3,3,2,3,2,2,2,2,3,4,4,5,3,3,2,2,4,2,2,1,3,4,3,3,5,2,2,2,4,4,4,1,2,U663,40~50,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,5,3,4,5,3,4,3,5,4,4,3,2,2,5,2,5,5,5,1,1,2,2,3,2,4,1,5,5,4,3,5,3,4,5,1,4,5,1,1,U664,40~50,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,3,3,3,?,?,?,?,?,?,?,1,2,4,2,4,5,5,1,1,1,1,2,3,4,2,4,3,1,1,3,3,3,3,1,1,1,1,1,U665,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,3,4,4,3,3,2,2,2,5,2,3,3,?,2,4,4,4,5,5,1,1,2,2,3,5,5,5,5,5,2,3,4,4,4,4,2,3,3,3,5,U666,50~60,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Unknown,No
+3,3,3,5,4,4,4,4,3,3,3,3,3,3,4,3,4,4,4,4,4,4,3,3,2,4,4,3,5,2,5,5,3,3,4,3,3,4,3,3,3,3,2,U667,20~30,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,5,5,3,4,4,3,4,4,2,3,2,3,2,2,4,2,3,4,4,2,3,3,3,3,2,2,2,4,4,4,4,5,5,5,5,?,2,4,1,2,U668,50~60,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,3,4,3,2,3,3,3,3,3,5,3,3,3,2,2,3,2,4,4,4,2,2,3,2,2,2,4,2,4,4,3,3,3,3,3,3,3,3,2,2,3,U669,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,2,2,5,4,3,3,4,3,3,2,5,2,3,3,1,1,4,2,4,5,5,1,1,3,2,4,2,3,3,4,?,2,2,5,5,5,5,1,3,4,1,2,U670,30~40,,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,1,2,4,4,4,3,3,3,3,4,3,1,2,2,2,2,2,2,4,4,4,2,1,2,2,3,2,3,2,4,4,3,3,5,5,5,5,2,3,2,1,1,U671,40~50,10~20,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,4,5,5,5,2,4,4,3,4,3,3,2,1,2,1,2,3,4,5,5,5,2,1,4,5,2,2,5,4,4,2,3,3,?,?,?,?,5,5,5,1,1,U672,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,5,2,2,3,4,4,2,4,4,?,?,1,2,2,2,4,3,3,1,1,1,1,2,1,3,3,4,?,1,1,5,4,5,5,1,3,4,1,1,U673,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,4,3,4,4,4,4,4,3,3,3,3,3,3,3,3,2,3,3,4,4,4,3,3,3,3,4,1,2,2,4,4,3,4,4,3,4,3,3,4,4,2,5,U674,50~60,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,5,5,5,5,2,2,5,2,2,2,5,2,2,4,3,5,5,5,2,?,2,2,2,4,5,1,5,3,2,2,5,5,5,5,2,2,2,2,4,U675,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,2,5,4,3,1,3,4,4,4,5,2,1,3,1,1,5,1,4,4,5,1,1,1,1,1,1,1,1,2,2,3,1,2,5,5,5,1,3,4,1,1,U676,40~50,20~30,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,4,3,4,2,4,2,4,2,4,2,2,2,4,4,2,2,4,2,5,4,5,1,1,2,2,4,2,3,2,3,4,4,3,4,5,4,4,2,4,4,1,2,U677,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,4,5,5,5,?,3,4,4,4,4,2,3,4,3,3,1,1,?,4,4,4,3,3,4,3,4,2,4,4,2,2,3,5,5,4,5,4,4,4,5,1,5,U678,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,4,5,2,4,4,4,3,3,3,4,3,3,3,1,1,2,5,5,5,5,3,1,1,1,3,1,3,1,5,3,5,5,5,5,5,5,3,5,5,1,1,U679,20~30,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+3,3,3,4,4,5,4,4,3,4,3,3,3,3,3,1,1,3,2,3,3,3,2,1,1,2,1,3,1,1,?,?,?,?,?,?,?,?,3,4,4,2,1,U680,20~30,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,3,4,4,4,4,4,3,3,2,5,3,3,5,4,4,4,4,4,4,4,3,2,3,3,4,4,3,3,3,3,3,3,4,4,4,4,3,5,4,3,2,U681,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+5,5,5,4,4,4,3,3,4,5,4,3,4,4,5,4,5,5,4,5,4,5,2,3,4,4,5,4,5,4,4,4,4,4,4,4,3,3,3,4,4,3,4,U682,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,3,5,5,3,3,4,4,2,3,2,2,2,2,3,1,1,1,1,4,4,4,2,2,2,2,5,2,2,1,3,3,2,3,5,2,2,5,4,5,5,1,2,U683,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,5,4,3,4,4,4,4,3,4,3,2,4,1,2,2,2,5,5,4,2,1,1,1,2,1,4,1,4,3,2,2,5,5,5,5,?,2,4,1,1,U684,40~50,20~30,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+4,4,4,4,4,3,3,5,3,4,4,3,3,4,5,2,3,2,3,4,5,4,1,4,3,3,4,4,4,3,5,4,4,5,4,2,5,3,3,4,2,1,4,U685,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,3,4,4,3,3,3,2,3,2,3,2,2,3,2,1,3,2,4,3,4,2,1,2,2,3,1,3,2,3,2,2,2,3,3,3,3,2,3,2,1,1,U686,40~50,10~20,Engineering & Architecture,Female,UOC,Adjunct,PhD,Professor,No
+1,2,2,5,5,?,4,4,2,2,2,2,1,?,?,1,1,?,?,5,5,4,1,1,1,1,1,1,4,4,3,3,2,?,5,5,5,5,2,2,?,1,2,U687,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+4,3,4,5,5,5,5,5,4,4,4,3,4,5,5,3,4,5,4,5,5,5,4,2,4,4,4,4,4,2,5,4,5,5,4,4,3,3,4,5,5,4,1,U688,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+3,3,3,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,U689,40~50,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+5,5,4,5,4,2,4,4,4,3,3,5,3,?,?,2,3,3,4,4,3,5,2,2,3,3,5,?,3,2,4,4,4,4,4,5,5,3,5,5,5,1,2,U690,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,3,4,4,3,3,2,3,4,3,3,3,3,3,1,1,2,3,5,5,5,1,1,1,2,?,1,3,1,5,3,3,2,5,5,5,5,3,3,4,1,4,U691,40~50,0~10,Unknown,Female,UOC,Adjunct,PhD,Associate,No
+3,2,3,5,5,4,4,4,3,3,3,2,2,2,3,1,2,3,2,4,4,5,1,1,1,1,3,4,4,2,4,4,2,2,4,2,2,4,2,4,4,2,1,U692,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,2,3,3,3,4,4,2,3,2,5,1,3,3,1,1,2,2,4,4,4,1,2,2,2,2,2,3,3,5,5,4,3,3,5,5,3,2,2,4,2,2,U693,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Professor,No
+4,2,3,3,4,3,5,5,3,5,2,3,3,?,?,2,2,4,4,5,5,5,2,1,2,3,5,1,1,2,4,4,3,3,5,5,5,5,4,5,5,1,5,U694,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,3,5,1,?,4,3,1,2,1,1,?,3,?,1,2,4,?,4,5,5,2,2,2,2,3,3,3,2,?,?,?,?,?,?,?,?,1,2,2,3,1,U695,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+3,4,3,4,4,2,4,4,3,3,2,2,?,2,3,1,2,2,2,4,4,3,1,1,2,2,2,1,1,1,3,3,2,2,2,2,2,2,1,2,3,1,1,U696,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,2,3,4,4,3,5,4,3,3,3,4,3,2,3,1,2,3,3,4,4,3,1,1,1,2,2,1,3,1,3,2,1,1,4,3,4,3,3,4,4,1,1,U697,30~40,0~10,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+1,2,2,5,5,3,1,5,3,3,1,5,3,2,3,1,2,2,1,5,5,5,1,1,1,1,3,1,3,1,1,1,3,3,1,1,2,1,1,3,3,1,1,U698,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,U699,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,2,3,4,4,3,3,4,3,4,3,5,3,3,3,2,3,4,3,3,3,3,1,1,2,2,3,1,2,1,2,1,1,1,3,3,3,3,2,2,4,2,1,U700,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+3,2,3,5,3,2,4,4,3,3,3,3,4,3,1,1,2,2,2,4,4,5,2,1,1,3,2,3,2,3,1,3,2,3,5,2,2,5,4,4,4,1,5,U701,30~40,0~10,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+4,2,3,5,5,4,5,5,2,3,3,2,2,2,2,1,2,1,2,2,3,5,2,2,2,1,1,3,2,2,2,1,2,2,3,3,3,3,2,3,2,2,2,U702,40~50,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+2,3,2,4,4,?,5,5,3,3,2,5,1,2,2,1,1,2,1,5,4,5,1,1,1,1,2,1,1,1,3,2,3,3,4,3,5,5,1,2,2,1,1,U703,30~40,10~20,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,3,4,5,5,3,5,4,5,5,5,2,5,3,3,1,1,1,3,5,5,4,3,1,3,2,3,1,3,2,1,1,2,2,5,5,4,5,4,5,5,1,1,U704,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,5,5,5,5,4,5,5,4,?,3,3,2,4,4,5,2,2,3,5,5,5,3,3,5,5,5,4,5,4,4,4,4,4,5,5,4,5,5,5,5,2,4,U705,50~60,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,5,4,5,4,4,3,3,3,2,3,2,2,2,2,3,4,5,3,2,1,1,4,1,2,1,5,5,3,3,4,4,4,4,3,3,3,1,5,U706,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,4,4,3,3,4,3,4,3,4,3,3,3,1,2,4,3,4,4,4,1,1,1,1,3,1,1,1,3,4,3,2,4,3,5,3,1,1,1,1,1,U707,30~40,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Associate,No
+3,2,5,4,5,5,5,5,3,4,3,4,3,3,3,1,2,2,2,5,5,5,3,2,1,1,3,2,3,2,2,2,3,3,5,4,4,4,4,4,4,2,1,U708,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,4,3,4,3,4,4,3,3,2,3,4,4,4,4,3,3,4,3,4,3,4,3,4,U709,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,2,2,5,5,4,4,4,2,4,2,5,2,4,4,2,2,2,2,4,2,5,2,2,2,2,2,2,4,4,3,1,2,3,4,4,4,5,2,4,4,2,2,U710,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,3,4,5,5,4,5,4,4,4,4,2,4,?,4,3,3,5,4,4,4,5,4,4,5,4,4,2,4,3,4,?,4,4,5,4,?,5,4,4,4,3,4,U711,20~30,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Professor,Yes
+3,3,4,5,4,?,3,4,4,4,3,?,?,?,?,1,3,4,2,5,5,5,3,1,3,3,2,2,1,1,3,3,3,3,5,4,4,4,4,5,5,1,1,U712,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,4,2,2,4,4,3,2,2,3,2,3,3,3,3,3,3,4,4,4,3,3,3,3,4,3,2,3,3,3,3,3,5,5,5,5,4,4,4,3,3,U713,40~50,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Associate,No
+4,3,4,4,4,3,3,4,4,4,3,5,3,4,3,4,4,4,2,5,5,5,3,1,4,4,3,3,5,3,5,5,4,4,4,4,4,4,4,4,5,1,5,U714,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,5,5,4,4,5,3,3,3,4,2,3,3,2,2,4,3,5,5,5,2,2,3,3,3,2,5,4,3,3,3,?,5,5,5,5,3,3,4,2,3,U715,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+4,3,3,5,5,5,4,4,4,4,4,3,4,4,3,4,3,5,5,5,5,5,4,3,2,2,4,2,4,5,5,5,4,5,5,3,5,4,4,5,5,1,1,U716,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+?,?,2,5,4,?,1,?,2,2,2,4,?,?,?,1,?,4,?,4,4,4,1,1,1,?,1,1,2,2,4,4,1,1,?,?,?,4,2,2,2,1,4,U717,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+4,4,4,4,4,4,4,4,3,4,3,3,3,4,4,2,3,4,4,5,5,5,2,4,3,3,3,2,2,3,3,3,3,3,5,5,5,4,3,3,4,1,4,U718,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,4,5,5,5,3,5,5,4,3,4,2,3,3,4,1,2,4,2,4,4,4,1,4,3,2,4,3,2,3,4,4,3,4,4,3,3,3,3,4,5,2,4,U719,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+4,4,4,3,4,3,4,4,5,5,5,2,4,4,4,2,3,3,4,3,2,2,1,1,1,2,5,1,1,4,2,2,5,4,5,1,1,2,2,2,4,2,1,U720,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,3,?,3,4,3,3,3,3,?,?,?,1,?,?,?,?,4,4,1,1,2,2,?,1,1,1,?,?,?,?,?,?,?,?,2,4,4,1,?,U721,40~50,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+2,2,3,5,4,3,4,4,3,3,2,5,3,3,3,4,3,4,3,4,5,4,1,1,3,3,3,1,3,1,5,4,3,3,4,3,3,3,2,3,2,1,1,U722,30~40,0~10,Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,2,2,3,2,2,2,2,5,3,2,3,1,2,4,2,4,2,4,2,2,2,2,2,2,2,2,2,2,2,2,4,5,4,3,2,2,2,2,2,U723,40~50,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+2,3,3,4,4,2,3,3,3,3,2,4,3,2,2,1,1,4,3,5,5,4,2,1,2,2,2,2,2,2,5,4,3,3,5,5,5,5,3,4,4,1,1,U724,50~60,10~20,Law & Politics,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,5,3,2,2,5,2,2,2,5,2,2,2,1,1,1,1,3,2,2,1,1,1,1,2,2,2,1,?,?,2,2,2,3,3,3,2,4,4,1,1,U725,30~40,10~20,Unknown,Female,UOC,Adjunct,PhD,Associate,No
+3,3,4,5,5,1,3,3,3,3,3,3,3,3,1,1,3,4,4,5,4,5,1,1,3,3,4,1,2,1,3,4,2,1,3,3,4,4,2,4,5,1,3,U726,50~60,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,Yes
+2,2,2,3,3,3,3,3,3,3,2,4,3,2,2,1,2,3,3,4,5,5,1,1,2,2,3,3,4,5,1,2,3,3,3,3,3,3,3,3,2,2,3,U727,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,?,3,5,5,3,2,?,4,3,3,3,1,3,4,3,4,3,5,1,1,2,3,2,5,5,3,3,3,3,3,3,3,3,3,2,4,5,1,2,U728,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,3,3,3,3,3,3,3,4,4,4,4,3,3,3,3,2,3,2,5,5,5,?,4,3,2,?,4,4,2,5,?,3,3,3,3,3,3,4,4,4,4,4,U729,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,4,?,3,4,3,4,3,4,3,3,?,2,2,4,?,4,5,5,1,1,3,3,3,1,3,3,4,?,?,?,5,4,5,4,3,3,2,1,2,U730,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,3,3,4,1,4,3,3,3,2,3,3,3,3,3,3,3,3,1,1,3,3,3,1,3,1,5,5,1,3,5,5,5,5,2,2,2,1,4,U731,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,5,5,5,2,5,3,4,4,4,2,3,3,3,3,3,4,3,4,5,5,1,1,3,1,4,1,3,2,3,3,3,3,4,2,2,3,3,2,3,1,5,U732,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,2,5,4,4,5,2,2,2,1,5,3,2,1,1,2,2,1,4,4,4,1,1,2,1,2,4,4,3,1,1,1,1,3,1,2,4,2,2,1,1,3,U733,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+3,3,2,5,4,2,4,4,5,5,4,3,3,2,2,1,2,2,2,3,4,4,1,1,1,1,3,5,3,1,5,4,2,2,5,5,5,5,2,4,4,1,1,U734,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,3,5,5,4,4,3,3,3,3,3,3,4,4,3,4,4,5,3,1,3,3,4,3,3,3,5,3,3,3,3,3,5,3,5,5,5,1,3,U735,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,3,4,5,5,5,5,?,5,3,3,3,3,5,3,5,5,5,1,1,4,5,5,5,3,1,5,3,4,3,5,5,5,5,3,5,5,1,5,U736,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,3,3,?,2,2,2,3,3,3,4,3,2,3,3,2,2,3,3,2,2,1,3,2,3,2,2,3,4,4,3,3,4,3,3,3,4,3,3,3,3,4,U737,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,?,4,4,4,3,4,3,4,4,3,3,4,4,4,4,3,3,2,4,4,4,4,1,4,3,4,5,5,1,4,4,3,4,4,3,?,4,4,4,4,5,1,U738,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+5,1,5,5,5,5,3,3,4,5,4,4,5,1,3,3,3,4,3,5,5,5,5,4,5,5,5,3,5,5,4,4,5,5,5,5,5,5,5,5,5,1,2,U739,20~30,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,5,?,4,4,4,4,4,4,3,4,2,3,3,4,4,5,5,4,5,2,2,4,4,4,4,5,3,5,5,4,4,5,5,5,5,4,4,5,2,3,U740,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,3,5,5,5,5,3,5,3,3,2,4,4,3,3,4,4,4,1,5,5,5,4,3,4,3,3,5,5,5,5,5,3,4,5,5,2,2,4,4,4,3,5,U741,40~50,0~10,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,2,2,3,3,4,4,4,2,2,3,4,3,3,3,1,1,3,2,5,5,5,1,1,3,2,2,5,5,5,5,4,3,3,3,4,3,4,3,3,2,1,4,U742,40~50,20~30,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+4,4,4,5,4,4,4,5,3,4,2,4,2,4,4,2,2,2,2,4,5,5,1,1,2,2,4,3,2,2,5,5,3,3,5,5,2,5,2,2,4,1,5,U743,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,3,3,1,2,2,3,3,2,3,3,3,2,3,3,3,2,3,3,3,3,4,3,2,3,1,1,1,4,?,3,3,?,3,4,3,3,4,4,1,2,U744,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+3,3,3,5,5,?,4,4,4,4,4,2,3,?,?,2,3,?,?,5,5,4,2,1,3,?,5,1,2,1,4,?,3,3,4,4,3,3,4,4,4,1,4,U745,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+3,4,4,5,5,5,3,5,2,3,2,3,1,3,4,1,2,4,4,5,5,5,2,1,3,5,3,2,2,4,3,4,3,2,4,4,2,5,2,4,5,3,3,U746,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,Yes
+3,3,3,3,3,3,3,3,3,3,3,4,4,3,3,1,3,4,3,3,3,3,1,1,1,1,3,1,2,2,3,2,2,2,3,3,4,4,1,1,1,1,1,U747,30~40,10~20,Law & Politics,Female,UOC,Adjunct,Non-PhD,Professor,No
+4,4,4,5,5,3,5,4,3,3,3,3,2,4,4,4,4,4,4,5,5,5,3,3,4,4,5,4,4,4,5,4,4,5,4,4,5,4,4,4,4,3,5,U748,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,4,5,5,?,5,5,4,4,5,3,4,?,?,2,3,4,3,4,4,5,3,1,3,4,3,1,4,2,4,4,4,3,3,3,4,5,3,5,5,1,1,U749,30~40,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Associate,No
+3,3,3,4,4,4,4,4,2,3,2,3,3,3,3,2,2,3,2,4,4,4,1,1,2,2,3,3,2,2,4,4,3,3,4,4,3,3,2,2,3,1,2,U750,50~60,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+1,1,3,5,4,3,1,2,3,3,2,3,3,3,3,1,1,2,2,2,5,5,1,2,2,2,1,1,4,3,5,4,2,2,3,2,3,5,3,3,3,2,3,U751,30~40,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Associate,No
+3,3,2,5,5,4,4,4,4,4,4,3,2,3,4,1,2,4,2,4,4,4,?,?,1,1,2,1,1,1,3,4,2,3,4,4,2,2,2,?,?,?,4,U752,30~40,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,5,4,5,5,5,5,5,3,3,3,3,2,2,3,1,1,4,2,4,5,5,1,1,1,1,2,3,3,2,5,5,4,4,3,2,2,4,3,3,3,2,4,U753,30~40,0~10,Sciences,Female,UOC,Adjunct,PhD,Associate,No
+3,3,3,3,3,3,4,4,2,2,3,3,3,3,3,3,2,2,2,3,3,3,3,3,3,3,2,3,1,1,3,3,3,?,3,3,?,1,?,3,3,3,1,U754,30~40,0~10,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+2,3,3,5,4,3,3,5,4,4,4,5,4,3,4,3,3,4,3,4,3,5,2,1,2,2,4,2,4,2,4,3,3,3,4,3,3,5,3,4,4,1,3,U755,30~40,0~10,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+4,4,4,4,4,3,4,4,4,4,4,2,4,4,3,1,3,3,4,4,4,4,?,?,3,1,4,1,2,1,?,?,?,?,?,?,?,?,?,?,?,?,?,U756,40~50,0~10,Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,4,3,4,5,3,5,3,4,5,4,3,5,3,2,2,1,2,?,5,5,4,2,2,3,3,3,3,4,3,5,?,3,?,5,?,?,?,5,5,5,1,4,U757,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Associate,No
+5,4,4,5,5,4,5,4,4,4,3,2,3,3,3,1,1,2,2,4,4,5,2,2,4,2,4,4,4,4,4,4,3,4,5,3,4,5,4,3,5,1,2,U758,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,5,5,?,3,2,3,3,2,4,2,2,?,1,3,2,2,3,2,2,2,1,2,2,4,2,3,1,4,4,2,2,4,3,5,5,4,3,5,1,3,U759,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,4,4,3,4,4,3,4,4,3,4,4,3,3,3,4,4,4,4,4,2,2,4,4,4,1,1,1,4,4,4,4,4,4,4,4,3,4,4,1,4,U760,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,3,3,4,4,4,3,3,3,3,4,4,4,4,4,3,3,3,5,5,5,5,4,3,3,?,4,2,3,5,5,5,?,5,4,5,4,4,4,2,4,3,U761,20~30,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,2,5,5,5,2,3,?,5,4,4,?,4,2,4,?,2,4,3,3,5,5,1,1,1,1,?,1,1,1,5,4,2,2,4,4,4,3,1,1,5,1,4,U762,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,3,4,4,3,4,3,4,4,3,3,3,4,3,3,4,4,4,3,3,4,4,3,2,4,2,4,4,4,4,4,3,3,3,3,3,2,2,3,U763,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,2,3,4,4,3,2,3,3,3,2,2,3,3,3,2,2,4,3,4,4,4,2,2,2,2,3,2,2,3,3,2,2,2,3,3,2,2,2,3,3,1,3,U764,40~50,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,5,5,5,5,5,5,5,5,3,5,3,3,5,5,3,3,5,5,5,3,1,5,5,5,5,5,3,3,3,5,5,5,5,3,3,5,5,5,1,5,U765,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,2,2,1,2,1,1,1,5,1,2,2,1,2,2,2,3,1,4,1,1,1,1,4,1,1,1,5,3,3,3,5,5,5,5,1,3,3,1,1,U766,40~50,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,4,4,4,4,4,3,3,3,3,4,2,2,3,3,4,4,5,2,2,3,3,4,4,4,3,3,3,3,4,5,3,3,?,3,3,3,2,2,U767,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,4,3,3,?,2,3,2,2,2,2,2,2,3,2,2,4,4,4,3,3,2,1,2,3,3,2,2,4,3,2,2,2,2,2,3,3,4,4,4,1,2,U768,20~30,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+3,2,3,4,4,3,4,4,2,3,2,3,3,3,3,3,2,3,4,4,4,4,3,1,4,4,3,2,2,2,5,4,3,3,3,3,4,3,4,4,4,2,3,U769,50~60,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+5,5,5,5,5,3,5,5,3,4,4,3,4,3,3,2,3,3,3,5,5,5,1,1,3,3,5,2,3,2,4,4,4,4,5,5,5,3,4,4,4,1,1,U770,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,3,2,2,3,2,2,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,U771,20~30,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,1,2,5,4,?,4,3,3,2,3,5,2,?,?,1,2,4,2,4,4,3,1,1,1,1,2,1,3,1,5,5,2,2,?,?,?,?,4,4,4,1,1,U772,40~50,10~20,Law & Politics,Female,UOC,Adjunct,PhD,Professor,No
+4,4,4,5,5,3,4,4,4,4,4,3,3,3,3,1,3,5,3,5,5,5,2,1,1,1,4,1,2,2,5,5,3,3,5,4,4,4,2,2,5,1,1,U773,30~40,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+4,3,3,5,4,3,5,5,3,3,2,4,3,4,3,2,2,3,3,5,5,5,2,1,3,3,4,1,2,1,5,5,3,3,4,5,5,4,2,4,4,1,2,U774,30~40,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,3,3,5,3,3,4,3,3,3,?,5,3,3,?,1,2,5,3,5,3,4,1,3,1,1,5,3,4,3,3,3,3,2,3,1,3,1,1,3,4,2,2,U775,30~40,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,2,2,3,3,4,2,2,2,5,5,5,5,4,4,4,4,2,2,2,3,2,U776,40~50,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,4,2,3,3,3,3,2,2,2,2,2,2,2,2,2,5,5,5,2,1,2,2,3,2,?,3,3,2,3,3,5,5,5,5,4,3,4,2,3,U777,20~30,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,Yes
+4,4,4,4,4,3,5,2,4,4,4,2,4,4,3,2,3,4,4,2,4,4,3,4,4,4,4,4,5,1,5,4,4,4,5,2,4,5,3,4,5,1,5,U778,30~40,0~10,Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,4,?,4,4,3,3,3,3,2,?,?,1,2,2,2,5,5,5,1,1,3,3,3,1,1,?,5,5,3,3,5,5,5,5,2,2,2,1,1,U779,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+5,4,5,5,4,4,5,5,4,4,3,3,3,3,4,2,4,3,3,5,5,5,3,3,3,3,3,4,5,4,5,?,3,3,5,3,5,4,3,3,2,3,3,U780,40~50,,Engineering & Architecture,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,5,5,3,4,4,2,?,3,3,3,3,3,1,2,3,3,3,3,5,1,1,2,1,3,1,1,2,4,4,2,2,3,2,2,2,2,3,3,1,3,U781,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Associate,No
+2,2,4,5,5,3,5,4,4,4,4,4,4,3,3,1,3,4,4,5,5,5,2,2,4,4,4,1,1,1,3,3,4,3,4,3,3,2,1,4,4,1,1,U782,40~50,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,4,4,3,3,3,3,3,2,3,3,3,3,1,3,3,4,4,4,4,2,2,2,2,2,2,4,2,4,4,3,3,4,4,4,4,2,2,2,1,2,U783,40~50,0~10,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,2,3,5,5,3,3,3,3,3,3,3,2,?,?,1,1,4,2,5,5,5,2,1,1,1,2,1,3,1,5,5,2,2,4,3,4,4,2,2,2,1,4,U784,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,4,5,5,3,3,4,3,3,3,3,3,3,3,2,2,3,3,5,5,5,3,3,3,3,4,1,3,3,3,3,4,4,5,5,3,5,3,3,3,1,1,U785,30~40,0~10,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+1,1,1,5,5,5,1,5,3,2,3,2,4,1,5,1,1,4,1,5,5,5,3,1,1,1,1,3,4,3,5,5,1,1,4,3,4,2,3,3,3,1,1,U786,20~30,0~10,Unknown,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,3,4,3,3,2,3,2,2,2,2,2,2,2,1,2,2,2,5,5,5,1,1,2,2,3,1,3,3,3,3,2,2,3,4,5,5,2,2,2,2,2,U787,40~50,0~10,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Professor,No
+2,2,2,4,4,3,4,3,3,4,3,4,2,2,3,1,2,3,2,5,3,5,1,1,1,2,2,1,3,1,3,3,2,2,5,5,5,5,2,2,4,1,1,U788,20~30,,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,3,3,4,3,3,4,?,4,4,4,2,3,3,3,2,3,4,3,3,4,4,1,1,3,3,3,1,3,1,?,?,3,4,4,4,3,3,3,3,3,1,2,U789,30~40,0~10,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,No
+4,4,4,4,4,3,4,4,4,4,3,2,3,3,3,3,3,3,3,4,4,4,1,1,4,4,4,1,2,1,3,3,3,3,3,3,3,3,3,3,4,1,1,U790,60~70,more than 30,Unknown,Female,UOC,Adjunct,PhD,Professor,No
+2,2,3,4,2,3,4,4,2,2,2,4,2,3,3,2,2,4,3,4,4,4,2,1,2,2,?,1,3,1,5,4,3,3,4,3,4,4,4,4,4,1,1,U791,50~60,10~20,Health Sciences,Female,UOC,Adjunct,PhD,Associate,No
+2,2,2,5,2,2,5,3,1,1,1,5,1,?,?,2,?,?,2,?,3,3,?,?,2,2,3,2,2,2,?,?,?,?,?,?,?,?,?,?,?,?,?,U792,50~60,0~10,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,Unknown
+2,3,3,2,4,2,3,2,2,2,2,4,2,2,2,1,2,2,3,4,4,4,2,1,2,1,5,2,2,3,5,4,1,2,4,4,4,4,1,3,2,1,3,U793,40~50,10~20,Unknown,Female,UOC,Adjunct,PhD,Professor,Yes
+3,3,3,5,5,4,5,4,3,4,3,4,3,3,5,1,1,3,3,5,5,5,1,1,1,1,3,3,4,3,4,3,3,2,?,3,3,4,4,?,4,1,3,U794,40~50,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,2,2,4,3,4,2,2,2,3,2,2,1,1,3,1,3,3,2,3,3,3,1,1,1,1,2,1,4,3,?,?,?,?,?,?,?,?,2,3,1,1,2,U795,50~60,10~20,Arts & Humanities,Female,UOC,Adjunct,Non-PhD,Associate,No
+2,5,4,5,5,4,3,3,4,3,3,3,4,3,3,3,?,3,3,4,3,?,3,2,4,2,4,1,2,1,3,?,3,4,3,2,3,1,4,3,2,1,2,U796,60~70,10~20,Health Sciences,Female,UOC,Adjunct,Non-PhD,Associate,No
+3,4,5,4,5,?,5,5,4,4,4,1,4,?,?,4,1,1,3,5,5,5,4,1,5,3,5,3,2,4,4,4,4,5,4,4,5,5,5,4,4,1,1,U797,40~50,20~30,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+3,3,3,5,5,?,4,4,3,3,3,2,3,3,?,1,1,3,5,5,3,5,2,3,4,4,4,4,4,4,2,3,4,3,4,4,4,4,4,4,4,1,2,U798,40~50,20~30,Arts & Humanities,Female,UOC,Adjunct,PhD,Professor,No
+2,2,3,4,3,2,3,3,3,3,3,3,3,2,2,2,3,3,3,3,3,?,2,2,3,3,3,2,2,2,4,3,3,3,3,2,3,2,2,2,4,1,2,U799,40~50,10~20,Law & Politics,Female,UOC,Adjunct,Non-PhD,Associate,Yes
+2,2,2,4,2,1,2,2,3,3,3,2,2,2,1,1,2,2,2,2,?,2,1,1,1,1,2,1,1,1,3,3,2,2,2,2,2,2,2,3,4,1,1,U800,40~50,10~20,Health Sciences,Female,UOC,Adjunct,PhD,Professor,No
+3,3,4,4,3,3,4,4,4,4,3,4,4,3,3,4,4,4,2,4,4,4,3,2,4,4,4,2,3,2,4,4,4,4,4,4,4,2,4,4,4,2,2,U801,40~50,0~10,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,2,3,4,4,2,4,4,4,3,3,2,3,2,3,1,2,4,3,4,4,5,1,1,4,3,1,1,4,2,4,2,2,1,1,2,2,2,1,3,4,1,1,U802,50~60,20~30,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+4,3,3,3,4,4,3,4,3,3,3,3,4,3,4,2,2,4,2,5,5,5,3,2,3,2,4,3,4,4,5,3,3,3,3,2,2,4,4,4,4,2,4,U803,40~50,10~20,Unknown,Female,UPF,Unknown,Non-PhD,Unknown,No
+2,3,3,3,4,4,5,5,4,4,3,3,4,3,?,1,1,1,2,5,5,5,1,2,5,3,5,1,2,?,4,1,5,5,4,1,4,4,2,4,3,1,1,U804,60~70,20~30,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,3,3,4,4,?,4,4,3,3,3,3,3,3,3,1,2,2,2,3,4,3,?,1,3,3,3,1,2,3,2,2,3,3,5,4,5,4,3,3,3,1,1,U805,40~50,10~20,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+4,4,3,5,5,5,5,5,4,4,4,5,3,3,4,3,3,3,4,5,5,5,3,3,3,3,4,3,4,5,5,3,3,3,3,3,3,3,3,4,4,1,1,U806,40~50,10~20,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+4,4,5,5,5,3,4,5,4,5,4,1,4,?,5,3,5,5,5,5,4,5,4,1,1,1,5,2,3,3,3,3,3,5,4,4,4,4,5,5,5,2,1,U807,30~40,0~10,Engineering & Architecture,Female,UPF,Unknown,PhD,Unknown,No
+3,3,4,4,4,?,?,4,2,2,3,4,2,?,?,1,2,3,3,4,5,5,1,2,2,2,3,1,3,4,4,4,2,2,4,3,4,4,2,3,3,1,3,U808,40~50,10~20,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+3,2,3,5,4,3,4,4,3,3,2,5,3,2,3,1,2,5,4,5,5,5,1,1,2,2,3,1,1,1,5,5,2,2,3,3,3,2,2,4,4,1,4,U809,40~50,10~20,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+4,4,3,5,5,5,4,3,3,3,4,4,4,3,3,1,2,3,4,4,5,4,3,3,1,1,3,2,4,5,4,2,3,3,3,1,1,1,3,3,3,3,3,U810,20~30,0~10,Engineering & Architecture,Male,UPF,Unknown,PhD,Unknown,No
+3,3,3,5,4,3,4,4,4,3,3,4,4,3,3,1,2,4,3,5,5,4,1,1,3,3,4,2,4,3,4,3,3,3,4,4,4,4,1,4,4,1,1,U811,20~30,0~10,Arts & Humanities,Male,UPF,Unknown,Non-PhD,Unknown,No
+4,5,3,5,5,?,5,4,4,4,3,3,3,2,?,1,1,4,2,5,5,5,2,1,3,2,4,1,3,3,4,4,2,2,2,4,4,2,4,5,4,1,1,U812,20~30,0~10,Engineering & Architecture,Female,UPF,Unknown,Non-PhD,Unknown,No
+3,4,4,5,5,?,4,4,3,4,3,4,3,3,?,1,2,4,3,5,5,5,1,1,1,1,4,1,1,1,4,2,1,1,1,1,1,1,1,3,3,1,1,U813,60~70,more than 30,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,4,5,5,4,5,5,5,4,4,4,2,4,4,4,1,5,5,5,4,5,5,1,1,4,4,5,4,?,4,5,1,4,2,1,1,?,5,4,4,4,1,4,U814,60~70,more than 30,Unknown,Male,UPF,Unknown,PhD,Unknown,Yes
+3,2,3,4,3,3,3,3,2,3,2,5,3,3,3,1,1,3,1,4,2,5,1,1,1,1,2,3,4,2,4,3,2,2,2,4,4,4,1,1,1,1,1,U815,50~60,10~20,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,3,4,5,4,3,4,4,3,3,2,3,3,3,2,3,2,2,3,2,4,4,2,1,4,4,4,1,1,1,2,1,3,4,3,3,3,1,4,4,4,1,1,U816,40~50,10~20,Arts & Humanities,Male,UPF,Unknown,PhD,Unknown,No
+1,1,2,5,3,?,4,3,3,3,3,3,3,1,2,1,1,2,1,3,5,4,1,1,1,1,1,4,4,3,2,3,1,1,3,3,1,2,2,3,2,1,2,U817,30~40,0~10,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+4,1,5,5,4,3,5,4,4,5,4,2,5,2,3,1,2,1,4,5,2,4,3,1,1,1,4,3,4,5,1,1,2,1,3,1,1,5,5,5,5,1,5,U818,30~40,0~10,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+4,4,4,5,5,4,4,4,4,4,4,3,4,4,3,3,3,3,3,5,4,5,4,4,4,3,5,4,5,3,?,2,5,5,5,5,5,5,4,4,4,3,4,U819,40~50,0~10,Sciences,Male,UPF,Unknown,Non-PhD,Unknown,No
+2,2,2,5,5,4,4,5,4,4,3,4,4,?,2,1,1,2,?,4,4,5,1,1,2,?,3,1,3,4,3,1,2,2,4,4,4,1,3,3,4,2,2,U820,30~40,0~10,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+2,3,4,5,5,5,4,4,4,4,4,2,4,3,3,2,4,5,4,5,3,4,3,1,3,3,4,1,5,2,4,3,3,4,4,4,4,3,4,4,5,1,1,U821,30~40,0~10,Engineering & Architecture,Female,UPF,Unknown,PhD,Unknown,No
+3,3,1,5,4,3,4,4,3,4,4,3,1,3,3,1,1,1,2,3,4,4,1,1,1,2,1,1,3,1,4,5,2,1,3,3,3,3,1,2,4,1,1,U822,30~40,0~10,Law & Politics,Female,UPF,Unknown,Non-PhD,Unknown,No
+4,5,5,5,5,4,5,4,4,4,3,1,2,?,?,5,2,4,3,4,2,4,4,1,4,5,5,1,1,3,4,?,5,5,?,?,?,?,5,5,5,2,1,U823,50~60,more than 30,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+4,2,3,3,5,4,2,5,2,5,3,4,3,4,2,1,3,2,3,5,5,5,1,2,2,4,3,4,4,4,3,3,3,3,3,3,3,3,?,4,1,1,?,U824,30~40,0~10,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+3,2,3,4,4,3,4,1,3,3,3,5,2,1,3,1,1,4,4,4,3,5,1,1,2,2,2,2,2,2,4,4,1,2,5,3,5,4,3,3,4,1,1,U825,40~50,10~20,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+3,3,5,5,4,3,4,4,3,3,3,4,3,?,4,3,3,2,3,4,3,4,2,2,4,2,4,2,2,1,2,?,3,3,2,2,2,2,3,5,5,1,1,U826,40~50,10~20,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+2,3,3,4,4,2,5,5,4,4,3,5,2,2,3,1,2,4,4,5,4,5,1,1,2,2,3,1,1,2,4,4,2,2,?,3,4,2,2,4,4,1,2,U827,50~60,20~30,Law & Politics,Male,UPF,Unknown,PhD,Unknown,No
+5,4,5,5,5,4,3,5,4,4,3,3,4,4,3,3,4,4,5,5,5,5,4,4,5,5,5,4,5,3,4,3,5,5,4,4,3,4,4,4,5,1,4,U828,40~50,10~20,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+4,5,4,5,5,5,5,5,5,5,5,1,5,5,4,5,2,2,3,4,4,5,4,4,5,5,3,1,3,1,4,2,5,5,5,5,5,5,5,5,5,2,5,U829,30~40,0~10,Unknown,Male,UPF,Unknown,PhD,Unknown,Yes
+4,4,5,5,4,3,4,4,4,4,4,4,4,3,3,3,4,4,4,5,4,5,4,2,4,4,4,1,2,2,4,4,4,4,4,4,3,3,4,5,5,1,2,U830,30~40,0~10,Engineering & Architecture,Male,UPF,Unknown,PhD,Unknown,No
+3,3,3,5,5,3,4,5,3,2,3,4,2,1,2,1,2,2,3,4,3,5,1,1,2,4,4,1,2,2,3,3,2,2,1,4,2,2,3,4,3,1,1,U831,20~30,0~10,Arts & Humanities,Female,UPF,Unknown,Non-PhD,Unknown,No
+3,3,3,5,5,5,3,2,3,4,4,3,3,4,2,1,1,2,2,3,4,4,3,3,1,1,3,1,3,1,3,3,3,2,4,2,2,4,2,3,3,1,1,U832,20~30,0~10,Unknown,Female,UPF,Unknown,Non-PhD,Unknown,No
+3,3,3,3,3,3,2,3,3,3,2,5,3,3,3,1,3,3,3,3,3,5,1,1,1,1,3,3,3,1,3,2,2,2,3,3,3,3,2,3,3,1,3,U833,40~50,10~20,Arts & Humanities,Male,UPF,Unknown,PhD,Unknown,No
+2,2,3,4,4,?,3,3,3,4,3,3,3,3,?,1,2,2,3,4,5,5,2,1,3,3,2,1,2,1,3,2,2,2,3,3,4,4,2,4,4,1,1,U834,30~40,0~10,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+3,3,3,4,4,5,3,3,2,2,2,2,3,3,4,1,2,4,3,3,4,5,1,1,1,1,3,1,1,3,5,3,2,2,2,1,2,2,2,2,1,1,2,U835,50~60,20~30,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+4,4,5,5,5,4,4,4,5,5,5,3,5,2,2,2,3,4,4,5,5,5,4,2,4,4,5,3,4,3,3,2,4,4,4,4,4,5,5,5,5,4,5,U836,20~30,0~10,Engineering & Architecture,Male,UPF,Unknown,Non-PhD,Unknown,No
+5,5,5,4,4,3,5,3,4,4,4,5,4,3,3,2,3,3,3,4,4,5,2,3,4,3,5,1,2,1,3,1,3,3,5,5,5,5,4,5,5,1,3,U837,60~70,more than 30,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+3,3,4,5,4,3,4,3,3,3,2,3,2,2,3,5,2,4,4,5,5,5,1,3,4,4,3,2,3,2,2,3,4,4,4,5,4,4,3,4,4,1,2,U838,20~30,0~10,Engineering & Architecture,Male,UPF,Unknown,Non-PhD,Unknown,No
+2,2,3,5,3,4,5,5,4,4,2,4,3,3,3,1,3,4,3,5,5,4,3,1,3,3,3,4,2,4,4,3,2,2,3,5,4,3,3,5,5,3,1,U839,20~30,0~10,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,4,3,4,3,2,4,4,2,3,3,4,3,3,3,2,2,3,3,2,3,4,2,1,3,3,3,1,1,1,4,3,3,3,4,4,4,4,2,2,2,1,1,U840,50~60,more than 30,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+4,3,4,5,5,3,4,4,4,4,4,2,4,3,3,2,3,4,4,4,4,4,1,1,2,2,4,1,1,1,4,3,3,3,4,4,4,4,4,3,4,1,1,U841,60~70,20~30,Unknown,Female,UPF,Unknown,PhD,Unknown,Yes
+4,3,4,4,5,3,4,4,2,3,3,4,3,2,2,1,2,3,2,3,?,5,1,1,1,1,3,1,1,1,2,2,2,2,3,3,4,4,3,3,1,1,1,U842,30~40,10~20,Sciences,Female,UPF,Unknown,PhD,Unknown,No
+3,3,3,5,5,4,4,4,3,3,3,4,3,3,4,1,3,4,4,4,4,4,2,1,2,2,4,1,1,1,2,1,2,4,3,3,2,1,1,4,4,1,1,U843,50~60,10~20,Health Sciences,Female,UPF,Unknown,PhD,Unknown,No
+5,5,5,5,5,5,5,5,5,5,4,2,4,?,?,4,?,5,?,5,5,5,4,2,3,3,5,1,2,4,1,1,3,3,1,2,4,4,5,5,5,2,1,U844,40~50,20~30,Unknown,Male,UPF,Unknown,PhD,Unknown,Yes
+4,2,3,5,4,3,4,4,4,4,3,2,4,3,3,3,2,4,4,4,4,4,2,2,3,3,3,1,1,4,2,3,3,4,4,4,5,4,3,4,3,1,1,U845,40~50,10~20,Law & Politics,Female,UPF,Unknown,PhD,Unknown,No
+4,4,4,5,4,5,4,4,4,4,3,5,4,2,2,1,3,4,3,5,5,5,1,2,5,2,4,3,1,1,3,1,4,4,3,3,1,1,3,5,5,4,4,U846,30~40,10~20,Law & Politics,Male,UPF,Unknown,PhD,Unknown,No
+4,4,3,4,4,?,5,5,4,4,3,5,4,1,?,1,3,4,2,5,5,5,2,1,2,2,5,3,3,5,2,1,1,2,2,1,2,3,3,4,5,1,1,U847,30~40,10~20,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+2,2,2,5,5,?,2,2,2,3,4,1,2,2,?,1,3,5,3,5,5,5,1,1,1,1,2,1,2,2,4,?,2,2,2,2,2,2,2,2,2,1,1,U848,20~30,0~10,Unknown,Female,UPF,Unknown,Non-PhD,Unknown,No
+3,3,4,4,4,2,4,4,4,4,4,2,3,3,3,2,3,2,3,4,5,5,2,2,2,2,4,3,4,2,3,3,2,2,2,2,2,2,4,4,4,2,2,U849,40~50,10~20,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+4,4,3,5,5,3,5,5,3,4,3,3,3,3,3,3,2,2,2,4,5,5,1,3,4,4,4,2,2,3,3,3,4,4,4,4,4,4,3,4,4,1,3,U850,20~30,0~10,Health Sciences,Female,UPF,Unknown,Non-PhD,Unknown,No
+5,5,5,5,5,3,5,5,5,5,5,1,5,3,3,1,3,2,3,5,5,5,5,2,5,4,5,2,1,5,3,1,3,3,5,5,5,5,5,5,5,2,5,U851,40~50,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+3,3,3,5,4,3,5,2,3,4,1,4,2,3,3,1,1,5,3,5,5,5,2,2,2,2,4,1,2,2,2,2,2,2,4,4,3,4,4,5,4,1,1,U852,40~50,0~10,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+1,4,4,5,4,4,2,5,4,4,3,4,5,5,5,2,4,5,4,5,5,5,4,1,4,4,4,1,1,3,5,4,4,4,5,3,5,5,5,5,5,2,5,U853,40~50,20~30,Engineering & Architecture,Male,UPF,Unknown,Non-PhD,Unknown,No
+1,2,3,5,4,3,4,5,3,4,2,5,3,2,2,1,2,3,2,4,4,4,2,1,2,2,2,1,3,3,3,3,2,2,5,4,3,5,2,4,5,1,1,U854,20~30,0~10,Unknown,Female,UPF,Unknown,Non-PhD,Unknown,No
+3,3,3,5,5,4,2,3,3,4,3,2,3,2,4,1,1,3,1,3,4,5,2,1,1,1,2,1,4,2,3,4,2,3,4,1,2,3,3,4,4,1,1,U855,40~50,20~30,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+5,5,5,4,4,3,5,5,3,4,4,4,5,1,2,1,5,5,5,5,5,5,3,4,5,5,5,5,5,5,3,1,5,5,2,2,1,1,4,5,5,4,5,U856,30~40,10~20,Sciences,Male,UPF,Unknown,Non-PhD,Unknown,Unknown
+3,3,4,4,3,2,3,3,4,5,2,3,3,4,5,2,1,2,1,5,5,5,3,1,5,4,5,1,5,5,5,5,3,3,4,3,5,3,3,5,5,1,5,U857,50~60,20~30,Unknown,Male,UPF,Unknown,PhD,Unknown,Yes
+3,3,4,4,4,3,4,4,3,4,3,3,2,2,2,2,3,4,4,4,3,3,3,1,1,1,3,1,1,1,4,4,3,3,4,2,2,1,3,4,4,1,3,U858,50~60,more than 30,Health Sciences,Male,UPF,Unknown,PhD,Unknown,Yes
+5,5,5,5,5,5,5,5,5,5,4,2,5,5,5,5,3,3,5,5,5,5,5,3,5,5,5,4,3,5,4,1,5,5,5,4,4,5,5,5,5,4,3,U859,50~60,20~30,Engineering & Architecture,Male,UPF,Unknown,PhD,Unknown,Yes
+4,3,4,4,4,1,3,3,3,3,3,3,3,?,?,4,3,3,3,4,4,?,4,3,4,4,3,1,1,1,3,3,3,3,?,?,?,3,4,4,4,1,1,U860,50~60,more than 30,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+3,3,3,5,4,4,3,3,3,3,2,4,2,2,3,1,4,4,3,3,4,4,2,2,1,1,2,4,5,2,4,3,2,2,2,2,2,2,3,3,3,2,3,U861,30~40,0~10,Sciences,Male,UPF,Unknown,Non-PhD,Unknown,No
+3,3,3,5,4,3,3,4,3,3,3,3,3,3,3,1,3,3,3,3,4,4,1,1,1,1,4,1,2,2,4,4,3,3,?,4,4,4,3,4,2,1,1,U862,50~60,10~20,Arts & Humanities,Male,UPF,Unknown,PhD,Unknown,No
+2,2,?,5,3,3,4,4,2,2,2,4,2,2,1,1,1,3,1,4,5,5,1,1,1,1,1,3,4,4,4,3,1,1,1,2,1,1,1,1,3,2,3,U863,40~50,10~20,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+3,4,5,5,5,3,5,4,4,5,4,4,4,3,2,5,2,3,3,5,5,5,5,3,5,4,5,3,5,4,2,2,5,5,5,5,5,5,5,5,5,3,5,U864,20~30,0~10,Unknown,Female,UPF,Unknown,Non-PhD,Unknown,Yes
+3,3,3,5,4,3,4,4,3,3,2,4,2,3,2,1,2,2,1,4,5,5,2,2,2,1,3,1,1,2,4,1,2,3,4,4,4,5,5,5,5,1,3,U865,40~50,10~20,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+4,4,5,5,5,3,3,3,4,4,4,4,4,3,3,1,2,3,?,5,5,5,2,1,3,?,4,1,3,1,3,2,3,4,3,3,2,2,3,5,5,1,1,U866,50~60,10~20,Arts & Humanities,Female,UPF,Unknown,Non-PhD,Unknown,No
+2,2,3,4,4,4,2,3,3,3,2,2,3,4,3,1,2,4,2,4,4,4,1,1,2,3,2,2,4,4,2,3,2,2,5,3,3,5,3,3,5,1,2,U867,20~30,0~10,Unknown,Female,UPF,Unknown,Non-PhD,Unknown,No
+3,3,3,5,4,3,3,3,4,4,4,4,3,4,?,1,?,4,?,5,5,5,1,3,1,2,4,3,2,4,5,3,2,2,2,2,?,?,2,2,5,4,2,U868,50~60,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+3,1,2,4,3,5,3,3,1,2,2,5,3,1,5,1,2,5,3,5,5,4,1,1,2,1,2,3,1,4,2,2,1,1,1,1,1,1,2,3,4,4,4,U869,50~60,0~10,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,Yes
+3,4,4,5,4,?,4,4,4,4,4,?,?,?,?,1,2,4,2,4,5,5,2,1,3,3,4,1,2,4,4,?,?,?,4,?,4,?,4,4,4,1,1,U870,60~70,,Sciences,Female,UPF,Unknown,PhD,Unknown,No
+4,4,4,4,4,4,4,4,4,4,4,2,4,3,3,3,3,3,3,3,3,2,2,3,4,4,3,4,4,3,3,3,3,3,3,3,3,3,4,4,4,1,3,U871,40~50,10~20,Sciences,Female,UPF,Unknown,PhD,Unknown,No
+4,3,4,5,3,?,?,4,2,2,2,4,3,4,?,2,2,3,?,5,4,3,2,1,2,2,4,2,1,2,?,?,?,?,5,4,4,3,2,3,3,1,1,U872,60~70,20~30,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,3,4,5,4,?,5,4,4,4,3,4,5,?,?,1,4,5,5,4,5,5,5,1,4,2,5,1,3,3,4,4,5,4,4,4,4,4,5,5,2,1,1,U873,30~40,0~10,Engineering & Architecture,Male,UPF,Unknown,PhD,Unknown,No
+3,3,4,4,4,2,4,4,3,4,3,2,3,2,2,2,2,4,3,4,2,4,3,1,3,3,3,2,1,3,4,3,3,3,3,3,3,2,4,4,4,1,1,U874,40~50,10~20,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+5,5,5,5,5,3,5,5,4,3,3,2,3,3,3,2,3,3,3,3,3,3,?,?,5,5,5,1,2,1,?,?,?,?,?,?,?,?,?,?,?,?,?,U875,40~50,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+4,4,4,4,3,4,4,4,3,3,3,3,3,3,3,1,3,3,3,5,4,4,2,2,4,4,3,3,3,3,3,2,3,3,3,2,3,2,3,4,4,3,1,U876,20~30,0~10,Health Sciences,Male,UPF,Unknown,Non-PhD,Unknown,Yes
+1,4,4,4,4,1,4,4,4,4,4,5,4,1,2,4,2,2,1,5,5,5,2,1,3,3,5,5,5,5,3,3,3,4,1,1,1,1,4,4,4,1,2,U877,30~40,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+2,2,3,5,3,?,1,2,3,3,3,3,2,?,?,1,2,3,2,5,5,5,1,1,1,1,3,1,3,1,3,3,1,1,4,4,3,1,1,3,1,1,1,U878,40~50,20~30,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+1,1,2,4,4,3,1,3,2,2,2,4,2,3,3,1,1,3,?,2,4,3,1,1,1,1,1,1,2,1,3,3,1,1,3,3,2,1,1,1,3,1,1,U879,30~40,10~20,Health Sciences,Female,UPF,Unknown,PhD,Unknown,No
+3,3,2,5,3,3,1,2,3,3,3,3,3,3,3,1,3,3,3,3,3,3,1,1,1,1,3,2,3,1,3,3,1,1,1,1,1,1,2,1,2,1,1,U880,30~40,0~10,Health Sciences,Female,UPF,Unknown,Non-PhD,Unknown,No
+4,4,4,5,5,4,5,5,4,5,2,5,4,5,2,1,2,4,5,5,3,5,5,5,4,5,5,3,4,1,5,3,5,5,4,5,2,4,5,5,5,4,5,U881,20~30,0~10,Engineering & Architecture,Male,UPF,Unknown,Non-PhD,Unknown,Yes
+1,1,2,4,3,4,3,2,1,1,2,5,1,2,2,1,3,2,1,4,5,3,1,1,1,1,1,1,2,2,4,4,1,1,3,2,2,3,2,3,3,3,1,U882,30~40,0~10,Arts & Humanities,Male,UPF,Unknown,Non-PhD,Unknown,No
+1,1,1,5,5,4,2,1,1,3,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,5,1,3,1,1,1,1,1,1,1,1,2,3,1,1,U883,40~50,0~10,Arts & Humanities,Male,UPF,Unknown,PhD,Unknown,No
+4,4,4,5,5,?,5,5,4,4,4,4,4,5,3,1,4,5,3,5,4,5,3,4,4,4,5,5,4,2,5,4,5,5,5,5,5,5,4,5,5,1,1,U884,40~50,20~30,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+2,2,3,4,3,3,4,4,2,1,1,5,3,2,2,1,3,4,4,5,5,5,2,1,2,1,2,2,1,4,3,2,2,1,4,2,2,3,2,4,4,1,5,U885,30~40,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+3,2,3,5,4,4,4,4,3,4,2,5,2,2,3,1,1,2,1,3,3,3,1,1,1,1,2,1,3,1,2,2,1,2,2,2,2,3,1,2,3,1,1,U886,20~30,0~10,Law & Politics,Female,UPF,Unknown,Non-PhD,Unknown,No
+4,4,5,5,4,3,5,?,4,5,4,?,4,2,2,5,3,2,3,5,5,5,3,2,5,5,5,5,5,5,4,2,5,5,4,2,4,5,4,5,4,2,1,U887,40~50,10~20,Unknown,Male,UPF,Unknown,PhD,Unknown,Yes
+4,3,4,5,4,3,5,4,4,4,3,3,4,3,3,1,4,4,5,5,3,4,3,1,4,4,4,1,1,2,2,4,4,3,3,3,3,2,4,4,5,1,1,U888,20~30,0~10,Engineering & Architecture,Male,UPF,Unknown,Non-PhD,Unknown,No
+4,4,5,5,5,5,4,3,3,3,3,2,4,4,5,1,3,3,4,5,5,5,1,3,?,4,5,1,1,4,5,?,4,4,4,3,2,3,4,4,5,5,1,U889,50~60,more than 30,Sciences,Male,UPF,Unknown,PhD,Unknown,No
+2,4,3,5,5,4,5,5,3,4,3,5,2,3,3,1,1,5,4,5,5,5,2,1,4,4,3,4,5,5,2,1,3,4,4,4,4,3,3,3,5,1,2,U890,20~30,0~10,Arts & Humanities,Male,UPF,Unknown,Non-PhD,Unknown,Yes
+3,3,3,5,5,4,4,3,4,4,4,3,3,3,3,3,4,4,2,3,3,5,3,2,3,3,2,2,4,3,5,4,4,4,3,4,4,3,4,5,5,3,2,U891,50~60,0~10,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+3,3,5,5,5,4,5,3,5,4,4,1,4,2,3,2,2,4,3,4,4,5,4,2,4,4,4,1,4,4,4,4,5,5,3,3,3,3,4,5,5,1,1,U892,30~40,0~10,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+3,4,4,5,4,?,4,4,4,3,4,2,3,3,?,1,1,1,3,4,4,4,3,2,2,1,3,1,1,1,3,1,2,1,4,?,5,5,1,4,5,1,3,U893,40~50,10~20,Health Sciences,Female,UPF,Unknown,PhD,Unknown,No
+4,4,4,5,2,3,5,4,3,4,4,5,4,4,3,2,1,2,2,5,5,5,3,4,4,3,4,2,5,4,5,3,4,5,3,4,2,5,3,5,4,2,2,U894,20~30,0~10,Engineering & Architecture,Male,UPF,Unknown,Non-PhD,Unknown,No
+2,2,2,5,4,3,3,3,2,2,2,4,2,2,3,1,1,3,1,3,3,3,1,1,1,1,2,1,2,3,3,3,1,1,1,1,1,1,1,1,1,1,1,U895,40~50,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+5,5,5,5,5,4,5,5,4,5,4,2,4,3,4,4,4,4,4,5,5,5,4,2,5,3,5,2,2,3,2,2,4,4,3,3,3,3,4,5,5,2,5,U896,50~60,10~20,Engineering & Architecture,Male,UPF,Unknown,PhD,Unknown,Yes
+5,5,5,5,5,4,5,5,3,4,3,4,4,3,3,5,2,4,5,5,5,5,5,3,5,4,5,1,?,1,2,2,4,5,5,3,2,4,4,5,2,1,1,U897,30~40,0~10,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+5,5,5,5,5,4,5,5,5,5,5,1,5,4,4,3,5,4,4,5,5,5,5,5,5,5,5,3,4,2,2,3,5,5,5,3,5,5,5,5,5,2,5,U898,20~30,0~10,Sciences,Male,UPF,Unknown,Non-PhD,Unknown,Yes
+3,3,3,4,4,?,3,4,4,4,4,3,?,?,?,2,?,3,4,4,3,4,3,1,?,?,5,1,1,1,4,4,?,?,?,4,?,?,3,3,3,1,2,U899,40~50,10~20,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+2,3,3,4,4,4,4,4,2,2,2,3,2,2,2,2,2,2,2,3,4,4,2,1,2,2,3,2,2,2,4,3,2,2,3,4,4,3,3,3,3,1,2,U900,50~60,10~20,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+4,4,5,5,4,4,4,5,4,3,3,4,2,4,3,1,1,1,3,?,5,5,2,1,4,4,5,1,5,5,4,4,4,4,4,4,5,5,5,5,5,1,1,U901,40~50,10~20,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+3,4,4,5,4,4,4,4,3,4,1,3,3,2,4,1,3,4,4,5,5,5,3,1,1,2,3,1,3,1,2,1,1,1,5,5,3,4,4,4,5,1,1,U902,30~40,0~10,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+2,2,2,4,3,4,4,4,3,3,2,4,3,2,3,2,2,4,2,4,4,4,2,1,2,2,2,2,2,2,3,3,2,2,3,2,3,4,4,4,?,2,2,U903,50~60,20~30,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+5,5,5,5,5,5,5,5,5,5,5,3,5,4,2,5,3,3,3,5,5,5,4,3,5,3,5,5,5,4,3,2,5,5,5,5,4,4,5,5,5,3,4,U904,40~50,10~20,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,Yes
+5,4,4,5,5,?,5,5,4,5,3,2,4,?,?,1,1,2,1,4,5,5,2,1,4,4,4,2,2,3,1,1,4,2,4,3,4,4,5,5,5,1,2,U905,30~40,0~10,Arts & Humanities,Female,UPF,Unknown,PhD,Unknown,No
+2,2,3,4,4,?,3,3,3,2,2,4,3,2,?,1,1,2,?,4,3,5,1,1,1,2,2,3,2,1,4,2,1,1,3,4,3,5,4,5,4,1,1,U906,40~50,20~30,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+?,?,?,5,3,3,4,3,2,2,?,?,?,2,?,1,?,?,?,?,1,?,1,1,1,1,1,1,1,1,?,?,?,?,?,?,?,?,1,1,2,1,1,U907,40~50,0~10,Unknown,Male,UPF,Unknown,PhD,Unknown,No
+2,3,2,4,3,3,2,2,3,4,4,3,4,1,1,1,1,3,2,5,2,3,1,1,1,1,2,1,1,3,2,2,1,1,1,1,1,1,2,2,3,1,1,U908,50~60,10~20,Unknown,Female,UPF,Unknown,PhD,Unknown,No
+3,3,3,5,5,2,4,5,3,3,4,5,2,2,2,1,2,2,2,3,3,4,?,?,2,2,2,1,2,1,5,4,2,2,2,2,2,2,?,?,?,?,?,U909,40~50,20~30,Law & Politics,Male,UPF,Unknown,PhD,Unknown,No
+3,3,4,5,4,3,4,4,4,4,4,3,3,2,3,3,2,?,2,?,4,5,3,2,3,3,5,2,2,4,3,3,4,4,4,3,3,4,4,4,4,1,1,U910,50~60,20~30,Unknown,Male,UPF,Unknown,Non-PhD,Unknown,No
+3,3,3,5,4,3,3,4,3,3,2,5,2,2,4,1,1,2,?,4,5,4,3,1,1,1,3,5,5,3,3,1,2,2,5,4,3,?,5,5,5,4,1,U911,30~40,0~10,Law & Politics,Male,UPF,Unknown,PhD,Unknown,No
+3,3,5,5,4,2,4,4,4,4,3,2,5,3,2,5,4,5,4,5,5,5,3,1,5,5,?,1,2,4,4,2,5,5,1,5,2,2,4,4,2,1,1,U912,30~40,0~10,Health Sciences,Male,UPF,Unknown,PhD,Unknown,No
+3,4,3,5,5,?,4,4,3,3,3,2,3,2,3,1,3,5,4,4,4,4,2,1,3,3,3,1,1,4,4,4,3,3,3,?,3,3,2,3,3,1,1,U913,40~50,10~20,Health Sciences,Female,UPF,Unknown,PhD,Unknown,No
