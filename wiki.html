@@ -49,6 +49,12 @@ var partition = d3.layout.partition()
 var selectedDim = [];
 var dataPath = ["wiki4HE"];
 
+	d3.select('#inputFileOption')
+	.on('change',function(){
+		console.log('running');
+		var newData = d3.select(this).property('value');
+		loadDimension(newData);
+	})
 function loadDimension(newDataPath) {
 	  ndataPath = "./data/"+newDataPath+".csv";
 		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
