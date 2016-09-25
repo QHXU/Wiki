@@ -35,8 +35,8 @@
 <script src="./js/highlight.min.js"></script>
 
 <script>
-var firstTimeLoad = true;
-var headerNames;
+var FirstLoad = true;
+var Header_Name;
 var chart = d3.parsets();
 var partition = d3.layout.partition()
     .sort(null)
@@ -44,18 +44,18 @@ var partition = d3.layout.partition()
     .children(function(d) { return d.children ? d3.values(d.children) : null; })
     .value(function(d) { return d.count; });
 
-var selectedDim = [];
+var Selected_Dimensions = [];
 var dataPath = ["wiki4HE"];
 
 function loadDimension(DataPath) {
 	  ndataPath = "./data/"+DataPath+".csv";
 		var nav_canvas =d3.csv(ndataPath, function(error, data) 
 		{
-		headerNames = d3.keys(data[0]);
-		datasource = data;
+		Header_Name = d3.keys(data[0]);
+		Data_Source = data;
 		var form = d3.select("#vis_nav").append("form");
 		labels = form.selectAll("label")
-		.data(headerNames)
+		.data(Header_Name)
 		.enter()
 		.append("div")
 		.text(function(d) {return d;})
@@ -77,30 +77,30 @@ function loadData(DataPath)
 	  ndataPath = "./data/"+DataPath+".csv";
 		var nav_canvas =d3.csv(ndataPath, function(error, data) 
 		{
-		headerNames = d3.keys(data[0]);
-		datasource = data;
+		Header_Name = d3.keys(data[0]);
+		Data_Source = data;
 		});
 	}
 
-function getCheckedBoxes(chkboxClassName) 
+function getCheckedBoxes(Box_Name) 
 	{
-	var checkboxes = document.getElementsByClassName(chkboxClassName);
-	var checkboxesChecked = [];
+	var checkboxes = document.getElementsByClassName(Box_Name);
+	var Checked = [];
 	for (var i=0; i<checkboxes.length; i++) 
 		{
     		 if (checkboxes[i].checked) 
 		 	{
-        		checkboxesChecked.push(checkboxes[i]);
+        		Checked.push(checkboxes[i]);
      			}
  		 }
-	return checkboxesChecked.length > 0 ? checkboxesChecked : null;
+	return Checked.length > 0 ? Checked : null;
 	}
 
 function updateData () 
 	{
-	if (firstTimeLoad) 
+	if (FirstLoad) 
 		{
-		firstTimeLoad = false;
+		FirstLoad = false;
 		return null;
 	}
 
@@ -114,22 +114,22 @@ function updateData ()
    		 alert("Please select at least 2 dimensions!" );
  	 	 return null;
 		}
-	selectedDim = []
+	Selected_Dimensions = []
 	for (var i=0; i<checkedBoxes.length; i++) 
 		{
 	 if (checkedBoxes[i].checked) 
 	 		{
-		selectedDim.push(checkedBoxes[i].name);
+		Selected_Dimensions.push(checkedBoxes[i].name);
 			}
 		}
-	chart = d3.parsets().dimensions(selectedDim);
+	chart = d3.parsets().dimensions(Selected_Dimensions);
 	d3.select("#parallelset01").remove();
 	var vis = d3.select("#vis").append("svg")
 		.attr("id","parallelset01")
 		.attr("viewBox","0 0 "+chart.width()+ " "+ chart.height())
 		.attr("preserveAspectRatio","xMidYMid meet")
 
-	vis.datum(datasource).call(chart);
+	vis.datum(Data_Source).call(chart);
 
 	}
 
