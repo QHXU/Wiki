@@ -5,9 +5,7 @@
 @import url(./css/d3.parsets.css);
 @import url(./css/manual.css);
 </style>
-<head>
-	<link rel="icon" type="image/png" href="./media/favicon.ico">
-</head>
+
 <body>
 <h1>Wiki Adoption</h1>
 <p class="meta">Understanding about wiki technology adoption path
@@ -23,12 +21,7 @@
 					   value="Update"
 					   onclick="updateData()" />
 			</div>
-		 	<div>DATA SOURCE:
-				<select id="inputFileOption">
-				  <option value="wiki4HE_decoded_H_L">Combined (1,3,5)</option>
-				  <option value="wiki4HE_decoded">Separated (1-5)</option>
-				</select>
-			</div>
+		 	
 			<div id="vis_nav"></div>
 		</nav>
 		<article class="article">
@@ -53,18 +46,12 @@ var partition = d3.layout.partition()
     .value(function(d) { return d.count; });
 
 var selectedDim = [];
-var dataPath = ["wiki4HE_decoded_H_L","wiki4HE_decoded"];
+var dataPath = ["wiki4HE"];
 
-d3.select('#inputFileOption')
-	.on('change',function(){
-		console.log('running');
-		var newData = d3.select(this).property('value');
-		loadData(newData);
-	})
 
-function loadDimension(newDataPath) {
-	  ndataPath = "./data/"+newDataPath+".csv";
-		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
+function loadDimension(DataPath) {
+	  Data_Path = "./data/"+DataPath+".csv";
+		var nav_canvas =	d3.csv(Data_Path, function(error, data) {
 												headerNames = d3.keys(data[0]);
 												datasource = data;
 												// Create the shape selectors
@@ -87,13 +74,6 @@ function loadDimension(newDataPath) {
 
 }
 
-function loadData(newDataPath) {
-	  ndataPath = "./data/"+newDataPath+".csv";
-		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
-												headerNames = d3.keys(data[0]);
-												datasource = data;
-											});
-}
 
 // Pass the checkbox name to the function
 function getCheckedBoxes(chkboxClassName) {
