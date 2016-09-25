@@ -47,34 +47,53 @@ var partition = d3.layout.partition()
     .value(function(d) { return d.count; });
 
 var selectedDim = [];
+var dataPath = ["wiki4HE"];
 
-d3.csv(ndataPath, function(error, data) {
-											headerNames = d3.keys(data[0]);
-											datasource = data;
-											var form = d3.select("#vis_nav").append("form");
-											labels = form.selectAll("label")
-												.data(headerNames)
-												.enter()
-												.append("div")
-												.text(function(d) {return d;})
-												.insert("input")
-												.attr({
-												type: "checkbox",
-												class: "shape",
-												name: function(d) {return d;},
-												value: function(d, i) {return i;});)
+d3.select('#inputFileOption')
+	.on('change',function(){
+		console.log('running');
+		var newData = d3.select(this).property('value');
+		loadDimension(newData);
+	})
 
+function loadDimension(newDataPath) {
+	  ndataPath = "./data/"+newDataPath+".csv";
+		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
+												headerNames = d3.keys(data[0]);
+												datasource = data;
+												// Create the shape selectors
+												var form = d3.select("#vis_nav").append("form");
+												labels = form.selectAll("label")
+													.data(headerNames)
+													.enter()
+													.append("div")
+													.text(function(d) {return d;})
+													.insert("input")
+													.attr({
+														type: "checkbox",
+														class: "shape",
+														name: function(d) {return d;},
+														value: function(d, i) {return i;}
+													});
+
+											});
+}
+// Pass the checkbox name to the function
 function getCheckedBoxes(chkboxClassName) {
   var checkboxes = document.getElementsByClassName(chkboxClassName);
   var checkboxesChecked = [];
+  // loop over them all
   for (var i=0; i<checkboxes.length; i++) {
+     // And stick the checked ones onto an array...
      if (checkboxes[i].checked) {
         checkboxesChecked.push(checkboxes[i]);
      }
   }
+  // Return the array if it is non-empty, or null
   return checkboxesChecked.length > 0 ? checkboxesChecked : null;
 }
 
+// Update Graph when dimension selection is changed
 function updateData () {
 	// Call as
 	if (firstTimeLoad) {
@@ -92,8 +111,10 @@ function updateData () {
   }
 	selectedDim = []
 	for (var i=0; i<checkedBoxes.length; i++) {
+	 // And stick the checked ones onto an array...
 	 if (checkedBoxes[i].checked) {
 		selectedDim.push(checkedBoxes[i].name);
+		//console.log(checkedBoxes[i].name);
 	 }
 	}
 	chart = d3.parsets().dimensions(selectedDim);
@@ -109,6 +130,7 @@ function updateData () {
 
 
 function updateAll() {
+	//loadDimension(dataPath[1]);
 	updateData();
 }
 
