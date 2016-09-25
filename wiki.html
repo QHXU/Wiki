@@ -44,11 +44,15 @@ var partition = d3.layout.partition()
     .size([chart.width(), chart.height() * 5 / 4])
     .children(function(d) { return d.children ? d3.values(d.children) : null; })
     .value(function(d) { return d.count; });
+
 var selectedDim = [];
 var dataPath = ["wiki4HE"];
-function loadDimension(DataPath) {
-	  Data_Path = "./data/"+DataPath+".csv";
-		var nav_canvas =	d3.csv(Data_Path, function(error, data) {
+
+
+
+function loadDimension(newDataPath) {
+	  ndataPath = "./data/"+newDataPath+".csv";
+		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
 												headerNames = d3.keys(data[0]);
 												datasource = data;
 												// Create the shape selectors
@@ -66,8 +70,19 @@ function loadDimension(DataPath) {
 														name: function(d) {return d;},
 														value: function(d, i) {return i;}
 													});
+
+											});
+
+}
+
+function loadData(newDataPath) {
+	  ndataPath = "./data/"+newDataPath+".csv";
+		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
+												headerNames = d3.keys(data[0]);
+												datasource = data;
 											});
 }
+
 // Pass the checkbox name to the function
 function getCheckedBoxes(chkboxClassName) {
   var checkboxes = document.getElementsByClassName(chkboxClassName);
@@ -82,6 +97,7 @@ function getCheckedBoxes(chkboxClassName) {
   // Return the array if it is non-empty, or null
   return checkboxesChecked.length > 0 ? checkboxesChecked : null;
 }
+
 // Update Graph when dimension selection is changed
 function updateData () {
 	// Call as
@@ -89,6 +105,7 @@ function updateData () {
 		firstTimeLoad = false;
 		return null;
 	}
+
 	var checkedBoxes = getCheckedBoxes("shape");
 	if (checkedBoxes == null) {
 		checkedBoxes = [];
@@ -113,11 +130,17 @@ function updateData () {
 		.attr("preserveAspectRatio","xMidYMid meet")
 		//.attr("width", chart.width())
 		//.attr("height", chart.height());
+
 	vis.datum(datasource).call(chart);
+
 }
+
+
 function updateAll() {
 	updateData();
 }
+
 loadDimension(dataPath[0]);
 updateAll();
+
 </script>
