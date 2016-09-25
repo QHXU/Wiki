@@ -33,28 +33,28 @@
 <script src="./js/highlight.min.js"></script>
 
 <script>
-var FirstLoad = true;
-var Header_Names;
-var Chart = d3.parsets();
-var Partition = d3.layout.partition()
+var firstTimeLoad = true;
+var headerNames;
+var chart = d3.parsets();
+var partition = d3.layout.partition()
     .sort(null)
     .size([chart.width(), chart.height() * 5 / 4])
     .children(function(d) { return d.children ? d3.values(d.children) : null; })
     .value(function(d) { return d.count; });
 
-var Selected_Dimensions = [];
-var DataPath = ["wiki4HE"];
+var selectedDim = [];
+var dataPath = ["wiki4HE"];
 
 function LoadDimension(DataPath) 
 	{
 		Data_Path = "./data/"+DataPath+".csv";
 		var nav_canvas = d3.csv(Data_Path, function(error, data) 
 		{
-			Header_Names = d3.keys(data[0]);
-			Data_Source = data;
+			headerNames = d3.keys(data[0]);
+			datasource = data;
 			var form = d3.select("#vis_nav").append("form");
-			Labels = form.SelectAll("Label")
-			.data(Header_Names)
+			labels = form.selectAll("label")
+			.data(headerNames)
 			.enter()
 			.append("div")
 			.text(function(d) {return d;})
@@ -71,52 +71,52 @@ function LoadDimension(DataPath)
 	}
 
 	
-function getCheckedBoxes(Box_Name) 
+function getCheckedBoxes(chkboxClassName)
 	{
-  	 var Box = document.getElementsByClassName(Box_Name);
- 	 var Checkedboxes = [];
- 	 for (var i=0; i<Box.length; i++) 
+  	 var checkboxes = document.getElementsByClassName(chkboxClassName);
+ 	 var checkboxesChecked = [];
+ 	 for (var i=0; i<checkboxes.length; i++) 
 		 {
-    		 if (Box[i].checked) {Checkedboxes.push(Box[i]);}
+    		 if (checkboxes[i].checked) {checkboxesChecked.push(checkboxes[i]);}
  	 	 }
-  	return Checkedboxes.length > 0 ? Checkedboxes : null;
+  	 return checkboxesChecked.length > 0 ? checkboxesChecked : null;
 	}
 
 	
 function updateData () 
 	{
-	if (FirstLoad)
+	if (firstTimeLoad)
 		{
-		FirstLoad = false;
+		firstTimeLoad = false;
 		return null;
 		}
 
-	var Check_Check = getCheck_Check("shape");
-	if (Check_Check == null) 
+	var checkedBoxes = getCheckedBoxes("shape");
+	if (checkedBoxes == null)
 		{
-		Check_Check = [];
+		checkedBoxes = [];
 		}
-  	if (Check_Check.length<2) 
+  	if (checkedBoxes.length<2)
 		{
 		alert("Please select at least 2 dimensions!" );
 		return null;
 		}
-	Selected_Dimensions = []
-	for (var i=0; i<Check_Check.length; i++) 
+	selectedDim = []
+	for (var i=0; i<checkedBoxes.length; i++) 
 		{
-	 	if (Check_Check[i].checked) 
+	 	if (checkedBoxes[i].checked) 
 			{
-			Selected_Dimensions.push(Check_Check[i].name);
+			selectedDim.push(checkedBoxes[i].name);
 			}
 		}
-	chart = d3.parsets().dimensions(Selected_Dimensions);
+	chart = d3.parsets().dimensions(selectedDim);
 	d3.select("#parallelset01").remove();
 	var vis = d3.select("#vis").append("svg")
 		.attr("id","parallelset01")
 		.attr("width", chart.width())
 		.attr("height", chart.height());
 
-	vis.datum(Data_Source).call(chart);
+	vis.datum(datasource).call(chart);
 	}
 
 function updateAll() 
@@ -124,7 +124,7 @@ function updateAll()
 	updateData();
 	}
 
-loadDimension(DataPath[0]);
+loadDimension(dataPath[0]);
 updateAll();
 
 </script>
