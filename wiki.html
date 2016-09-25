@@ -47,7 +47,11 @@ var partition = d3.layout.partition()
     .value(function(d) { return d.count; });
 
 var selectedDim = [];
-d3.csv(wiki4HE.csv, function(error, data) {
+var dataPath = ["wiki4HE"];
+
+function loadDimension(newDataPath) {
+	  ndataPath = "./data/"+newDataPath+".csv";
+		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
 												headerNames = d3.keys(data[0]);
 												datasource = data;
 												var form = d3.select("#vis_nav").append("form");
@@ -65,6 +69,7 @@ d3.csv(wiki4HE.csv, function(error, data) {
 													});
 
 											});
+}
 function getCheckedBoxes(chkboxClassName) {
   var checkboxes = document.getElementsByClassName(chkboxClassName);
   var checkboxesChecked = [];
