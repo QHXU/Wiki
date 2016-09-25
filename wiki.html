@@ -91,22 +91,22 @@ function updateData ()
 		return null;
 		}
 
-	var Checked = getChecked("shape");
-	if (Checked == null) 
+	var Check_Check = getCheck_Check("shape");
+	if (Check_Check == null) 
 		{
-		Checked = [];
+		Check_Check = [];
 		}
-  	if (Checked.length<2) 
+  	if (Check_Check.length<2) 
 		{
 		alert("Please select at least 2 dimensions!" );
 		return null;
 		}
 	Selected_Dimensions = []
-	for (var i=0; i<Checked.length; i++) 
+	for (var i=0; i<Check_Check.length; i++) 
 		{
-	 	if (Checked[i].checked) 
+	 	if (Check_Check[i].checked) 
 			{
-			Selected_Dimensions.push(Checked[i].name);
+			Selected_Dimensions.push(Check_Check[i].name);
 			}
 		}
 	chart = d3.parsets().dimensions(Selected_Dimensions);
@@ -116,7 +116,7 @@ function updateData ()
 		.attr("width", chart.width())
 		.attr("height", chart.height());
 
-	vis.datum(datasource).call(chart);
+	vis.datum(Data_Source).call(chart);
 	}
 
 function updateAll() 
