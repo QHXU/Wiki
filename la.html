@@ -49,9 +49,10 @@ var selectedDim = [];
 var dataPath = ["wiki4HE"];
 
 
-function loadDimension(DataPath) {
-	  Data_Path = "./data/"+DataPath+".csv";
-		var nav_canvas =	d3.csv(Data_Path, function(error, data) {
+
+function loadDimension(newDataPath) {
+	  ndataPath = "./data/"+newDataPath+".csv";
+		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
 												headerNames = d3.keys(data[0]);
 												datasource = data;
 												// Create the shape selectors
@@ -74,6 +75,13 @@ function loadDimension(DataPath) {
 
 }
 
+function loadData(newDataPath) {
+	  ndataPath = "./data/"+newDataPath+".csv";
+		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
+												headerNames = d3.keys(data[0]);
+												datasource = data;
+											});
+}
 
 // Pass the checkbox name to the function
 function getCheckedBoxes(chkboxClassName) {
@@ -136,4 +144,5 @@ loadDimension(dataPath[0]);
 updateAll();
 
 </script>
+
 
