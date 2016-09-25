@@ -46,12 +46,12 @@ var partition = d3.layout.partition()
     .value(function(d) { return d.count; });
 
 var selectedDim = [];
-var dataPath = ["wiki4HE"];
+var DataPath = ["wiki4HE"];
 
 
 function loadDimension(DataPath) {
-	  ndataPath = "./data/"+DataPath+".csv";
-		var nav_canvas =	d3.csv(ndataPath, function(error, data) {
+	  Data_Path = "./data/"+DataPath+".csv";
+		var nav_canvas =	d3.csv(Data_Path, function(error, data) {
 												headerNames = d3.keys(data[0]);
 												datasource = data;
 												// Create the shape selectors
